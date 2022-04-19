@@ -34,12 +34,6 @@ Our schema encompasses data pertaining to members of the public, law enforcement
 Imagine a police force where all corrupt agents can be easily identified and perhaps even used without their knowledge to reach the criminals, imagine being able to determine all individuals belonging to these organisations and their structure, imagine the ability to determine location hotspots for criminal recruiting, and subsequently being able to implement government programmes to pacify such regions, in essence cutting these organisations from their supply of henchmen.
 Implementing such a tool could allow a drastic reduction in the number of illicit activities and thus lead to a safer and more righteous society.
 
-Other additions: 
-
- - **Data**: Give context for the dataset used and give full access to judges if publicly available or metadata otherwise. 
- - **Technology Stack**: Describe technologies and programming languages used. 
- - **Visuals**: Feel free to include other images or videos to better demonstrate your work.
- - Link websites or applications if needed to demonstrate your work. 
 
 ## Dependencies
 
@@ -47,22 +41,13 @@ This project requires the schema to be setup and mapped to the correct CSV files
 
 ## Installation
 
-Please give detailed instructions on installing, configuring, and running the project so judges can fully replicate and assess it. 
+Please follow the steps below to access and run our project.
 
-This can include:
 1. Clone repository to your local machine
-2. Create Schema in Tiger Graph based on Entity Relationship Diagram here: https://lucid.app/lucidchart/c71e9a03-b7f5-42c4-94ea-2e47151c60b3/edit?invitationId=inv_fda602b8-18cf-4157-a747-9c1d4b91e781&page=0_0#
+2. Create Schema in Tiger Graph based on Entity Relationship Diagram here: https://lucid.app/lucidchart/d96baedb-af78-451e-94b0-4280f7f729ec/edit?invitationId=inv_56e1a98e-557b-45a1-be90-a7c8c64a5ca7
 3. Map the data file CSV's located in the "Data" folder to the Nodes and Edges
-4. Copy and Paste the GSQL queries in the GSQL folder into the XXX
+4. Copy and Paste the GSQL queries in the GSQL folder into the Tiger Graph query editor and run them.
 
 ## Known Issues and Future Improvements
 
-Explain known liminations within the project and potential next steps. 
-
-## Reflections
-
-Review the steps you took to create this project and the resources you were provided. Feel free to indiciate room for improvement and general reflections.
-
-## References
-
-Please give credit to other projects, videos, talks, people, and other sources that have inspired and influenced your project. 
+The synthetic data was randomised and as a result it was difficult to show insights for everything. Future improvements include having access to real organised crime data. 
