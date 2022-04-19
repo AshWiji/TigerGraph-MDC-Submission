@@ -41,7 +41,7 @@ This project requires the schema to be setup and mapped to the correct CSV files
 Please follow the steps below to access and run our project.
 
 1. Clone repository to your local machine
-2. Create Schema in Tiger Graph based on Entity Relationship Diagram here: https://lucid.app/lucidchart/d96baedb-af78-451e-94b0-4280f7f729ec/edit?invitationId=inv_56e1a98e-557b-45a1-be90-a7c8c64a5ca7
+2. Import the "export_540093243.tar" into Graph Studio to get Graph Schema and Data Mapping
 3. Map the data file CSV's located in the "Data" folder to the Nodes and Edges
 4. Copy and Paste the GSQL queries in the GSQL folder into the Tiger Graph query editor and run them.
 
