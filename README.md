@@ -3,7 +3,7 @@ Anti-Mafia Network Analytics Platform
 
 
 # Anti-Mafia Network Analytics Platform
-**Contributers and Contact Information: [ ]**
+**Contributers and Contact Information**
 Sebastian Coles sebastiancoles@kubrickgroup.com
 William McCreery williammccreery@kubrickgroup.com
 Gilson Aquino gilsonaquino@kubrickgroup.com
@@ -11,7 +11,7 @@ Katie Pegrum katiepegrum@kubrickgroup.com
 Ashley Wijesuriya ashleywijesuriya@kubrickgroup.com
 
 
-**Problem Statement addressed (or explain your own): [ ]**
+**Problem Statement **
 
 Criminal organisations are responsible for various illicit activities, which inevitably result in a reduced safety to the general public, as well as costing the government billions in damages every year. Unfortunately, the members, structure and overall reach of such organisations are very difficult to identify, a problem which is further exacerbated by the fact that many members of these organisations have been infiltrated within law enforcement agencies with the goal of facilitating their endeavours.
 
