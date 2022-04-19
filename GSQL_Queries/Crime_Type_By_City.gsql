@@ -1,0 +1,9 @@
+CREATE QUERY Crime_Type_By_City() FOR GRAPH Mafia { 
+
+  MapAccum <STRING, SumAccum<INT>> @CrimeCount; 
+  
+  result = SELECT L from Crimes:C - () - Locations:L
+  ACCUM L.@CrimeCount += (C.Crime_Type -> 1);
+  
+  PRINT result;
+}

@@ -1,0 +1,11 @@
+CREATE QUERY Mafia_Boss_Per_Bank() FOR GRAPH Mafia { 
+  
+  SumAccum<INT> @no_bosses_at_bank;
+  
+  result = SELECT b from Bank:b - () - Mafia_Boss_Transactions:mb - () - MAFIA_Individuals:m
+  WHERE m.Rank == "Boss"
+  ACCUM b.@no_bosses_at_bank += 1
+  ORDER BY b.@no_bosses_at_bank DESC;
+  
+  PRINT result;
+}

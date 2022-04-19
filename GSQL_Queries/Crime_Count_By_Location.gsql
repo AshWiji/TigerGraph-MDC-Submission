@@ -1,0 +1,10 @@
+CREATE QUERY Crime_Count_By_Location() FOR GRAPH Mafia { 
+  SumAccum <INT> @crime_in_locations;
+
+  
+  result = SELECT l from Locations:l - () - Crimes:c - () - MAFIA_Individuals:m
+  ACCUM l.@crime_in_locations += 1
+  ORDER BY l.@crime_in_locations Desc;
+
+  PRINT result;
+  }

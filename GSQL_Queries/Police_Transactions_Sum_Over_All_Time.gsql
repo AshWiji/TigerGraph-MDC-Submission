@@ -1,0 +1,9 @@
+CREATE QUERY Police_Transactions_Sum_Over_All_Time() FOR GRAPH Mafia { 
+  
+  SumAccum<INT> @transactions;
+
+  result = SELECT P from Police:P - () - Police_Tranactions:T
+  ACCUM P.@transactions += str_to_int(T.Transferred_Value)
+  ORDER BY P.@transactions DESC;
+  PRINT result;
+}

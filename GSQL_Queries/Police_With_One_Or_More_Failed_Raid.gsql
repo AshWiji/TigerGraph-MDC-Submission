@@ -1,0 +1,11 @@
+CREATE QUERY Police_With_One_Or_More_Failed_Raid() FOR GRAPH Mafia { 
+  
+  SetAccum<Vertex<Police>> @raided;
+  
+  result = SELECT p from Raid:r - () - Police:p
+  WHERE r.Sucessful == "No"
+  ACCUM p.@raided += r
+  HAVING p.@raided.size() > 1;
+  
+  PRINT result;
+}

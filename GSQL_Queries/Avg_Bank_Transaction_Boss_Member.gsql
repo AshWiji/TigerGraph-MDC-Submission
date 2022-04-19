@@ -1,0 +1,12 @@
+CREATE QUERY Avg_Bank_Transaction_Mafia_Boss() FOR GRAPH Mafia { 
+
+  AvgAccum @Avg_Boss_Transactions;
+  
+  result = SELECT b from Bank:b - () - Mafia_Boss_Transactions:t
+
+  ACCUM b.@Avg_Boss_Transactions += str_to_int(t.Transferred_Value)
+  
+  ORDER BY b.@Avg_Boss_Transactions DESC;
+  
+  PRINT result;
+}

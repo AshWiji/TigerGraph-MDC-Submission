@@ -1,0 +1,10 @@
+CREATE QUERY Sum_Of_Police_Transactions_With_Mafia_Connections() FOR GRAPH Mafia { 
+  
+  SumAccum<INT> @transactions;
+
+  result = SELECT P from MAFIA_Individuals:M - () - Police:P - () - Police_Tranactions:T
+  ACCUM P.@transactions += str_to_int(T.Transferred_Value)
+  ORDER BY P.@transactions DESC;
+  
+  PRINT result; 
+}

@@ -1,0 +1,18 @@
+CREATE QUERY Corruption_By_City() FOR GRAPH Mafia { 
+
+  SumAccum <FLOAT> @CorruptionCount;
+  MaxAccum <FLOAT> @@MaxCorruption;
+  SumAccum <FLOAT> @NormCorruption;
+  
+  result = SELECT L from Crimes:C - () - Locations:L
+  Where C.Crime_Type == "corruption of public officials"
+  ACCUM L.@CorruptionCount += 1
+  POST-ACCUM @@MaxCorruption += L.@CorruptionCount;
+  
+  
+  Corruption_Index = SELECT S from result:S
+  POST-ACCUM S.@NormCorruption +=  S.@CorruptionCount / @@MaxCorruption
+  ORDER BY S.@NormCorruption DESC;
+  
+  PRINT Corruption_Index;
+}
