@@ -20,9 +20,6 @@ As it stands it would seem that law enforcement agencies are having a tough time
 
 **Description**: 
 
-Explain what your project is trying to accomplish and how you utilized graph technology to achieve those goals. 
-Describe how your submission is relevant to the problem statement and why it is impactful to the world. Remember to link your submission video here. 
-
 Serious and organised crime is estimated to cost the UK economy at least £37 billion a year, hence the public funds which would be freed up as a result of identify and disrupting members of these organisations can be repurposed towards projects that can improve quality of life and infrastructure.
 
 A major activity undertaken by these criminal organisations  is drug trafficking, this inevitably leads to thousands of people succumbing to addiction. As such, reducing the illegal import of drugs would inevitably result in an increase in public health, as well as increased workforce participation from individuals who might have otherwise become addicts. Furthermore, reduction in the occurrence of violent crimes would make for a safer environment for the general public.
