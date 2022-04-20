@@ -1,0 +1,2001 @@
+,Raid_ID,Date,Region,City,Successful,Arrests,Lead_Officer_ID,First_Name,Last_Name
+0,BEN31423,2009-01-09,Campania,Benevento,Yes,3,CPA651793355,Rosario,Bruno
+1,RAG08695,2008-07-14,Sicily,Ragusa,No,0,SCY143955181,Matilde,Bruno
+2,CAL51650,2010-06-12,Sicily,Caltanissetta,No,0,SCY775325921,Matilde,Marchetti
+3,CAS21276,2004-06-15,Campania,Caserta,Yes,8,CPA451933001,Lapo,Bruno
+4,CAS07385,2018-01-26,Campania,Caserta,Yes,4,CPA332343263,Emanuele,Rossi
+5,SYR69966,2003-03-15,Sicily,Syracuse,Yes,14,SCY274659722,Asia,Conti
+6,SAL24423,2018-06-18,Campania,Salerno,No,0,CPA701428714,Roberto,Bruno
+7,PAL89596,2008-12-08,Sicily,Palermo,Yes,12,SCY421802688,Michele,Greco
+8,ACR26296,2020-03-23,Calabria,Acri,No,0,CLA232095341,Cosimo,D'amico
+9,PAL90937,2004-05-08,Sicily,Palermo,No,0,SCY462036596,Debora,Rossi
+10,AVE51292,2016-08-23,Campania,Avellino,No,0,CPA62929790,Noemi,Rizzi
+11,REN26554,2005-01-11,Calabria,Rende,No,0,CLA842193920,Eva,Bianco
+12,BEN35335,2007-05-21,Campania,Benevento,Yes,1,CPA482940158,Ernesto,Marino
+13,CAS01522,2006-09-01,Campania,Caserta,Yes,19,CPA567250935,Gioele,Greco
+14,NAP27598,2015-05-19,Campania,Naples,No,0,CPA380441698,Dario,Rossetti
+15,VIT24476,2003-01-28,Sicily,Vittoria,No,0,SCY737574839,Eugenia,Basile
+16,BEN19286,2015-04-25,Campania,Benevento,No,0,CPA907976441,Emma,Marino
+17,FOG13942,2004-03-24,Puglia,Foggia,Yes,17,PGA442371466,Gabriele,Rinaldi
+18,LEC47371,2008-01-24,Puglia,Lecce,Yes,13,PGA867789763,Domenico,Vitali
+19,NAP16415,2003-09-06,Campania,Naples,No,0,CPA988793870,Valentino,Bianco
+20,PAL01568,2020-06-09,Sicily,Palermo,Yes,14,SCY429207867,Ernesto,Russo
+21,COS71615,2003-12-28,Calabria,Cosenza,No,0,CLA172412448,Marco,Sanna
+22,CAT09314,2005-03-02,Calabria,Catanzaro,No,0,CLA997153432,Giuliano,Costa
+23,BEN29945,2019-04-06,Campania,Benevento,Yes,19,CPA409653661,Ruggero,Bruno
+24,SAL88131,2019-10-04,Campania,Salerno,No,0,CPA676340135,Emilio,Bianco
+25,BEN37391,2008-04-04,Campania,Benevento,No,0,CPA598127412,Gioia,Santoro
+26,CAS23414,2005-09-28,Campania,Caserta,No,0,CPA480358557,Federico,Palumbo
+27,SAL57715,2011-05-31,Campania,Salerno,Yes,10,CPA373172226,Gioele,Martinelli
+28,AND87713,2008-12-03,Puglia,Andria,Yes,15,PGA344174326,Luca,Guerra
+29,NAP22137,2000-05-06,Campania,Naples,No,0,CPA23391877,Simone,Barone
+30,GEL58095,2020-03-24,Sicily,Gela,No,0,SCY714283656,Eugenia,Martini
+31,CAS53465,2017-02-28,Calabria,Castrovillari,No,0,CLA403869546,Rosa,Milani
+32,CAT99934,2010-12-14,Sicily,Catania,No,0,SCY613010140,Filippo,Marini
+33,CAT39859,2007-08-13,Calabria,Catanzaro,No,0,CLA650669341,Paolo,Bruno
+34,BAR18494,2000-12-07,Puglia,Bari,No,0,PGA912604713,Angelo,Vitale
+35,AND72435,2003-06-24,Puglia,Andria,Yes,9,PGA905005479,Ilaria,Rizzo
+36,MAR35414,2004-04-23,Sicily,Marsala,Yes,6,SCY659110373,Gianluca,Bruno
+37,MAR03014,2014-03-30,Sicily,Marsala,Yes,14,SCY213827324,Massimiliano,Silvestri
+38,ACR98300,2003-11-25,Calabria,Acri,No,0,CLA188278650,Tullia,Bruno
+39,NAP03471,2013-12-08,Campania,Naples,Yes,9,CPA200043642,Dario,Silvestri
+40,MAR29187,2006-01-04,Sicily,Marsala,No,0,SCY305597757,Salvo,Morelli
+41,COR97745,2007-06-25,Calabria,Corigliano-Rossano,No,0,CLA1699576,Giuliano,Galli
+42,CRO43765,2018-10-12,Calabria,Crotone,No,0,CLA863477918,Bianca,De Santis
+43,COS45781,2021-08-16,Calabria,Cosenza,Yes,17,CLA548315628,Sabina,Rossi
+44,CRO40180,2002-06-27,Calabria,Crotone,No,0,CLA330248193,Alberto,De Luca
+45,CAS15943,2005-05-05,Campania,Caserta,Yes,9,CPA379077900,Susanna,Greco
+46,BEN76256,2013-01-19,Campania,Benevento,No,0,CPA330031029,Amelia,Gentile
+47,AVE03603,2001-08-25,Campania,Avellino,No,0,CPA774926749,Francesco,Caruso
+48,SYR78268,2003-01-01,Sicily,Syracuse,No,0,SCY391413129,Lapo,Conti
+49,AND31686,2007-08-17,Puglia,Andria,Yes,14,PGA633463176,Iole,Valentini
+50,TAR67513,2004-12-31,Puglia,Taranto,No,0,PGA598226251,Paolo,Martini
+51,SYR05496,2004-09-11,Sicily,Syracuse,No,0,SCY950915435,Benedetta,Rossi
+52,MAR70258,2009-08-18,Sicily,Marsala,No,0,SCY132023615,Asia,Gentile
+53,VIT87474,2012-05-12,Sicily,Vittoria,No,0,SCY125125412,Stella,Bianchi
+54,MON34064,2009-06-25,Calabria,Montalto Uffugo,No,0,CLA99552154,Elisa,Ferrara
+55,SAL51154,2016-11-17,Campania,Salerno,No,0,CPA754652693,Pasquale,Bruno
+56,CAL87368,2019-05-28,Sicily,Caltanissetta,No,0,SCY461306509,Andrea,Santoro
+57,MON62977,2018-12-18,Calabria,Montalto Uffugo,No,0,CLA973626475,Riccardo,Rossi
+58,BEN73701,2015-11-06,Campania,Benevento,No,0,CPA860315190,Federico,Martinelli
+59,NAP82771,2004-08-31,Campania,Naples,Yes,5,CPA43327465,Ferdinando,Milani
+60,VIT80292,2018-04-11,Sicily,Vittoria,Yes,18,SCY482982853,Cristian,Greco
+61,LEC68532,2010-10-21,Puglia,Lecce,Yes,16,PGA798028206,Dafne,Conti
+62,SAL21224,2010-10-15,Campania,Salerno,No,0,CPA153130864,Aldo,Orlando
+63,CAT61620,2012-05-04,Calabria,Catanzaro,Yes,13,CLA686369916,Guido,Sala
+64,CAT28366,2013-08-05,Sicily,Catania,No,0,SCY984529582,Barbara,Bruno
+65,CAS18689,2020-11-06,Campania,Caserta,No,0,CPA484191382,Laura,De Santis
+66,LEC96726,2014-01-30,Puglia,Lecce,No,0,PGA357040105,Adele,Silvestri
+67,NAP15572,2016-01-01,Campania,Naples,No,0,CPA195596417,Ruggero,Santoro
+68,TAR32819,2015-03-09,Puglia,Taranto,No,0,PGA3188632,Nives,Sanna
+69,MON41979,2009-07-12,Calabria,Montalto Uffugo,Yes,18,CLA890002044,Alfredo,Greco
+70,TRA14357,2009-04-06,Sicily,Trapani,No,0,SCY874136990,Paolo,Bianco
+71,CAT20566,2013-11-12,Calabria,Catanzaro,Yes,15,CLA214788236,Gabriella,Ricci
+72,ACR62194,2010-08-05,Calabria,Acri,Yes,9,CLA478936881,Rocco,Greco
+73,COS39859,2020-03-05,Calabria,Cosenza,No,0,CLA228003269,Ferdinando,Leone
+74,MES33646,2005-01-11,Sicily,Messina,No,0,SCY351838771,Saverio,Martini
+75,ACR32868,2007-11-03,Calabria,Acri,Yes,9,CLA365972891,Ezio,Rossi
+76,FOG73679,2000-06-30,Puglia,Foggia,No,0,PGA846615306,Elvira,Santoro
+77,CAT49386,2006-05-28,Sicily,Catania,Yes,11,SCY934177255,Alfredo,Ferri
+78,CAT98922,2020-07-24,Sicily,Catania,No,0,SCY221319341,Stella,Bianco
+79,RAG37429,2000-09-10,Sicily,Ragusa,Yes,10,SCY852757693,Roberto,Fabbri
+80,NAP30443,2022-02-21,Campania,Naples,Yes,7,CPA362201199,Giada,Bianco
+81,COS53766,2018-05-31,Calabria,Cosenza,No,0,CLA854453731,Stefania,Bruno
+82,TRA85583,2010-08-07,Sicily,Trapani,No,0,SCY437854036,Maurizio,Lombardo
+83,CAS53836,2021-07-18,Calabria,Castrovillari,No,0,CLA559324344,Pietro,Testa
+84,REN48031,2000-10-31,Calabria,Rende,No,0,CLA403694057,Marco,Neri
+85,NAP18056,2012-06-25,Campania,Naples,No,0,CPA261006791,Alessia,Bianco
+86,NAP54865,2012-12-30,Campania,Naples,Yes,1,CPA522813652,Salvo,Bruno
+87,SAL26047,2021-01-18,Campania,Salerno,Yes,1,CPA440825245,Antonio,Moretti
+88,PAL18425,2020-04-24,Sicily,Palermo,Yes,12,SCY590725915,Dario,Mancini
+89,BEN21315,2020-11-12,Campania,Benevento,No,0,CPA454403940,Bruno,Costa
+90,TRA48214,2008-02-06,Sicily,Trapani,No,0,SCY8520976,Zeno,Marino
+91,FOG01122,2009-06-29,Puglia,Foggia,No,0,PGA721736703,Vincenzo,Santoro
+92,SAL47925,2019-12-05,Campania,Salerno,No,0,CPA610047862,Gianluca,Leone
+93,LAM77984,2021-08-22,Calabria,Lamezia Terme,No,0,CLA588909597,Marco,Greco
+94,MAR77972,2015-07-15,Sicily,Marsala,No,0,SCY350863099,Diego,Rossi
+95,CAS93552,2010-01-31,Campania,Caserta,No,0,CPA149292566,Raffaele,Ferrari
+96,CAT47363,2009-01-14,Sicily,Catania,No,0,SCY900092800,Adriano,Santoro
+97,CAT26968,2011-08-19,Calabria,Catanzaro,No,0,CLA185471455,Alessandra,Bernardi
+98,SAL50967,2010-05-01,Campania,Salerno,No,0,CPA750091952,Barbara,Bruno
+99,AND74418,2002-05-04,Puglia,Andria,Yes,14,PGA794342581,Cristian,Ferrari
+100,CAT85696,2006-01-20,Sicily,Catania,No,0,SCY168911382,Andrea,Ferri
+101,VIT26887,2008-08-04,Sicily,Vittoria,No,0,SCY782795367,Filippo,Fabbri
+102,SYR90493,2020-02-17,Sicily,Syracuse,No,0,SCY658493933,Maria,Messina
+103,GEL23176,2016-09-13,Sicily,Gela,No,0,SCY648305189,Salvo,Bianco
+104,RAG49996,2006-01-28,Sicily,Ragusa,Yes,12,SCY874110960,Fioretta,Marini
+105,BEN89842,2007-09-05,Campania,Benevento,Yes,14,CPA933092302,Fabrizio,Pagano
+106,BEN07158,2006-12-22,Campania,Benevento,No,0,CPA965942547,Ernesto,Gatti
+107,CAS06281,2006-07-16,Calabria,Castrovillari,Yes,17,CLA459333983,Rosario,Benedetti
+108,NAP08879,2005-02-21,Campania,Naples,Yes,2,CPA760644869,Barbara,Sanna
+109,VIT01711,2021-05-10,Sicily,Vittoria,No,0,SCY937072149,Noemi,Bianco
+110,CAS70373,2016-08-02,Campania,Caserta,No,0,CPA272075237,Mirco,Orlando
+111,CAS89106,2014-06-11,Campania,Caserta,No,0,CPA928406811,Massimo,Greco
+112,CAS54462,2002-09-23,Campania,Caserta,Yes,19,CPA776377265,Donatella,Marini
+113,BEN63471,2012-08-03,Campania,Benevento,Yes,6,CPA974364182,Daniele,Grasso
+114,LAM65205,2019-01-08,Calabria,Lamezia Terme,No,0,CLA751165124,Tullia,Gentile
+115,REN08385,2020-01-20,Calabria,Rende,No,0,CLA667044799,Fioretta,Costa
+116,BEN36308,2002-09-15,Campania,Benevento,No,0,CPA635341872,Giovanni,Bruno
+117,BEN03614,2018-05-18,Campania,Benevento,Yes,2,CPA658098468,Ezio,Milani
+118,COS36052,2022-01-15,Calabria,Cosenza,No,0,CLA924863348,Bianca,Santoro
+119,NAP95118,2020-09-17,Campania,Naples,No,0,CPA909225786,Silvio,Bruno
+120,FOG44794,2004-07-16,Puglia,Foggia,No,0,PGA395163089,Gianluca,Rizzo
+121,NAP93449,2006-10-25,Campania,Naples,Yes,9,CPA439031621,Giovanna,Greco
+122,MES01824,2003-08-29,Sicily,Messina,Yes,10,SCY343177788,Raul,Ferraro
+123,CAT25291,2009-03-13,Calabria,Catanzaro,No,0,CLA396216224,Salvo,Bruno
+124,LAM07153,2018-02-04,Calabria,Lamezia Terme,No,0,CLA772728913,Samuele,Bianco
+125,LAM69364,2006-08-14,Calabria,Lamezia Terme,Yes,11,CLA999091723,Sara,Ferrara
+126,VIB64562,2000-05-02,Calabria,Vibo Valentia,Yes,14,CLA603344874,Alessandra,Rossetti
+127,CRO83209,2009-01-01,Calabria,Crotone,No,0,CLA880459962,Eleonora,Mariani
+128,SAL94079,2003-04-16,Campania,Salerno,No,0,CPA889738066,Lorenzo,Bruno
+129,LEC68563,2003-11-30,Puglia,Lecce,No,0,PGA240503336,Simona,Greco
+130,NAP61998,2002-01-31,Campania,Naples,Yes,1,CPA621541758,Corrado,Ferrari
+131,ACR46908,2020-05-17,Calabria,Acri,Yes,3,CLA783670744,Martina,Bruno
+132,CAL05006,2000-01-05,Sicily,Caltanissetta,Yes,7,SCY641452490,Leonardo,Bianco
+133,RAG42390,2004-12-13,Sicily,Ragusa,Yes,4,SCY948034361,Francesca,Montanari
+134,BAR29451,2019-08-19,Puglia,Bari,No,0,PGA244773916,Claudio,Leone
+135,TAR43550,2006-09-13,Puglia,Taranto,Yes,17,PGA739851632,Sofia,D'amico
+136,COR42117,2002-12-25,Calabria,Corigliano-Rossano,No,0,CLA494813623,Antonello,Caruso
+137,SYR36896,2004-08-01,Sicily,Syracuse,No,0,SCY302773302,Giovanni,Rossi
+138,VIB13791,2001-09-06,Calabria,Vibo Valentia,Yes,1,CLA777612629,Walter,Vitali
+139,COR80336,2011-08-03,Calabria,Corigliano-Rossano,No,0,CLA897742481,Vincenzo,Neri
+140,BEN95520,2002-04-22,Campania,Benevento,Yes,10,CPA79659714,Ruggero,Bruno
+141,AND86210,2004-12-02,Puglia,Andria,Yes,18,PGA806242940,Ilaria,Greco
+142,CAT13715,2021-08-18,Sicily,Catania,No,0,SCY576122411,Filippo,Bruno
+143,VIB35190,2011-07-09,Calabria,Vibo Valentia,No,0,CLA185898255,Mattia,Neri
+144,VIT87552,2002-11-30,Sicily,Vittoria,No,0,SCY835902662,Roberto,Bruno
+145,VIT43776,2000-03-22,Sicily,Vittoria,Yes,12,SCY168655695,Gioia,Grasso
+146,CAS51319,2005-04-12,Calabria,Castrovillari,No,0,CLA844702915,Riccardo,Bianchi
+147,COR48418,2012-09-21,Calabria,Corigliano-Rossano,Yes,3,CLA331077540,Raffaello,Bianco
+148,VIB11288,2000-10-12,Calabria,Vibo Valentia,No,0,CLA766638609,Erica,Fiore
+149,MAR99762,2018-09-03,Sicily,Marsala,No,0,SCY13920055,Fausto,Romano
+150,COS43301,2014-10-17,Calabria,Cosenza,No,0,CLA924157444,Elettra,Barbieri
+151,AVE09851,2021-08-12,Campania,Avellino,No,0,CPA664563829,Gioia,Bianco
+152,SYR57701,2009-11-27,Sicily,Syracuse,Yes,14,SCY385748858,Fioretta,Santoro
+153,BEN31377,2016-06-16,Campania,Benevento,No,0,CPA385120036,Miriam,Greco
+154,MAR35373,2006-05-15,Sicily,Marsala,Yes,2,SCY940112045,Marta,Mazza
+155,AVE74145,2005-05-14,Campania,Avellino,Yes,2,CPA775955121,Martina,Ricci
+156,COS60966,2022-01-02,Calabria,Cosenza,No,0,CLA776134374,Saverio,Battaglia
+157,GEL80798,2016-06-28,Sicily,Gela,Yes,12,SCY260653287,Sergio,Mariani
+158,REG07091,2006-09-07,Calabria,Reggio Calabria,Yes,11,CLA721243930,Mirco,Rossi
+159,CAT40145,2005-08-31,Sicily,Catania,Yes,14,SCY217026081,Emma,Testa
+160,SAL93579,2005-04-28,Campania,Salerno,No,0,CPA834075997,Beatrice,Russo
+161,VIT90194,2017-08-06,Sicily,Vittoria,No,0,SCY716440042,Marzia,Conte
+162,BEN60054,2003-01-01,Campania,Benevento,No,0,CPA121629157,Sebastiano,Bruno
+163,ACR22341,2013-01-28,Calabria,Acri,No,0,CLA446393567,Davide,Longo
+164,NAP25373,2010-11-05,Campania,Naples,Yes,7,CPA990620988,Bianca,Villa
+165,AVE63281,2014-01-31,Campania,Avellino,No,0,CPA524949321,Benedetta,Russo
+166,CAS13126,2007-01-20,Campania,Caserta,No,0,CPA254747608,Rocco,De Luca
+167,COS70217,2007-03-19,Calabria,Cosenza,No,0,CLA888624187,Giorgia,Grasso
+168,PAL04991,2018-11-02,Sicily,Palermo,No,0,SCY570503834,Maria,Bianco
+169,GEL36780,2005-02-06,Sicily,Gela,Yes,12,SCY736564232,Ruggero,Romano
+170,GEL30686,2003-10-01,Sicily,Gela,No,0,SCY556877650,Elisa,Bruno
+171,REN39596,2003-01-22,Calabria,Rende,No,0,CLA722306376,Raffaello,Bruno
+172,FOG78108,2002-01-12,Puglia,Foggia,No,0,PGA680526205,Cristian,Vitale
+173,CAT88586,2016-02-23,Sicily,Catania,Yes,16,SCY333082797,Cristian,Bruno
+174,AVE02788,2009-11-14,Campania,Avellino,Yes,1,CPA196361597,Simone,Rossi
+175,NAP50428,2007-12-10,Campania,Naples,No,0,CPA529989413,Ruggero,Caruso
+176,FOG14127,2006-11-26,Puglia,Foggia,No,0,PGA546085274,Ernesto,Lombardi
+177,TRA11175,2021-11-10,Sicily,Trapani,No,0,SCY143909470,Sabina,Santoro
+178,CAS07202,2017-06-24,Campania,Caserta,No,0,CPA783006905,Andrea,Bruno
+179,COR52713,2012-07-12,Calabria,Corigliano-Rossano,Yes,11,CLA415208203,Massimo,Conti
+180,REN37438,2017-07-13,Calabria,Rende,No,0,CLA26695188,Simona,Lombardi
+181,VIT31605,2000-11-24,Sicily,Vittoria,No,0,SCY190000323,Rocco,Bruno
+182,COS58165,2014-04-03,Calabria,Cosenza,Yes,12,CLA538760554,Livia,Bruno
+183,BEN47694,2021-09-10,Campania,Benevento,No,0,CPA795407612,Marco,Bernardi
+184,MON75079,2016-09-18,Calabria,Montalto Uffugo,Yes,16,CLA325498315,Fabrizio,Ricci
+185,SYR19759,2000-05-11,Sicily,Syracuse,Yes,3,SCY733800809,Alma,Longo
+186,REN85469,2020-06-14,Calabria,Rende,No,0,CLA807162478,Mario,Conte
+187,SAL19394,2010-02-16,Campania,Salerno,No,0,CPA721076780,Elisa,Sanna
+188,CAL99068,2019-07-17,Sicily,Caltanissetta,No,0,SCY731228451,Antonello,Bianco
+189,REG43702,2009-08-29,Calabria,Reggio Calabria,No,0,CLA625935908,Ruggero,Conte
+190,CAS53750,2007-02-16,Calabria,Castrovillari,No,0,CLA536147837,Ruggero,Ferrari
+191,BEN35324,2000-09-05,Campania,Benevento,Yes,18,CPA461844466,Edoardo,D'angelo
+192,MES36080,2007-07-11,Sicily,Messina,No,0,SCY659746529,Edoardo,Bruno
+193,BEN85950,2005-01-31,Campania,Benevento,Yes,15,CPA567632266,Livia,Rossi
+194,REN25566,2008-12-14,Calabria,Rende,No,0,CLA38093417,Vito,Bruno
+195,TRA93852,2003-07-29,Sicily,Trapani,Yes,6,SCY303423150,Zeno,Ferrari
+196,BEN96093,2010-02-19,Campania,Benevento,No,0,CPA616254350,Francesca,Barbieri
+197,TAR51993,2012-03-24,Puglia,Taranto,Yes,16,PGA544247403,Paola,Greco
+198,COR33061,2007-04-23,Calabria,Corigliano-Rossano,No,0,CLA903478090,Paola,Messina
+199,NAP92132,2001-06-28,Campania,Naples,Yes,12,CPA531466391,Sabina,Bruno
+200,COS15451,2013-03-31,Calabria,Cosenza,Yes,4,CLA11062323,Alessandro,Costa
+201,MES73961,2008-07-24,Sicily,Messina,Yes,5,SCY511974924,Stella,Marini
+202,BEN67934,2004-12-05,Campania,Benevento,No,0,CPA767623540,Livia,Santoro
+203,TRA11859,2016-03-08,Sicily,Trapani,No,0,SCY874136990,Paolo,Bianco
+204,REG35997,2019-08-20,Calabria,Reggio Calabria,No,0,CLA890567557,Ernesto,Greco
+205,CAT87365,2000-10-10,Calabria,Catanzaro,No,0,CLA431425007,Viola,Russo
+206,SYR99415,2019-12-31,Sicily,Syracuse,Yes,10,SCY694727861,Zeno,Carbone
+207,AVE07009,2015-07-04,Campania,Avellino,No,0,CPA801978677,Alessandra,Piras
+208,AVE58214,2019-08-13,Campania,Avellino,No,0,CPA295599728,Davide,Pellegrini
+209,BEN48281,2004-11-18,Campania,Benevento,Yes,1,CPA931910214,Cosimo,Bellini
+210,CAT65484,2013-10-31,Calabria,Catanzaro,No,0,CLA958960634,Luca,Bruno
+211,PAL98778,2015-09-30,Sicily,Palermo,Yes,12,SCY385723490,Adele,Greco
+212,COS59113,2016-03-15,Calabria,Cosenza,Yes,7,CLA886492143,Susanna,Basile
+213,PAL17367,2006-03-05,Sicily,Palermo,Yes,15,SCY354543529,Felice,Rossi
+214,CAS62867,2000-03-12,Campania,Caserta,Yes,13,CPA584404674,Lorenzo,Greco
+215,CRO22082,2000-11-06,Calabria,Crotone,No,0,CLA877117293,Antonia,Ferri
+216,PAL62035,2001-02-25,Sicily,Palermo,Yes,17,SCY747932848,Rocco,Rossi
+217,VIT51573,2010-08-30,Sicily,Vittoria,Yes,17,SCY60962287,Matilde,Fontana
+218,MON65680,2007-06-22,Calabria,Montalto Uffugo,No,0,CLA659200140,Ruggero,Palumbo
+219,CAS51176,2000-11-23,Campania,Caserta,No,0,CPA975850993,Gianluca,Fiore
+220,COR85221,2003-12-03,Calabria,Corigliano-Rossano,No,0,CLA23692682,Neri,Fabbri
+221,BAR40704,2016-10-14,Puglia,Bari,No,0,PGA111682658,Camilla,De Luca
+222,LAM81626,2022-01-08,Calabria,Lamezia Terme,No,0,CLA204173016,Renato,Bruno
+223,AND88640,2005-01-25,Puglia,Andria,Yes,11,PGA529223604,Antonia,D'angelo
+224,SYR59682,2007-07-27,Sicily,Syracuse,Yes,4,SCY399878315,Saverio,Morelli
+225,GEL19057,2012-04-25,Sicily,Gela,No,0,SCY176605458,Camillo,Bellini
+226,GEL56017,2001-11-11,Sicily,Gela,Yes,4,SCY307387026,Raffaella,Romano
+227,FOG09450,2019-07-23,Puglia,Foggia,No,0,PGA613500801,Patrizio,De Santis
+228,SAL50342,2000-04-09,Campania,Salerno,No,0,CPA46869897,Augusto,Santoro
+229,CRO17249,2006-05-02,Calabria,Crotone,No,0,CLA533863861,Angelo,Pagano
+230,MES14069,2016-02-20,Sicily,Messina,Yes,3,SCY892608960,Paolo,Longo
+231,CAS40028,2021-03-10,Campania,Caserta,No,0,CPA509867070,Massimo,Bruno
+232,REG08953,2011-02-05,Calabria,Reggio Calabria,No,0,CLA3687979,Pasquale,Giordano
+233,SYR63733,2009-08-31,Sicily,Syracuse,No,0,SCY511522466,Raul,Russo
+234,GEL55759,2001-06-13,Sicily,Gela,Yes,19,SCY226587282,Beatrice,Greco
+235,CAS84362,2018-02-04,Calabria,Castrovillari,Yes,8,CLA232108945,Gianluca,Bruno
+236,RAG80034,2001-03-06,Sicily,Ragusa,No,0,SCY215088144,Diego,Bianco
+237,CAS09019,2000-06-12,Campania,Caserta,Yes,6,CPA901596724,Sebastiano,Martinelli
+238,CRO94550,2002-10-23,Calabria,Crotone,Yes,7,CLA67439203,Massimiliano,Bruno
+239,CAL43548,2011-10-24,Sicily,Caltanissetta,Yes,14,SCY847239062,Gioele,Greco
+240,REG31078,2007-12-17,Calabria,Reggio Calabria,No,0,CLA311525603,Bernardo,Moretti
+241,CAS28523,2009-09-06,Calabria,Castrovillari,Yes,11,CLA943407410,Francesca,Costa
+242,VIT58676,2011-03-31,Sicily,Vittoria,No,0,SCY367673646,Nicola,Fiore
+243,AND86015,2009-01-03,Puglia,Andria,No,0,PGA519512782,Monica,Vitale
+244,AVE88991,2005-11-03,Campania,Avellino,No,0,CPA85869107,Matteo,Battaglia
+245,CAS09190,2004-07-19,Campania,Caserta,Yes,19,CPA429683360,Camilla,Marchetti
+246,GEL80217,2000-09-11,Sicily,Gela,No,0,SCY754759060,Valentino,Mancini
+247,SAL85118,2012-10-22,Campania,Salerno,No,0,CPA31922434,Andrea,Piras
+248,SYR35692,2021-11-05,Sicily,Syracuse,No,0,SCY439736818,Emma,Parisi
+249,COR06859,2019-05-07,Calabria,Corigliano-Rossano,Yes,18,CLA63494865,Niccolo,Bianco
+250,PAL34308,2017-09-29,Sicily,Palermo,No,0,SCY866584046,Edoardo,Russo
+251,ACR54011,2000-02-18,Calabria,Acri,Yes,7,CLA60389303,Mattia,Sanna
+252,SAL74025,2019-11-26,Campania,Salerno,Yes,14,CPA90603636,Lavinia,Sartori
+253,ACR80285,2014-03-16,Calabria,Acri,Yes,4,CLA178267579,Anna,Bruno
+254,AVE90365,2003-05-02,Campania,Avellino,Yes,15,CPA488956672,Gioia,Bianco
+255,SAL02674,2021-10-06,Campania,Salerno,No,0,CPA163472741,Felice,Bruno
+256,NAP21857,2006-09-16,Campania,Naples,Yes,12,CPA949973051,Tullia,Rossi
+257,VIB26171,2013-01-28,Calabria,Vibo Valentia,Yes,9,CLA41935661,Renato,Basile
+258,MAR75547,2006-03-02,Sicily,Marsala,Yes,19,SCY588192530,Salvo,Palumbo
+259,BEN14532,2004-03-27,Campania,Benevento,No,0,CPA534525263,Gabriele,Sanna
+260,AVE53235,2019-12-28,Campania,Avellino,Yes,5,CPA560008834,Dario,Greco
+261,NAP06820,2003-10-02,Campania,Naples,No,0,CPA600833969,Lavinia,Santoro
+262,BEN44137,2010-01-16,Campania,Benevento,No,0,CPA983867828,Mirco,Longo
+263,NAP22346,2018-11-10,Campania,Naples,Yes,15,CPA764708415,Valentino,Serra
+264,AND01378,2020-04-30,Puglia,Andria,No,0,PGA673059195,Umberto,Santoro
+265,CAL78454,2007-10-14,Sicily,Caltanissetta,No,0,SCY932560002,Fabrizio,Ricci
+266,BEN25053,2009-03-24,Campania,Benevento,No,0,CPA510537503,Giacomo,Sala
+267,BEN09399,2013-05-04,Campania,Benevento,Yes,7,CPA896551574,Ugo,Rossi
+268,TAR57840,2001-01-24,Puglia,Taranto,No,0,PGA153341678,Riccardo,Mazza
+269,SYR44046,2021-09-18,Sicily,Syracuse,Yes,14,SCY49795519,Cecilia,Ferrara
+270,MAR00615,2001-07-21,Sicily,Marsala,No,0,SCY54406974,Mauro,Bruno
+271,TRA86145,2013-03-02,Sicily,Trapani,No,0,SCY232065003,Carla,Mariani
+272,SAL46532,2022-02-16,Campania,Salerno,No,0,CPA821837669,Valentina,Russo
+273,NAP37709,2019-04-14,Campania,Naples,No,0,CPA525342914,Alfredo,Galli
+274,ACR85814,2008-12-16,Calabria,Acri,Yes,9,CLA556731182,Barbara,D'angelo
+275,RAG77201,2018-09-18,Sicily,Ragusa,Yes,12,SCY869543126,Vito,Rossi
+276,PAL71355,2011-09-07,Sicily,Palermo,Yes,7,SCY374111878,Rosario,Bianchi
+277,BAR87194,2008-06-04,Puglia,Bari,Yes,13,PGA644966147,Sara,Bruno
+278,MES79779,2018-12-17,Sicily,Messina,Yes,12,SCY437850439,Michele,Bruno
+279,NAP62101,2012-12-23,Campania,Naples,No,0,CPA390134337,Rosa,Bruno
+280,SAL54229,2004-03-06,Campania,Salerno,No,0,CPA867040046,Gioele,Santoro
+281,ACR09793,2014-07-14,Calabria,Acri,No,0,CLA362647940,Fausto,Russo
+282,CAL02768,2013-12-01,Sicily,Caltanissetta,No,0,SCY403642213,Giuliano,Rossi
+283,CAS57733,2006-10-31,Calabria,Castrovillari,No,0,CLA226157626,Cristian,Bianchi
+284,MON98574,2004-07-06,Calabria,Montalto Uffugo,Yes,17,CLA261814897,Alessio,Rizzo
+285,LEC46681,2001-02-15,Puglia,Lecce,Yes,4,PGA848283987,Nicola,Farina
+286,GEL50231,2017-08-24,Sicily,Gela,No,0,SCY246286193,Neri,D'amico
+287,VIB19647,2004-07-11,Calabria,Vibo Valentia,No,0,CLA195696065,Gioele,Costa
+288,CAS40957,2021-01-23,Campania,Caserta,Yes,3,CPA225122120,Walter,Bruno
+289,COS30941,2002-09-29,Calabria,Cosenza,No,0,CLA874850035,Rita,Greco
+290,TRA86048,2006-05-02,Sicily,Trapani,No,0,SCY541935617,Riccardo,Bruno
+291,CAT51685,2011-08-16,Sicily,Catania,No,0,SCY833446193,Antonella,De Santis
+292,REG94779,2019-06-08,Calabria,Reggio Calabria,No,0,CLA898909034,Ada,Caruso
+293,RAG86641,2018-04-07,Sicily,Ragusa,No,0,SCY630249051,Antonello,Russo
+294,TAR70700,2005-11-29,Puglia,Taranto,No,0,PGA419188715,Elio,Giuliani
+295,NAP84821,2013-03-03,Campania,Naples,No,0,CPA263151582,Alberto,Bruno
+296,ACR71266,2006-08-15,Calabria,Acri,Yes,9,CLA593328824,Salvatore,Rossi
+297,NAP43786,2013-01-11,Campania,Naples,No,0,CPA138672932,Luisa,Russo
+298,SAL31429,2018-02-15,Campania,Salerno,No,0,CPA53097254,Rosario,Bruno
+299,SAL45136,2009-10-24,Campania,Salerno,Yes,16,CPA4755626,Mauro,Gallo
+300,CAL00192,2011-07-14,Sicily,Caltanissetta,Yes,8,SCY896035464,Alessandra,Grasso
+301,CRO41741,2019-01-17,Calabria,Crotone,No,0,CLA879249374,Fausto,Guerra
+302,TRA39007,2010-02-21,Sicily,Trapani,No,0,SCY905904717,Rosario,De Luca
+303,SAL71829,2007-01-15,Campania,Salerno,Yes,2,CPA429535868,Alfredo,Bianco
+304,LAM88844,2019-03-26,Calabria,Lamezia Terme,Yes,14,CLA280312452,Margherita,Rizzi
+305,REG70172,2011-05-30,Calabria,Reggio Calabria,No,0,CLA629213167,Camillo,Marchetti
+306,AVE44995,2012-11-20,Campania,Avellino,Yes,1,CPA789789917,Fabrizio,Galli
+307,CAL70390,2011-07-28,Sicily,Caltanissetta,No,0,SCY994594756,Nicola,Marchetti
+308,BEN91012,2001-03-20,Campania,Benevento,No,0,CPA458681942,Eleonora,Pagano
+309,ACR87190,2009-09-30,Calabria,Acri,No,0,CLA677252016,Claudio,Bianco
+310,GEL69912,2011-01-27,Sicily,Gela,No,0,SCY246286193,Neri,D'amico
+311,MAR90522,2014-03-26,Sicily,Marsala,No,0,SCY870593867,Flavia,Russo
+312,MES68826,2013-04-27,Sicily,Messina,Yes,17,SCY67854769,Gioele,Greco
+313,CAT18368,2004-09-01,Sicily,Catania,No,0,SCY444482609,Aurora,Rossi
+314,VIT55454,2004-03-20,Sicily,Vittoria,Yes,10,SCY642285323,Sofia,Santoro
+315,RAG13205,2007-04-01,Sicily,Ragusa,No,0,SCY859231783,Claudia,Serra
+316,TRA04475,2018-06-08,Sicily,Trapani,No,0,SCY51334105,Rocco,Grasso
+317,NAP73084,2021-08-11,Campania,Naples,Yes,7,CPA905224001,Carlotta,D'amico
+318,CAL45354,2008-12-14,Sicily,Caltanissetta,Yes,15,SCY736210952,Ilaria,Esposito
+319,CAL15203,2017-08-31,Sicily,Caltanissetta,No,0,SCY950155764,Aldo,Fontana
+320,ACR82371,2014-06-29,Calabria,Acri,No,0,CLA199660360,Dafne,Bruno
+321,AVE65627,2017-03-17,Campania,Avellino,Yes,8,CPA391266060,Filippo,Santoro
+322,SAL58440,2007-09-04,Campania,Salerno,Yes,11,CPA403850731,Andrea,Greco
+323,NAP04122,2019-10-06,Campania,Naples,No,0,CPA533906462,Rebecca,Greco
+324,AVE08668,2019-01-28,Campania,Avellino,No,0,CPA792562270,Camillo,Pellegrino
+325,NAP69932,2003-09-05,Campania,Naples,Yes,6,CPA198347288,Saverio,Battaglia
+326,AVE78876,2005-01-10,Campania,Avellino,Yes,17,CPA277468956,Tullia,Sartori
+327,REN84525,2015-07-08,Calabria,Rende,No,0,CLA584497940,Fioretta,Conti
+328,MON86055,2008-04-19,Calabria,Montalto Uffugo,Yes,16,CLA695046994,Edoardo,Marini
+329,VIT71564,2003-12-13,Sicily,Vittoria,No,0,SCY843695532,Ernesto,Leone
+330,CAT81027,2002-09-07,Calabria,Catanzaro,Yes,3,CLA699958924,Sergio,Bianco
+331,COS03421,2021-07-31,Calabria,Cosenza,No,0,CLA611695261,Cosimo,Basile
+332,SAL50714,2011-03-20,Campania,Salerno,Yes,15,CPA284267684,Marco,Bruno
+333,REG05633,2019-08-15,Calabria,Reggio Calabria,No,0,CLA113814646,Adriano,Costa
+334,VIT22132,2002-08-22,Sicily,Vittoria,No,0,SCY45393148,Raffaello,Rossi
+335,BEN62360,2021-06-16,Campania,Benevento,No,0,CPA75632678,Vincenzo,Bianco
+336,REG48732,2017-01-21,Calabria,Reggio Calabria,Yes,15,CLA113765893,Salvo,Orlando
+337,CRO08382,2020-12-31,Calabria,Crotone,No,0,CLA756541817,Sara,Bruno
+338,NAP31113,2012-12-31,Campania,Naples,No,0,CPA244490329,Flavia,Rizzo
+339,SAL70763,2014-06-18,Campania,Salerno,No,0,CPA228520724,Fiorella,Ferrari
+340,PAL06384,2019-08-05,Sicily,Palermo,No,0,SCY994847571,Federico,Ferrari
+341,NAP69581,2005-12-19,Campania,Naples,No,0,CPA307859625,Bernardo,Rizzo
+342,AVE75901,2006-10-24,Campania,Avellino,No,0,CPA238811217,Patrizio,D'angelo
+343,PAL96342,2006-12-01,Sicily,Palermo,No,0,SCY742223500,Ilaria,Ricci
+344,REG76466,2014-05-06,Calabria,Reggio Calabria,No,0,CLA258667510,Biagio,Sanna
+345,BEN87089,2020-05-19,Campania,Benevento,Yes,14,CPA806569203,Luigi,Bruno
+346,CAS07549,2013-05-02,Calabria,Castrovillari,No,0,CLA204391992,Livia,Santoro
+347,BEN36198,2008-01-19,Campania,Benevento,Yes,8,CPA660269876,Corrado,Bruno
+348,RAG97052,2022-02-13,Sicily,Ragusa,Yes,19,SCY741582412,Ruggero,Bruno
+349,SAL18444,2019-11-09,Campania,Salerno,No,0,CPA248260074,Camillo,Fontana
+350,ACR84059,2013-01-03,Calabria,Acri,Yes,10,CLA846599793,Fioretta,Greco
+351,SAL26792,2002-04-21,Campania,Salerno,No,0,CPA122864903,Luigi,Bianco
+352,NAP26978,2018-07-01,Campania,Naples,No,0,CPA6665688,Amelia,Galli
+353,AVE86603,2011-01-25,Campania,Avellino,No,0,CPA172432005,Antonello,Greco
+354,MES37768,2011-01-01,Sicily,Messina,No,0,SCY926767885,Cecilia,Bianco
+355,ACR44019,2003-09-17,Calabria,Acri,No,0,CLA27809488,Augusto,Esposito
+356,VIT40447,2009-01-02,Sicily,Vittoria,Yes,18,SCY628317434,Alberto,Greco
+357,RAG79800,2010-10-02,Sicily,Ragusa,No,0,SCY255619881,Andrea,Bianchi
+358,BEN75078,2005-01-12,Campania,Benevento,Yes,7,CPA8463172,Giacomo,Greco
+359,REG33255,2010-11-12,Calabria,Reggio Calabria,Yes,5,CLA258718213,Tiziano,Santoro
+360,VIB55996,2015-07-31,Calabria,Vibo Valentia,Yes,9,CLA859287871,Andrea,Bruno
+361,REG65379,2012-09-10,Calabria,Reggio Calabria,Yes,11,CLA567833076,Tommaso,Bruno
+362,CAS95051,2020-11-25,Campania,Caserta,No,0,CPA79084798,Caterina,Rossi
+363,CAS66511,2006-04-20,Campania,Caserta,No,0,CPA124528303,Alessandro,Pellegrino
+364,BEN51273,2014-08-12,Campania,Benevento,Yes,19,CPA251615155,Felice,Gatti
+365,SYR13969,2011-09-04,Sicily,Syracuse,No,0,SCY808503556,Martina,Romano
+366,VIB89577,2019-11-16,Calabria,Vibo Valentia,No,0,CLA499387882,Valentina,Piras
+367,CAS96043,2012-01-17,Campania,Caserta,Yes,15,CPA249234441,Fioretta,Bianco
+368,AVE31251,2006-07-08,Campania,Avellino,No,0,CPA994909780,Neri,Sala
+369,AVE49792,2002-09-10,Campania,Avellino,Yes,8,CPA130166371,Gabriella,Mariani
+370,CAS27806,2008-11-04,Calabria,Castrovillari,Yes,11,CLA82827683,Mauro,Santoro
+371,LEC43023,2021-01-16,Puglia,Lecce,No,0,PGA873542566,Ferdinando,Bruno
+372,PAL16148,2017-09-13,Sicily,Palermo,Yes,15,SCY56957114,Guido,Bellini
+373,CAL68569,2010-03-25,Sicily,Caltanissetta,Yes,2,SCY73699288,Noemi,Caputo
+374,CAS93516,2002-08-08,Campania,Caserta,Yes,16,CPA856513617,Raul,Rizzo
+375,AVE03038,2010-01-17,Campania,Avellino,Yes,7,CPA208903385,Salvo,Bruno
+376,CAS18967,2007-01-28,Campania,Caserta,Yes,10,CPA524653597,Felice,Bruno
+377,NAP87787,2020-12-23,Campania,Naples,No,0,CPA978909236,Gioele,Ferraro
+378,SAL43569,2009-05-29,Campania,Salerno,No,0,CPA995084858,Andrea,Carbone
+379,AVE22939,2007-02-21,Campania,Avellino,No,0,CPA447037035,Isabella,Martinelli
+380,VIT58265,2011-12-08,Sicily,Vittoria,Yes,9,SCY133436313,Ruggero,Bianco
+381,VIB47569,2015-12-27,Calabria,Vibo Valentia,No,0,CLA204148303,Daniele,Ferrari
+382,LEC18261,2010-08-23,Puglia,Lecce,Yes,17,PGA39727137,Cristina,Longo
+383,MES14754,2011-04-01,Sicily,Messina,No,0,SCY888520681,Alfredo,D'amico
+384,NAP23277,2005-01-31,Campania,Naples,Yes,8,CPA394805501,Adriano,Leone
+385,MES17378,2008-03-13,Sicily,Messina,No,0,SCY15766733,Violante,Monti
+386,BAR81343,2006-10-27,Puglia,Bari,No,0,PGA985094957,Erica,Villa
+387,SAL93981,2018-03-01,Campania,Salerno,No,0,CPA415506762,Isabella,Mariani
+388,TRA33459,2008-06-17,Sicily,Trapani,No,0,SCY551807564,Paolo,Ferri
+389,CAT66093,2004-04-05,Sicily,Catania,Yes,3,SCY923188060,Marcello,De Santis
+390,CAT27334,2021-07-18,Sicily,Catania,No,0,SCY299176050,Mirco,Bruno
+391,CAS50606,2018-05-25,Campania,Caserta,No,0,CPA698553278,Vincenzo,Messina
+392,PAL60043,2019-08-27,Sicily,Palermo,Yes,19,SCY165468634,Niccolo,Santoro
+393,BEN44707,2015-06-27,Campania,Benevento,No,0,CPA518552001,Maurizio,Galli
+394,AVE31348,2001-07-13,Campania,Avellino,Yes,3,CPA289614956,Cristian,Bianchi
+395,NAP72179,2020-05-07,Campania,Naples,Yes,7,CPA986629763,Claudio,Ricci
+396,AVE45131,2008-10-30,Campania,Avellino,No,0,CPA997288415,Giulio,Ferraro
+397,SAL53795,2007-10-12,Campania,Salerno,No,0,CPA430207118,Ezio,Bruno
+398,SAL78589,2006-03-07,Campania,Salerno,No,0,CPA275503575,Filippo,Bruno
+399,AND46913,2013-05-07,Puglia,Andria,Yes,10,PGA92273078,Margherita,Ricci
+400,SAL38369,2014-01-02,Campania,Salerno,No,0,CPA851974365,Tommaso,Conte
+401,BEN61665,2009-11-09,Campania,Benevento,No,0,CPA578922197,Carla,D'angelo
+402,CAT59749,2012-06-10,Sicily,Catania,Yes,5,SCY55890082,Riccardo,Fabbri
+403,CAS43344,2017-01-30,Campania,Caserta,No,0,CPA210794714,Samuele,Benedetti
+404,TRA51694,2003-06-04,Sicily,Trapani,No,0,SCY364923571,Vito,Martinelli
+405,ACR81193,2018-04-04,Calabria,Acri,Yes,6,CLA235530739,Fabio,Greco
+406,TRA10268,2020-01-02,Sicily,Trapani,Yes,6,SCY889697665,Marco,Greco
+407,AND31064,2018-09-25,Puglia,Andria,No,0,PGA381652635,Benedetta,Santoro
+408,COS43245,2006-08-12,Calabria,Cosenza,No,0,CLA393749827,Rebecca,Martinelli
+409,TAR50576,2007-06-15,Puglia,Taranto,Yes,17,PGA62736230,Cecilia,Greco
+410,CAS03688,2003-09-14,Campania,Caserta,No,0,CPA703388841,Saverio,Pellegrino
+411,LEC97642,2017-06-18,Puglia,Lecce,Yes,3,PGA79711223,Emanuele,Bruno
+412,CRO73331,2007-03-13,Calabria,Crotone,Yes,10,CLA783403391,Alessandra,Testa
+413,MON89347,2003-03-15,Calabria,Montalto Uffugo,Yes,18,CLA189652070,Simone,D'angelo
+414,LEC33458,2003-05-09,Puglia,Lecce,Yes,12,PGA621722779,Emilio,Lombardi
+415,VIT96225,2000-11-24,Sicily,Vittoria,No,0,SCY140181648,Michele,Rizzi
+416,PAL74094,2015-10-18,Sicily,Palermo,No,0,SCY809146494,Samuele,Rinaldi
+417,CAS28177,2001-05-26,Calabria,Castrovillari,No,0,CLA487283731,Emiliano,Giordano
+418,BAR30383,2017-12-12,Puglia,Bari,Yes,4,PGA534999043,Niccolo,Santoro
+419,COS25108,2019-07-10,Calabria,Cosenza,No,0,CLA524204452,Giuliana,Bianco
+420,FOG19541,2013-03-15,Puglia,Foggia,No,0,PGA128459964,Carlo,Bianco
+421,SAL52113,2018-06-27,Campania,Salerno,Yes,17,CPA39383662,Rocco,Montanari
+422,BEN78696,2006-11-29,Campania,Benevento,No,0,CPA126767173,Massimiliano,Esposito
+423,CAT11701,2003-10-10,Sicily,Catania,No,0,SCY307367256,Andrea,Palumbo
+424,VIB77531,2003-11-21,Calabria,Vibo Valentia,Yes,1,CLA284802698,Ludovico,Bianco
+425,LEC17894,2020-11-18,Puglia,Lecce,No,0,PGA161384082,Rosario,Fiore
+426,PAL55994,2021-02-24,Sicily,Palermo,No,0,SCY172898822,Guido,Greco
+427,AVE95481,2013-03-19,Campania,Avellino,Yes,15,CPA34193933,Valentino,Bianchi
+428,PAL72985,2014-04-12,Sicily,Palermo,Yes,18,SCY491417252,Marta,Bruno
+429,TRA70026,2001-09-13,Sicily,Trapani,No,0,SCY425350889,Dafne,Neri
+430,SAL75698,2013-12-03,Campania,Salerno,No,0,CPA357804814,Nicoletta,Guerra
+431,BAR89063,2016-12-09,Puglia,Bari,No,0,PGA552120720,Agnese,Santoro
+432,NAP27778,2007-12-05,Campania,Naples,No,0,CPA280119300,Lavinia,Moretti
+433,SYR04248,2001-06-21,Sicily,Syracuse,No,0,SCY963148634,Cosimo,Conte
+434,BEN79209,2014-05-18,Campania,Benevento,No,0,CPA990548184,Ruggero,Gentile
+435,CRO35947,2012-01-23,Calabria,Crotone,No,0,CLA549271555,Violante,Santoro
+436,TAR38387,2018-09-09,Puglia,Taranto,No,0,PGA555026233,Debora,Longo
+437,RAG34712,2000-09-08,Sicily,Ragusa,Yes,3,SCY921758073,Rita,Santoro
+438,MON89458,2019-03-08,Calabria,Montalto Uffugo,Yes,10,CLA942159431,Emiliano,Marino
+439,VIB85864,2001-08-10,Calabria,Vibo Valentia,No,0,CLA559896660,Violante,De Luca
+440,LAM34689,2007-06-19,Calabria,Lamezia Terme,Yes,16,CLA977325199,Fabio,Moretti
+441,LEC07938,2011-09-06,Puglia,Lecce,No,0,PGA39727137,Cristina,Longo
+442,VIB65260,2015-12-06,Calabria,Vibo Valentia,No,0,CLA205196574,Marco,Russo
+443,LAM34202,2005-09-01,Calabria,Lamezia Terme,Yes,8,CLA741326085,Felice,Milani
+444,CAS87249,2005-01-09,Campania,Caserta,No,0,CPA752442381,Carla,Bruno
+445,SAL08906,2008-10-19,Campania,Salerno,Yes,1,CPA997612615,Simone,Bianchi
+446,COR39635,2001-09-22,Calabria,Corigliano-Rossano,No,0,CLA93069656,Valerio,Villa
+447,PAL14051,2012-04-11,Sicily,Palermo,No,0,SCY185551458,Carlo,Bruno
+448,VIT72515,2018-09-19,Sicily,Vittoria,No,0,SCY380924363,Stefano,Bianco
+449,VIT18248,2008-03-13,Sicily,Vittoria,No,0,SCY578623833,Maurizio,Montanari
+450,TAR13253,2008-07-24,Puglia,Taranto,Yes,12,PGA887133471,Giovanni,Santoro
+451,AND81386,2000-10-19,Puglia,Andria,No,0,PGA742986787,Francesco,Bruno
+452,COR19222,2016-07-04,Calabria,Corigliano-Rossano,Yes,13,CLA1339769,Davide,De Luca
+453,SYR33896,2014-02-20,Sicily,Syracuse,No,0,SCY331666656,Federico,Rinaldi
+454,FOG25457,2016-02-16,Puglia,Foggia,No,0,PGA484577777,Antonio,Bruno
+455,SYR81215,2019-06-26,Sicily,Syracuse,No,0,SCY882506581,Ginevra,Pellegrini
+456,CAT45664,2013-09-26,Sicily,Catania,Yes,5,SCY710094901,Raffaello,Costa
+457,CAT67870,2021-03-01,Calabria,Catanzaro,No,0,CLA885159118,Diego,Galli
+458,CAS87167,2008-10-15,Campania,Caserta,Yes,1,CPA722960142,Marco,Rizzo
+459,TRA40557,2006-05-30,Sicily,Trapani,Yes,15,SCY764411992,Massimo,Lombardo
+460,CAS79142,2002-04-21,Campania,Caserta,No,0,CPA462588017,Erica,Bianco
+461,MES36679,2005-07-01,Sicily,Messina,No,0,SCY374009573,Monica,Romano
+462,ACR04245,2008-07-05,Calabria,Acri,No,0,CLA120808416,Bernardo,Marino
+463,CAT87552,2002-04-30,Calabria,Catanzaro,Yes,5,CLA378833726,Carlo,Bianco
+464,REG05757,2002-09-03,Calabria,Reggio Calabria,No,0,CLA731512331,Cosimo,Martinelli
+465,PAL31978,2015-10-09,Sicily,Palermo,Yes,18,SCY215636164,Valentina,Barbieri
+466,CAS76687,2001-12-19,Campania,Caserta,No,0,CPA311021564,Elio,Bruno
+467,CAT05132,2009-07-02,Sicily,Catania,Yes,6,SCY469929755,Rebecca,Rossi
+468,MON02507,2020-08-06,Calabria,Montalto Uffugo,No,0,CLA881210123,Biagio,Rinaldi
+469,CAL63994,2010-02-27,Sicily,Caltanissetta,No,0,SCY954488697,Debora,Montanari
+470,SAL28273,2021-03-22,Campania,Salerno,No,0,CPA615567994,Vittorio,Vitali
+471,CAS42777,2007-07-05,Campania,Caserta,No,0,CPA606741979,Federico,Greco
+472,CAL81658,2008-03-13,Sicily,Caltanissetta,No,0,SCY395140231,Margherita,Bianco
+473,AND39113,2020-10-12,Puglia,Andria,Yes,5,PGA382233443,Donatella,Carbone
+474,CAL48212,2005-04-04,Sicily,Caltanissetta,Yes,9,SCY223950620,Dafne,Marchetti
+475,NAP21574,2007-12-18,Campania,Naples,No,0,CPA427936973,Maria,Marchetti
+476,MON56337,2006-03-13,Calabria,Montalto Uffugo,Yes,8,CLA970728764,Michele,De Rosa
+477,AND74110,2020-12-22,Puglia,Andria,Yes,11,PGA47842408,Pietro,Rossi
+478,AVE39782,2003-07-06,Campania,Avellino,Yes,15,CPA479854041,Guido,Fabbri
+479,CRO33112,2020-09-24,Calabria,Crotone,Yes,6,CLA158582175,Fabio,Bellini
+480,REG39400,2005-01-30,Calabria,Reggio Calabria,Yes,7,CLA794192587,Emma,Martini
+481,AND92767,2005-12-23,Puglia,Andria,Yes,15,PGA789405141,Fioretta,Monti
+482,LAM62436,2007-09-25,Calabria,Lamezia Terme,Yes,5,CLA746530403,Elisa,Valentini
+483,AVE49202,2004-04-10,Campania,Avellino,No,0,CPA21198436,Silvia,Fontana
+484,VIT06630,2013-06-26,Sicily,Vittoria,No,0,SCY837514704,Marcello,Greco
+485,BEN67181,2021-11-29,Campania,Benevento,Yes,16,CPA806569203,Luigi,Bruno
+486,CAS90617,2000-10-28,Campania,Caserta,Yes,2,CPA520733375,Caterina,Moretti
+487,CAS45309,2012-10-28,Campania,Caserta,No,0,CPA388215227,Ginevra,Rizzo
+488,AND15984,2016-01-15,Puglia,Andria,No,0,PGA72485072,Mattia,Bruno
+489,FOG75477,2004-06-03,Puglia,Foggia,Yes,2,PGA460454945,Fabrizio,Leone
+490,LAM79551,2018-11-29,Calabria,Lamezia Terme,No,0,CLA656563398,Saverio,Gentile
+491,ACR39964,2010-07-20,Calabria,Acri,Yes,4,CLA575784470,Nives,Marchetti
+492,MAR02106,2012-05-21,Sicily,Marsala,No,0,SCY923691368,Benedetta,Bianchi
+493,LAM27734,2019-09-22,Calabria,Lamezia Terme,Yes,15,CLA709653683,Diego,Costantini
+494,NAP03092,2017-11-27,Campania,Naples,Yes,19,CPA854762302,Ernesto,Bianco
+495,SYR69633,2016-01-28,Sicily,Syracuse,No,0,SCY517703608,Lorenza,Ferrari
+496,SAL27179,2013-10-19,Campania,Salerno,No,0,CPA287582475,Michele,Mariani
+497,SYR97631,2017-07-03,Sicily,Syracuse,No,0,SCY72825725,Zeno,Vitale
+498,SAL51388,2005-01-01,Campania,Salerno,No,0,CPA868402129,Davide,Gallo
+499,LEC46276,2011-04-08,Puglia,Lecce,No,0,PGA152857114,Giovanna,Gallo
+500,BEN21864,2001-06-18,Campania,Benevento,No,0,CPA449863274,Eugenia,Greco
+501,CAT29918,2008-08-05,Calabria,Catanzaro,Yes,16,CLA180506914,Alice,Piras
+502,AVE10572,2007-08-12,Campania,Avellino,No,0,CPA777554891,Massimiliano,Greco
+503,BAR40352,2003-02-09,Puglia,Bari,No,0,PGA851820126,Mirco,Bianco
+504,REN19226,2016-10-21,Calabria,Rende,Yes,7,CLA87375292,Neri,Gentile
+505,AVE88555,2002-09-26,Campania,Avellino,Yes,1,CPA726619377,Alberto,Bruno
+506,CAS64719,2018-07-11,Calabria,Castrovillari,No,0,CLA22797611,Lorenza,Bruno
+507,COR89087,2013-11-11,Calabria,Corigliano-Rossano,No,0,CLA996851657,Sergio,Fiore
+508,MES70034,2019-08-12,Sicily,Messina,Yes,19,SCY814133442,Edoardo,Bruno
+509,CAT45049,2009-10-26,Calabria,Catanzaro,Yes,16,CLA542849878,Adriano,Rossi
+510,MAR47852,2006-07-12,Sicily,Marsala,Yes,18,SCY718540584,Agnese,Valentini
+511,MES47457,2019-12-29,Sicily,Messina,Yes,7,SCY36660000,Giacomo,Moretti
+512,AVE84939,2017-07-14,Campania,Avellino,No,0,CPA106567963,Renato,Bruno
+513,CAS26819,2022-02-26,Campania,Caserta,No,0,CPA644824127,Massimo,Santoro
+514,AVE04894,2003-04-16,Campania,Avellino,No,0,CPA72583998,Biagio,Romano
+515,TRA32996,2013-10-15,Sicily,Trapani,Yes,11,SCY246877962,Gabriele,Gallo
+516,REN37377,2011-06-17,Calabria,Rende,No,0,CLA69332203,Alessio,Villa
+517,PAL40177,2009-07-17,Sicily,Palermo,No,0,SCY378706814,Roberto,Barbieri
+518,COR96030,2016-12-07,Calabria,Corigliano-Rossano,Yes,16,CLA450246508,Augusto,Bruno
+519,SAL09068,2002-01-22,Campania,Salerno,No,0,CPA844784621,Fabrizio,Vitali
+520,CRO52424,2021-05-24,Calabria,Crotone,Yes,11,CLA703534809,Giovanni,Grasso
+521,REN21821,2006-08-04,Calabria,Rende,No,0,CLA470299567,Rosa,Donati
+522,GEL93612,2010-10-08,Sicily,Gela,No,0,SCY508655794,Greta,Orlando
+523,ACR80543,2015-09-17,Calabria,Acri,Yes,12,CLA572970149,Mirco,D'angelo
+524,PAL51152,2009-07-20,Sicily,Palermo,No,0,SCY84448909,Antonio,Bianchi
+525,COS87937,2018-04-09,Calabria,Cosenza,No,0,CLA583563319,Raffaello,Mariani
+526,AVE32592,2004-11-14,Campania,Avellino,No,0,CPA10529504,Bernardo,Caputo
+527,NAP44326,2015-06-19,Campania,Naples,Yes,7,CPA159613951,Fabio,De Santis
+528,SYR30975,2008-02-15,Sicily,Syracuse,No,0,SCY831819993,Stefano,Russo
+529,CAS49286,2013-12-01,Campania,Caserta,No,0,CPA100694485,Mattia,D'amico
+530,REG39308,2021-05-17,Calabria,Reggio Calabria,Yes,3,CLA724718647,Caterina,Bruno
+531,MAR16483,2007-09-07,Sicily,Marsala,Yes,16,SCY582192197,Luigi,Ferraro
+532,SYR86111,2007-03-21,Sicily,Syracuse,No,0,SCY773806002,Erica,Ferraro
+533,VIT26814,2010-04-08,Sicily,Vittoria,No,0,SCY715736016,Biagio,Greco
+534,REG97735,2005-05-10,Calabria,Reggio Calabria,No,0,CLA278943154,Felice,Marchetti
+535,LAM18736,2020-10-18,Calabria,Lamezia Terme,No,0,CLA557032462,Samuele,Greco
+536,BEN36473,2008-01-09,Campania,Benevento,No,0,CPA207250670,Rocco,Giordano
+537,SAL99798,2010-08-30,Campania,Salerno,Yes,16,CPA437996014,Laura,Bruno
+538,NAP46504,2012-05-28,Campania,Naples,No,0,CPA589481062,Elvira,Greco
+539,VIB43393,2019-01-19,Calabria,Vibo Valentia,No,0,CLA957472646,Erica,Giordano
+540,SAL73451,2014-03-26,Campania,Salerno,No,0,CPA438860710,Neri,Caruso
+541,MON05329,2016-04-24,Calabria,Montalto Uffugo,No,0,CLA180701517,Giuliano,Bianco
+542,AVE70582,2019-07-20,Campania,Avellino,No,0,CPA531717306,Asia,Santoro
+543,VIB51086,2021-08-11,Calabria,Vibo Valentia,No,0,CLA619385977,Tommaso,Rizzi
+544,CAT90575,2000-09-18,Calabria,Catanzaro,Yes,5,CLA803569050,Dafne,Ferrara
+545,NAP79934,2001-05-16,Campania,Naples,No,0,CPA629025252,Stefania,Bruno
+546,VIT08548,2007-09-01,Sicily,Vittoria,Yes,7,SCY461176020,Pietro,Conti
+547,REG48881,2012-02-02,Calabria,Reggio Calabria,Yes,3,CLA752382526,Daniele,Mazza
+548,SYR41075,2011-02-21,Sicily,Syracuse,No,0,SCY604725644,Raffaello,Bruno
+549,NAP24889,2020-01-01,Campania,Naples,No,0,CPA66016867,Fabrizio,Santoro
+550,BAR39853,2020-12-24,Puglia,Bari,No,0,PGA279207112,Silvio,Bianco
+551,NAP86019,2006-01-08,Campania,Naples,Yes,13,CPA395904763,Leonardo,Bruno
+552,LEC95819,2014-06-21,Puglia,Lecce,No,0,PGA792287253,Massimiliano,Santoro
+553,AVE34715,2010-01-20,Campania,Avellino,No,0,CPA601642229,Leonardo,Costa
+554,CAT61925,2017-05-01,Calabria,Catanzaro,No,0,CLA621575137,Paola,Ricci
+555,VIT96811,2002-07-10,Sicily,Vittoria,Yes,6,SCY290574675,Noemi,Greco
+556,AVE20659,2011-03-23,Campania,Avellino,Yes,17,CPA803351590,Elena,Battaglia
+557,COR80693,2016-01-08,Calabria,Corigliano-Rossano,Yes,1,CLA16059180,Aldo,De Santis
+558,AVE04145,2001-07-06,Campania,Avellino,No,0,CPA442012504,Cosimo,Santoro
+559,VIT44389,2011-03-13,Sicily,Vittoria,Yes,13,SCY414998751,Dario,Greco
+560,MON04056,2016-05-24,Calabria,Montalto Uffugo,Yes,8,CLA801484273,Tommaso,Giordano
+561,CAT64489,2000-04-16,Calabria,Catanzaro,No,0,CLA199997664,Donatella,Monti
+562,SAL74140,2007-01-26,Campania,Salerno,Yes,11,CPA357804814,Nicoletta,Guerra
+563,SAL53322,2015-05-06,Campania,Salerno,Yes,9,CPA474137789,Renato,Lombardo
+564,SAL07882,2005-04-26,Campania,Salerno,Yes,9,CPA302029376,Fabrizio,Donati
+565,BEN58845,2022-03-14,Campania,Benevento,No,0,CPA606035506,Gioia,Bruno
+566,MES35613,2006-05-23,Sicily,Messina,No,0,SCY718545516,Federico,Greco
+567,REG21798,2016-08-01,Calabria,Reggio Calabria,No,0,CLA416929600,Vittoria,Greco
+568,AVE77283,2008-10-26,Campania,Avellino,No,0,CPA951630409,Ludovica,Bianchi
+569,NAP81401,2022-01-02,Campania,Naples,Yes,7,CPA690119718,Silvio,Pellegrino
+570,BEN16332,2009-03-17,Campania,Benevento,No,0,CPA643159171,Giuliana,Palumbo
+571,CAS83862,2003-02-14,Calabria,Castrovillari,No,0,CLA125182224,Lucia,Carbone
+572,TRA77190,2015-06-06,Sicily,Trapani,Yes,14,SCY507889496,Cristian,Silvestri
+573,REN66447,2006-05-15,Calabria,Rende,No,0,CLA314440711,Ernesto,Bianco
+574,VIB03134,2015-01-11,Calabria,Vibo Valentia,Yes,14,CLA506638916,Vito,Ferraro
+575,PAL75607,2020-05-28,Sicily,Palermo,Yes,2,SCY466151980,Ernesto,Romano
+576,NAP48409,2004-12-08,Campania,Naples,No,0,CPA741753821,Emiliano,Bianchi
+577,AVE94792,2015-08-15,Campania,Avellino,Yes,9,CPA820239724,Cecilia,Bianco
+578,RAG88267,2021-12-18,Sicily,Ragusa,No,0,SCY830261722,Patrizio,Gallo
+579,CAL68869,2019-10-20,Sicily,Caltanissetta,Yes,3,SCY426455115,Salvo,Santoro
+580,CAL04553,2015-10-21,Sicily,Caltanissetta,No,0,SCY890657910,Cecilia,Barbieri
+581,BAR26437,2000-07-30,Puglia,Bari,Yes,5,PGA678617442,Sergio,Rinaldi
+582,REG92539,2019-06-08,Calabria,Reggio Calabria,Yes,14,CLA474775985,Fulvio,Santoro
+583,PAL60640,2020-07-13,Sicily,Palermo,No,0,SCY660206411,Felice,Moretti
+584,CAL98533,2003-01-23,Sicily,Caltanissetta,Yes,17,SCY430803565,Ezio,Santoro
+585,NAP68847,2007-10-07,Campania,Naples,Yes,10,CPA172524566,Giuliano,Bianco
+586,CAL83484,2000-02-02,Sicily,Caltanissetta,No,0,SCY707504206,Rosa,Monti
+587,COR86174,2000-08-21,Calabria,Corigliano-Rossano,No,0,CLA257578991,Tiziano,Santoro
+588,CAL24781,2011-11-29,Sicily,Caltanissetta,No,0,SCY379981634,Tommaso,Santoro
+589,NAP68656,2016-06-29,Campania,Naples,No,0,CPA669470862,Ginevra,Palumbo
+590,TAR06603,2010-08-12,Puglia,Taranto,Yes,3,PGA464551025,Cristian,Vitale
+591,TRA25225,2001-11-12,Sicily,Trapani,Yes,5,SCY687619509,Vittoria,Bianco
+592,BEN56037,2003-09-03,Campania,Benevento,Yes,19,CPA625327495,Lavinia,Ricci
+593,CAL94786,2001-08-26,Sicily,Caltanissetta,No,0,SCY817917934,Roberto,Ruggiero
+594,BAR35120,2000-05-02,Puglia,Bari,No,0,PGA539982754,Giovanni,Rossi
+595,CAT56647,2021-11-05,Calabria,Catanzaro,No,0,CLA869017151,Diego,Santoro
+596,SYR78598,2007-11-26,Sicily,Syracuse,Yes,5,SCY86684603,Adele,Basile
+597,TRA15693,2003-11-19,Sicily,Trapani,Yes,14,SCY219724939,Anna,Bianchi
+598,CAT71750,2007-05-31,Calabria,Catanzaro,Yes,3,CLA540216554,Stefano,Barbieri
+599,REN28540,2016-05-02,Calabria,Rende,Yes,11,CLA80339429,Lucio,Russo
+600,BEN32170,2005-06-02,Campania,Benevento,Yes,3,CPA713756393,Francesco,Moretti
+601,REG98389,2015-04-18,Calabria,Reggio Calabria,No,0,CLA489516787,Mario,Serra
+602,CRO03566,2019-02-17,Calabria,Crotone,No,0,CLA977828757,Bernardo,Ferrari
+603,COR22870,2006-12-31,Calabria,Corigliano-Rossano,No,0,CLA58721668,Mauro,Bruno
+604,AVE83396,2001-06-02,Campania,Avellino,No,0,CPA772357760,Saverio,Rizzi
+605,MAR06622,2016-07-13,Sicily,Marsala,No,0,SCY3764591,Tommaso,Bianco
+606,FOG61083,2005-10-28,Puglia,Foggia,No,0,PGA894936441,Antonello,Ferrara
+607,FOG67712,2009-02-05,Puglia,Foggia,No,0,PGA685585623,Gaia,Rossi
+608,CAL52728,2002-08-22,Sicily,Caltanissetta,No,0,SCY752064300,Nicola,Sartori
+609,LAM76764,2009-07-21,Calabria,Lamezia Terme,No,0,CLA374372058,Diego,Marchetti
+610,LAM91024,2011-06-06,Calabria,Lamezia Terme,No,0,CLA189817977,Lucio,Bruno
+611,AVE06272,2011-08-23,Campania,Avellino,Yes,11,CPA426499540,Alessio,De Luca
+612,BAR74433,2012-11-16,Puglia,Bari,Yes,18,PGA437411018,Riccardo,Gallo
+613,BEN29790,2000-02-02,Campania,Benevento,No,0,CPA864791592,Daniele,Guerra
+614,GEL39867,2015-04-26,Sicily,Gela,No,0,SCY310735679,Lapo,Donati
+615,LAM12285,2018-02-20,Calabria,Lamezia Terme,No,0,CLA741326085,Felice,Milani
+616,CAS46906,2001-12-09,Campania,Caserta,Yes,13,CPA959333353,Daniele,Bianchi
+617,AVE83023,2014-09-06,Campania,Avellino,Yes,10,CPA510691981,Alfredo,Villa
+618,TAR18099,2000-09-01,Puglia,Taranto,No,0,PGA626877494,Edoardo,Russo
+619,CAT52696,2010-11-23,Sicily,Catania,Yes,15,SCY608323551,Leonardo,Testa
+620,TRA51633,2008-10-09,Sicily,Trapani,No,0,SCY850027511,Silvia,Mariani
+621,MON70091,2003-07-14,Calabria,Montalto Uffugo,No,0,CLA676245804,Maurizio,Santoro
+622,LAM62335,2002-07-07,Calabria,Lamezia Terme,Yes,2,CLA988757140,Marcello,Orlando
+623,CRO06449,2017-12-13,Calabria,Crotone,No,0,CLA590964248,Luigi,Bianco
+624,CRO38665,2010-07-20,Calabria,Crotone,Yes,18,CLA0201663,Giulio,Valentini
+625,CAS93109,2020-02-11,Campania,Caserta,No,0,CPA105737859,Ernesto,Bruno
+626,CAS21878,2006-12-07,Campania,Caserta,No,0,CPA325132911,Chiara,Bruno
+627,CAS49234,2021-09-10,Calabria,Castrovillari,No,0,CLA980612656,Maurizio,De Luca
+628,MON37345,2011-01-25,Calabria,Montalto Uffugo,Yes,1,CLA182100736,Marcello,Caputo
+629,REG89520,2015-03-12,Calabria,Reggio Calabria,Yes,8,CLA172009155,Elio,Villa
+630,COS69162,2013-09-12,Calabria,Cosenza,Yes,18,CLA397432565,Erica,Vitali
+631,AVE20260,2000-07-04,Campania,Avellino,No,0,CPA876814831,Samuele,De Luca
+632,SAL30126,2006-09-24,Campania,Salerno,No,0,CPA331065872,Fabrizio,Bellini
+633,LEC73210,2018-03-04,Puglia,Lecce,Yes,17,PGA549447578,Camillo,Giordano
+634,AVE78653,2010-04-17,Campania,Avellino,No,0,CPA333732852,Zeno,Pellegrini
+635,COS40511,2016-08-21,Calabria,Cosenza,No,0,CLA380154034,Giulio,Costantini
+636,MES52593,2006-02-23,Sicily,Messina,No,0,SCY520201317,Carlo,Rossi
+637,FOG18234,2018-05-27,Puglia,Foggia,No,0,PGA225104798,Luca,Marino
+638,SAL39674,2008-08-21,Campania,Salerno,Yes,3,CPA831900237,Bernardo,Greco
+639,LAM22005,2004-05-18,Calabria,Lamezia Terme,Yes,5,CLA293997171,Fabiana,Colombo
+640,SAL04602,2019-04-10,Campania,Salerno,No,0,CPA695931455,Nicola,Villa
+641,SYR41649,2022-02-24,Sicily,Syracuse,Yes,19,SCY761061484,Walter,Marchetti
+642,BEN03460,2015-04-15,Campania,Benevento,No,0,CPA251434323,Salvatore,Bruno
+643,SAL28396,2014-10-17,Campania,Salerno,No,0,CPA672892270,Aldo,Mazza
+644,BEN36696,2008-03-08,Campania,Benevento,No,0,CPA815424929,Stella,Greco
+645,COS55224,2004-08-23,Calabria,Cosenza,No,0,CLA249212898,Federico,Basile
+646,LAM05672,2004-05-12,Calabria,Lamezia Terme,Yes,16,CLA945508937,Corrado,Pellegrini
+647,MAR34551,2010-06-06,Sicily,Marsala,Yes,19,SCY409246759,Walter,Martini
+648,CAS82260,2018-05-15,Campania,Caserta,Yes,9,CPA175550084,Fulvio,Benedetti
+649,TRA11227,2015-07-23,Sicily,Trapani,Yes,4,SCY654063020,Azzurra,Costa
+650,VIB29034,2020-03-09,Calabria,Vibo Valentia,Yes,1,CLA16946084,Silvio,Giuliani
+651,AVE93398,2016-09-29,Campania,Avellino,Yes,3,CPA102855399,Vincenzo,Greco
+652,CRO25999,2004-04-09,Calabria,Crotone,No,0,CLA893742031,Raffaele,Gatti
+653,CAS42347,2009-05-05,Campania,Caserta,Yes,10,CPA774298844,Umberto,Vitale
+654,VIB80603,2003-11-03,Calabria,Vibo Valentia,Yes,10,CLA675592337,Angelo,Fontana
+655,CAS16588,2016-02-24,Calabria,Castrovillari,No,0,CLA256970771,Andrea,Pellegrino
+656,AVE22610,2000-01-10,Campania,Avellino,No,0,CPA290984256,Stella,Greco
+657,MON76231,2012-05-21,Calabria,Montalto Uffugo,No,0,CLA747026492,Angelo,Ferrari
+658,CRO93118,2004-07-25,Calabria,Crotone,No,0,CLA930955621,Ludovico,De Luca
+659,CAS03296,2005-08-22,Campania,Caserta,Yes,1,CPA393732003,Alessandro,Rossi
+660,CAS49604,2000-07-26,Campania,Caserta,No,0,CPA737370593,Saverio,Rossi
+661,REN85043,2006-03-13,Calabria,Rende,No,0,CLA620811191,Tiziano,Bruno
+662,TRA94092,2006-10-30,Sicily,Trapani,Yes,3,SCY226005113,Claudia,Bianco
+663,AVE88734,2005-10-22,Campania,Avellino,No,0,CPA180465228,Erica,Riva
+664,AVE06868,2019-01-22,Campania,Avellino,Yes,6,CPA891539328,Saverio,Giordano
+665,VIB21806,2015-07-10,Calabria,Vibo Valentia,No,0,CLA408480856,Tullio,Montanari
+666,AVE58447,2001-12-09,Campania,Avellino,Yes,9,CPA592084918,Ginevra,De Santis
+667,CRO44198,2019-05-18,Calabria,Crotone,Yes,8,CLA908635182,Saverio,Rossetti
+668,SAL33507,2006-12-24,Campania,Salerno,No,0,CPA745514470,Fausto,Carbone
+669,SYR69861,2013-07-01,Sicily,Syracuse,No,0,SCY391608513,Beatrice,Marini
+670,LAM22002,2000-08-06,Calabria,Lamezia Terme,No,0,CLA293845330,Cosimo,Santoro
+671,ACR00208,2013-10-08,Calabria,Acri,Yes,11,CLA901404548,Corrado,Marini
+672,NAP46167,2021-03-13,Campania,Naples,No,0,CPA876600896,Aldo,Bellini
+673,REN44106,2001-10-05,Calabria,Rende,No,0,CLA954368191,Giovanni,Sanna
+674,AVE87022,2015-08-26,Campania,Avellino,No,0,CPA971697753,Rita,Greco
+675,SAL49337,2013-01-31,Campania,Salerno,Yes,8,CPA843164849,Tiziano,Romano
+676,MAR50014,2014-02-18,Sicily,Marsala,No,0,SCY566294026,Claudio,Longo
+677,COR11386,2004-06-17,Calabria,Corigliano-Rossano,No,0,CLA855077410,Sabina,Rossi
+678,BEN46871,2010-02-15,Campania,Benevento,Yes,17,CPA395198828,Flavia,Greco
+679,SAL70525,2018-08-24,Campania,Salerno,Yes,4,CPA252721485,Fabiana,Bruno
+680,ACR72235,2002-12-20,Calabria,Acri,Yes,16,CLA366060800,Giulio,Bruno
+681,CAT14991,2011-08-03,Calabria,Catanzaro,No,0,CLA66273679,Carlo,Bruno
+682,NAP30316,2004-03-10,Campania,Naples,Yes,18,CPA226037108,Adriano,Galli
+683,VIB06409,2020-06-08,Calabria,Vibo Valentia,Yes,1,CLA135290882,Vincenzo,Caputo
+684,BEN54072,2018-12-15,Campania,Benevento,Yes,15,CPA657363335,Filippo,Ferraro
+685,CAT67012,2007-12-14,Calabria,Catanzaro,No,0,CLA277883772,Lorenzo,Russo
+686,NAP80093,2006-01-20,Campania,Naples,Yes,5,CPA910348962,Eva,Greco
+687,CRO10353,2013-02-22,Calabria,Crotone,Yes,3,CLA916302025,Giovanni,Bruno
+688,MES52338,2014-10-20,Sicily,Messina,Yes,9,SCY288345719,Umberto,Damico
+689,REG38859,2009-02-11,Calabria,Reggio Calabria,Yes,9,CLA215351352,Augusto,De Luca
+690,NAP51405,2004-03-12,Campania,Naples,No,0,CPA218933107,Federico,Vitale
+691,COR88962,2009-02-22,Calabria,Corigliano-Rossano,No,0,CLA521717605,Tommaso,Caputo
+692,AND80584,2009-09-12,Puglia,Andria,Yes,5,PGA984432924,Tommaso,Bianchi
+693,NAP73395,2000-12-14,Campania,Naples,Yes,12,CPA769756254,Samuele,Marini
+694,AVE66585,2007-06-13,Campania,Avellino,No,0,CPA707670666,Federico,Gatti
+695,NAP88768,2001-05-23,Campania,Naples,No,0,CPA823625632,Davide,Caputo
+696,AVE48725,2016-02-27,Campania,Avellino,No,0,CPA672093634,Carlotta,Bruno
+697,CRO74534,2015-11-09,Calabria,Crotone,Yes,2,CLA673011443,Nicoletta,Bruno
+698,VIB41452,2009-05-18,Calabria,Vibo Valentia,Yes,13,CLA204148303,Daniele,Ferrari
+699,COS27943,2015-06-02,Calabria,Cosenza,Yes,13,CLA687638352,Patrizio,Neri
+700,MES18667,2007-11-26,Sicily,Messina,Yes,11,SCY861975001,Federica,Bruno
+701,RAG36529,2002-11-30,Sicily,Ragusa,Yes,15,SCY73450953,Valentino,Santoro
+702,AVE39696,2004-08-24,Campania,Avellino,No,0,CPA519585544,Gioele,Parisi
+703,CAT00107,2006-06-17,Calabria,Catanzaro,Yes,17,CLA681501311,Barbara,Russo
+704,BAR71125,2020-12-09,Puglia,Bari,No,0,PGA201380606,Fabrizio,Martini
+705,TRA06552,2003-11-23,Sicily,Trapani,No,0,SCY832296127,Sergio,Romano
+706,BEN81473,2019-11-24,Campania,Benevento,Yes,9,CPA71079761,Simone,Gallo
+707,MAR60728,2007-08-20,Sicily,Marsala,Yes,13,SCY415678688,Raffaele,Valentini
+708,CAS24622,2014-11-08,Campania,Caserta,Yes,17,CPA140574507,Ruggero,Martini
+709,ACR31683,2001-09-08,Calabria,Acri,Yes,14,CLA265471900,Domenico,Greco
+710,BEN14151,2006-03-30,Campania,Benevento,Yes,8,CPA539785059,Paolo,Barbieri
+711,CAS87895,2021-10-07,Campania,Caserta,No,0,CPA441909020,Rosa,Russo
+712,NAP97834,2006-08-14,Campania,Naples,No,0,CPA703541343,Francesco,Costa
+713,COS07159,2005-02-18,Calabria,Cosenza,No,0,CLA188779765,Giuliano,Bianco
+714,LAM96509,2009-07-25,Calabria,Lamezia Terme,Yes,4,CLA417886323,Pasquale,Ferrari
+715,SAL82892,2001-04-21,Campania,Salerno,No,0,CPA541460200,Benedetta,Rossi
+716,ACR90066,2020-02-21,Calabria,Acri,No,0,CLA279190571,Sabina,Lombardi
+717,CAT24774,2017-12-22,Calabria,Catanzaro,Yes,13,CLA451836966,Erica,Greco
+718,REN70662,2011-12-05,Calabria,Rende,No,0,CLA209598518,Michele,Bianco
+719,BEN84811,2006-02-08,Campania,Benevento,No,0,CPA407896145,Adriano,Fabbri
+720,CRO40639,2018-07-07,Calabria,Crotone,No,0,CLA371628736,Paola,Mazza
+721,CAT17700,2010-02-27,Sicily,Catania,No,0,SCY58996020,Simona,Greco
+722,CAS11332,2020-05-01,Campania,Caserta,Yes,11,CPA848189883,Valentino,Lombardi
+723,CAT33505,2009-04-24,Calabria,Catanzaro,No,0,CLA949309430,Fulvio,Bianco
+724,MAR05101,2020-09-27,Sicily,Marsala,No,0,SCY599952637,Flavia,Bruno
+725,SAL56127,2004-07-05,Campania,Salerno,Yes,18,CPA136441032,Guido,Greco
+726,SYR41891,2012-07-10,Sicily,Syracuse,No,0,SCY746864017,Gioia,Bruno
+727,VIB12369,2015-12-22,Calabria,Vibo Valentia,Yes,1,CLA576018737,Lavinia,Bernardi
+728,CRO26659,2019-08-06,Calabria,Crotone,Yes,6,CLA292049923,Marco,Bianchi
+729,BEN60715,2001-12-31,Campania,Benevento,No,0,CPA330425287,Antonello,Morelli
+730,NAP59992,2011-04-03,Campania,Naples,Yes,1,CPA364232222,Silvio,Ferrari
+731,CAS85121,2021-07-08,Calabria,Castrovillari,No,0,CLA643417415,Raffaele,Donati
+732,NAP07914,2015-03-14,Campania,Naples,Yes,3,CPA416492041,Patrizio,Carbone
+733,BEN93352,2005-10-16,Campania,Benevento,No,0,CPA338180708,Rita,Bruno
+734,VIB65954,2011-08-01,Calabria,Vibo Valentia,No,0,CLA957472646,Erica,Giordano
+735,AVE64612,2006-09-29,Campania,Avellino,Yes,2,CPA872044080,Salvatore,Damico
+736,VIB14022,2002-03-24,Calabria,Vibo Valentia,No,0,CLA304505286,Elena,Vitali
+737,AVE27845,2009-08-25,Campania,Avellino,No,0,CPA378117840,Aldo,Fontana
+738,CAS82426,2016-06-18,Calabria,Castrovillari,Yes,6,CLA186851507,Giulia,Rizzo
+739,MAR61676,2009-06-15,Sicily,Marsala,No,0,SCY165935649,Ferdinando,Ferrari
+740,NAP85355,2009-11-28,Campania,Naples,No,0,CPA421275843,Ferdinando,Palmieri
+741,CAL77315,2003-12-17,Sicily,Caltanissetta,No,0,SCY321633652,Tommaso,Russo
+742,COS13802,2021-02-05,Calabria,Cosenza,No,0,CLA610378162,Vittoria,Damico
+743,CAS38442,2007-08-05,Campania,Caserta,No,0,CPA175550084,Fulvio,Benedetti
+744,CAS25280,2008-01-29,Campania,Caserta,Yes,14,CPA821825096,Marco,D'angelo
+745,CAS20346,2014-12-19,Calabria,Castrovillari,No,0,CLA90458165,Ezio,Greco
+746,BEN09395,2006-12-22,Campania,Benevento,No,0,CPA258757905,Angelo,Bruno
+747,BAR62534,2000-03-14,Puglia,Bari,No,0,PGA22519213,Ilaria,Bellini
+748,CAL97205,2010-07-25,Sicily,Caltanissetta,No,0,SCY212792553,Rocco,Bianco
+749,ACR35769,2003-12-31,Calabria,Acri,No,0,CLA353348284,Matteo,Parisi
+750,RAG26555,2020-05-18,Sicily,Ragusa,No,0,SCY492683808,Alfredo,Giordano
+751,REN62823,2004-01-01,Calabria,Rende,No,0,CLA631412603,Lorenzo,Ferrari
+752,FOG68095,2004-10-18,Puglia,Foggia,Yes,2,PGA624489006,Diego,Villa
+753,BEN60286,2010-12-21,Campania,Benevento,No,0,CPA25793757,Alessia,Rizzo
+754,SAL61205,2004-05-25,Campania,Salerno,Yes,14,CPA669528217,Dario,Conti
+755,COS25778,2018-10-10,Calabria,Cosenza,Yes,9,CLA21590671,Raffaella,Greco
+756,VIB76230,2009-08-30,Calabria,Vibo Valentia,Yes,1,CLA389823623,Domenico,Rizzo
+757,BEN67478,2014-08-15,Campania,Benevento,Yes,5,CPA478800366,Giulio,Greco
+758,SAL59152,2008-04-17,Campania,Salerno,Yes,15,CPA29138100,Sebastiano,Silvestri
+759,VIT20367,2014-09-24,Sicily,Vittoria,Yes,14,SCY191266954,Giacomo,Orlando
+760,MON73063,2019-09-16,Calabria,Montalto Uffugo,Yes,15,CLA191912273,Costanza,Bruno
+761,TAR63434,2007-10-12,Puglia,Taranto,No,0,PGA854811392,Corrado,Barbieri
+762,AVE10623,2001-02-09,Campania,Avellino,Yes,6,CPA746439773,Barbara,Amato
+763,GEL85646,2001-02-28,Sicily,Gela,Yes,11,SCY217990491,Augusto,Palumbo
+764,NAP93430,2009-06-27,Campania,Naples,Yes,12,CPA26577817,Gioia,Martini
+765,MAR15070,2019-03-30,Sicily,Marsala,No,0,SCY812044831,Luca,Bianchi
+766,RAG65403,2006-06-02,Sicily,Ragusa,No,0,SCY268634462,Alma,Ferrari
+767,CRO16911,2008-05-17,Calabria,Crotone,No,0,CLA542985092,Diego,Bruno
+768,CAL51629,2016-06-21,Sicily,Caltanissetta,Yes,10,SCY475011263,Fausto,Lombardi
+769,CAL32956,2008-01-17,Sicily,Caltanissetta,No,0,SCY999459902,Gaia,Santoro
+770,NAP18957,2012-02-09,Campania,Naples,No,0,CPA964484715,Elena,Ferrari
+771,NAP37138,2021-02-12,Campania,Naples,Yes,11,CPA810527328,Silvio,Lombardi
+772,COS01534,2000-07-12,Calabria,Cosenza,No,0,CLA327446821,Bruno,Caputo
+773,CAT71239,2014-08-27,Sicily,Catania,No,0,SCY151982715,Ginevra,Vitale
+774,MON12454,2001-07-04,Calabria,Montalto Uffugo,Yes,5,CLA920975889,Cecilia,Bruno
+775,CAS48706,2021-06-08,Campania,Caserta,No,0,CPA909397864,Salvo,Gatti
+776,CAT76093,2009-03-08,Calabria,Catanzaro,No,0,CLA524192452,Edoardo,Bruno
+777,MES35082,2013-12-30,Sicily,Messina,Yes,1,SCY93043488,Raffaele,Fabbri
+778,CAS18746,2020-03-27,Campania,Caserta,Yes,6,CPA926942277,Mattia,Gallo
+779,TAR68381,2009-12-12,Puglia,Taranto,No,0,PGA88687973,Ilaria,De Santis
+780,TRA87426,2018-02-26,Sicily,Trapani,No,0,SCY539337531,Diego,Bruno
+781,CAS90838,2013-03-23,Calabria,Castrovillari,No,0,CLA718000796,Vittorio,Longo
+782,CRO39728,2008-06-07,Calabria,Crotone,Yes,14,CLA932300248,Dario,Greco
+783,PAL76962,2011-12-19,Sicily,Palermo,Yes,18,SCY907718893,Serena,Santoro
+784,REN43331,2019-01-07,Calabria,Rende,No,0,CLA830848911,Augusto,Bruno
+785,REN61196,2020-07-07,Calabria,Rende,No,0,CLA510767106,Sebastiano,Greco
+786,MES63215,2020-02-21,Sicily,Messina,Yes,9,SCY954574495,Roberta,Greco
+787,CRO88683,2014-09-12,Calabria,Crotone,No,0,CLA890562770,Rossana,Santoro
+788,CAL88468,2012-02-10,Sicily,Caltanissetta,No,0,SCY246742742,Cecilia,Bruno
+789,COS81474,2022-04-04,Calabria,Cosenza,Yes,19,CLA686823754,Francesca,Martinelli
+790,CAS24063,2011-09-10,Campania,Caserta,No,0,CPA839672773,Mirco,Santoro
+791,AVE59352,2016-12-11,Campania,Avellino,No,0,CPA392379587,Emilia,Santoro
+792,SAL03623,2010-03-09,Campania,Salerno,No,0,CPA623768613,Camilla,Bruno
+793,SAL21067,2020-07-12,Campania,Salerno,Yes,14,CPA670107046,Alessandro,Milani
+794,MON44182,2006-03-25,Calabria,Montalto Uffugo,Yes,11,CLA847805614,Camillo,Ferrari
+795,MON64545,2021-06-19,Calabria,Montalto Uffugo,Yes,19,CLA576006324,Riccardo,Greco
+796,AND40183,2016-06-13,Puglia,Andria,No,0,PGA414394903,Niccolo,Mancini
+797,AVE05815,2020-12-09,Campania,Avellino,Yes,18,CPA216662122,Giacomo,Bruno
+798,COR66343,2012-03-14,Calabria,Corigliano-Rossano,No,0,CLA826164653,Vincenzo,D'amico
+799,FOG83637,2012-09-11,Puglia,Foggia,No,0,PGA118998470,Riccardo,Ferrara
+800,LAM43445,2005-01-15,Calabria,Lamezia Terme,Yes,7,CLA495968923,Mario,Bianco
+801,BEN30283,2012-05-24,Campania,Benevento,No,0,CPA616662359,Claudio,Bruno
+802,REN96082,2003-07-14,Calabria,Rende,No,0,CLA202686095,Giulio,Monti
+803,VIT34643,2013-01-30,Sicily,Vittoria,No,0,SCY953697575,Vincenzo,Santoro
+804,RAG67212,2019-06-15,Sicily,Ragusa,Yes,12,SCY807586389,Walter,Santoro
+805,RAG28584,2019-07-18,Sicily,Ragusa,No,0,SCY535326030,Fulvio,Russo
+806,NAP37027,2002-08-10,Campania,Naples,Yes,15,CPA546840371,Massimo,Santoro
+807,BEN16287,2012-05-04,Campania,Benevento,Yes,8,CPA774712293,Vittoria,Greco
+808,NAP53030,2018-07-04,Campania,Naples,No,0,CPA832674093,Giorgia,Greco
+809,NAP41786,2006-08-31,Campania,Naples,No,0,CPA273687835,Lavinia,Rossi
+810,BEN67403,2014-11-30,Campania,Benevento,No,0,CPA464624025,Giuliano,Bruno
+811,CAS42966,2012-02-04,Calabria,Castrovillari,Yes,15,CLA495969419,Alessandro,Greco
+812,CAS23858,2008-12-03,Campania,Caserta,Yes,2,CPA668486167,Francesca,Costa
+813,AVE17860,2007-09-30,Campania,Avellino,Yes,11,CPA86570114,Marta,Bianco
+814,TAR69809,2006-01-31,Puglia,Taranto,Yes,5,PGA499296211,Diego,Carbone
+815,MON53314,2020-12-19,Calabria,Montalto Uffugo,No,0,CLA890002044,Alfredo,Greco
+816,PAL99375,2000-06-03,Sicily,Palermo,No,0,SCY193074768,Nicoletta,Santoro
+817,LEC56158,2012-03-02,Puglia,Lecce,Yes,19,PGA525242811,Valentina,Bruno
+818,SAL26224,2017-03-04,Campania,Salerno,No,0,CPA95382313,Riccardo,Greco
+819,AVE34000,2017-02-25,Campania,Avellino,Yes,13,CPA897213408,Agnese,Ferrari
+820,NAP84136,2000-08-19,Campania,Naples,Yes,19,CPA313887516,Erica,Fabbri
+821,SAL09935,2011-01-24,Campania,Salerno,No,0,CPA803103013,Cecilia,Marchetti
+822,MES25563,2014-06-23,Sicily,Messina,Yes,15,SCY634030710,Andrea,Santoro
+823,MES56615,2021-09-21,Sicily,Messina,No,0,SCY818700551,Gioele,Martini
+824,CRO97943,2017-04-16,Calabria,Crotone,Yes,15,CLA16411764,Roberta,Romano
+825,RAG38043,2011-10-06,Sicily,Ragusa,No,0,SCY720031004,Lucia,Santoro
+826,RAG34672,2003-10-20,Sicily,Ragusa,Yes,2,SCY857984613,Tiziano,Greco
+827,CAL13405,2019-07-23,Sicily,Caltanissetta,No,0,SCY856331750,Roberto,Bianco
+828,TAR65832,2018-05-10,Puglia,Taranto,Yes,11,PGA837759893,Alessandro,Greco
+829,AVE30003,2021-09-01,Campania,Avellino,No,0,CPA350297940,Ernesto,Piras
+830,MAR80465,2017-12-07,Sicily,Marsala,Yes,15,SCY751729163,Carlo,Silvestri
+831,CRO51242,2005-03-01,Calabria,Crotone,No,0,CLA627254521,Giovanna,Bruno
+832,GEL66377,2012-02-26,Sicily,Gela,No,0,SCY772532572,Serena,Greco
+833,REG81987,2000-04-26,Calabria,Reggio Calabria,No,0,CLA329500751,Roberta,Palumbo
+834,AVE56846,2001-11-29,Campania,Avellino,No,0,CPA344303044,Ludovico,Pellegrini
+835,TRA25489,2002-07-19,Sicily,Trapani,Yes,19,SCY666640553,Susanna,Rizzo
+836,RAG62732,2019-11-26,Sicily,Ragusa,No,0,SCY154181287,Massimiliano,Bianchi
+837,SYR43021,2018-04-10,Sicily,Syracuse,No,0,SCY442068080,Angelo,Mancini
+838,GEL74957,2017-06-23,Sicily,Gela,Yes,11,SCY296339665,Giulio,Longo
+839,COR99145,2015-06-06,Calabria,Corigliano-Rossano,No,0,CLA562483999,Marco,Martinelli
+840,MON02942,2017-01-13,Calabria,Montalto Uffugo,Yes,1,CLA764137871,Gioele,Bruno
+841,MES89993,2016-03-27,Sicily,Messina,Yes,11,SCY829282400,Raul,Monti
+842,NAP61318,2009-11-03,Campania,Naples,No,0,CPA188832221,Bruno,Bianco
+843,COR13962,2012-05-27,Calabria,Corigliano-Rossano,No,0,CLA254233783,Giada,Bianchi
+844,AVE47479,2013-04-14,Campania,Avellino,No,0,CPA780898510,Giuliano,Bruno
+845,CAS40284,2002-12-31,Campania,Caserta,Yes,5,CPA980855202,Alessandra,Bruno
+846,SAL17119,2005-11-30,Campania,Salerno,Yes,3,CPA40741357,Cosimo,Bruno
+847,AVE56510,2002-05-16,Campania,Avellino,Yes,1,CPA450478597,Fioretta,Sanna
+848,SYR18723,2018-04-14,Sicily,Syracuse,Yes,8,SCY314006498,Riccardo,Greco
+849,LEC97883,2019-12-02,Puglia,Lecce,Yes,16,PGA698430045,Sara,D'amico
+850,MAR06488,2018-07-10,Sicily,Marsala,No,0,SCY335280808,Davide,Martini
+851,MES09306,2018-06-11,Sicily,Messina,Yes,17,SCY956145298,Giorgia,Costantini
+852,CAT88258,2004-01-16,Sicily,Catania,No,0,SCY307943501,Salvo,Bruno
+853,TRA55801,2000-04-08,Sicily,Trapani,No,0,SCY457488925,Antonia,Sala
+854,SYR70234,2006-08-14,Sicily,Syracuse,No,0,SCY899143855,Stefano,Guerra
+855,AVE31011,2000-09-05,Campania,Avellino,Yes,19,CPA542133488,Tiziano,Galli
+856,GEL82357,2010-02-01,Sicily,Gela,No,0,SCY221402042,Lapo,Russo
+857,COR09854,2016-11-07,Calabria,Corigliano-Rossano,Yes,1,CLA842943408,Lucio,Caruso
+858,AVE38121,2016-09-04,Campania,Avellino,No,0,CPA666465002,Camilla,Bruno
+859,COS60876,2008-08-26,Calabria,Cosenza,No,0,CLA924710073,Alfredo,Marino
+860,VIT48197,2019-10-16,Sicily,Vittoria,No,0,SCY395838927,Raul,Bianco
+861,CAT63749,2018-01-17,Calabria,Catanzaro,Yes,6,CLA320255567,Greta,Bianco
+862,NAP94166,2000-01-05,Campania,Naples,Yes,11,CPA766114761,Gioia,Vitali
+863,CAL17100,2004-01-17,Sicily,Caltanissetta,Yes,13,SCY715810123,Pietro,Bruno
+864,CAS31364,2004-03-02,Campania,Caserta,Yes,4,CPA144742197,Filippo,Russo
+865,LAM35270,2016-03-04,Calabria,Lamezia Terme,No,0,CLA280969987,Luca,Giuliani
+866,CAT57686,2017-12-08,Sicily,Catania,Yes,17,SCY292273493,Alfredo,Mancini
+867,REN56610,2018-12-19,Calabria,Rende,No,0,CLA645507827,Antonio,Fontana
+868,BEN24701,2009-10-26,Campania,Benevento,No,0,CPA737702744,Martina,Bruno
+869,REG05166,2005-10-16,Calabria,Reggio Calabria,No,0,CLA174159107,Leonardo,Romano
+870,BAR99490,2021-05-24,Puglia,Bari,No,0,PGA160448388,Costanza,Vitale
+871,COR08355,2017-09-11,Calabria,Corigliano-Rossano,Yes,16,CLA694617683,Renato,Rossetti
+872,CAS48575,2010-10-30,Campania,Caserta,Yes,8,CPA697465329,Gianluca,Bruno
+873,FOG95531,2001-05-07,Puglia,Foggia,No,0,PGA147965839,Felice,Fontana
+874,BEN85514,2014-11-04,Campania,Benevento,No,0,CPA538125050,Raffaele,Santoro
+875,CAS64411,2001-12-29,Campania,Caserta,Yes,19,CPA504614325,Francesca,Rossi
+876,FOG26511,2010-11-17,Puglia,Foggia,No,0,PGA194706468,Giovanna,Piras
+877,BEN85316,2004-05-06,Campania,Benevento,No,0,CPA598616208,Salvatore,Santoro
+878,VIT24465,2013-08-02,Sicily,Vittoria,No,0,SCY479138396,Caterina,Montanari
+879,CAT74379,2002-07-14,Calabria,Catanzaro,No,0,CLA486485506,Roberto,Bruno
+880,MAR42922,2019-10-13,Sicily,Marsala,No,0,SCY732708460,Patrizio,Farina
+881,CAT86317,2016-09-28,Calabria,Catanzaro,No,0,CLA659941564,Adriano,Guerra
+882,SAL28625,2009-05-24,Campania,Salerno,No,0,CPA869593691,Beatrice,Bianchi
+883,NAP58403,2005-08-17,Campania,Naples,Yes,9,CPA873109198,Claudia,Greco
+884,MES85740,2004-08-28,Sicily,Messina,No,0,SCY675281175,Mattia,Rossi
+885,TAR11994,2016-06-10,Puglia,Taranto,No,0,PGA300555391,Ferdinando,Santoro
+886,SAL64062,2013-02-17,Campania,Salerno,Yes,14,CPA180060403,Caterina,Ferri
+887,REN92208,2012-02-17,Calabria,Rende,Yes,3,CLA662463237,Niccolo,Ferrari
+888,REN81394,2020-05-24,Calabria,Rende,Yes,14,CLA234456177,Augusto,Pellegrini
+889,SYR20348,2009-01-11,Sicily,Syracuse,No,0,SCY449566737,Bianca,Greco
+890,NAP84831,2011-07-21,Campania,Naples,Yes,16,CPA344705551,Lavinia,Greco
+891,VIB09497,2013-06-26,Calabria,Vibo Valentia,No,0,CLA371520675,Asia,Caruso
+892,REG12293,2022-03-29,Calabria,Reggio Calabria,Yes,15,CLA480894445,Mario,Rossi
+893,SAL97577,2016-09-01,Campania,Salerno,No,0,CPA850699272,Mario,Bianco
+894,SAL58166,2009-06-17,Campania,Salerno,No,0,CPA681654015,Emilio,Bruno
+895,CRO53592,2018-12-02,Calabria,Crotone,Yes,18,CLA753203860,Bernardo,Bianco
+896,CAL82059,2000-10-22,Sicily,Caltanissetta,No,0,SCY157937425,Alessandro,Bruno
+897,CAS07266,2007-05-30,Calabria,Castrovillari,Yes,3,CLA975057919,Carla,Mariani
+898,REN67628,2007-09-26,Calabria,Rende,No,0,CLA232041806,Pasquale,Bianco
+899,MAR64206,2009-07-21,Sicily,Marsala,No,0,SCY432392559,Isabella,Romano
+900,REG81946,2015-05-23,Calabria,Reggio Calabria,Yes,7,CLA816842082,Giada,Santoro
+901,CAS57713,2011-03-11,Calabria,Castrovillari,Yes,10,CLA935444497,Michele,Bruno
+902,NAP17075,2010-05-11,Campania,Naples,No,0,CPA892633067,Umberto,Mancini
+903,MAR84501,2004-09-12,Sicily,Marsala,No,0,SCY430380912,Giada,Sala
+904,LAM76523,2001-08-25,Calabria,Lamezia Terme,No,0,CLA89158464,Michele,Greco
+905,REG14354,2008-10-31,Calabria,Reggio Calabria,No,0,CLA608126569,Fausto,Bruno
+906,COR05151,2012-01-25,Calabria,Corigliano-Rossano,Yes,12,CLA481237481,Sabina,Greco
+907,COR12249,2010-12-30,Calabria,Corigliano-Rossano,Yes,6,CLA773988502,Tullio,Santoro
+908,CAS89385,2005-05-24,Campania,Caserta,No,0,CPA45771733,Raffaello,Romano
+909,MAR59142,2006-06-03,Sicily,Marsala,Yes,14,SCY991871459,Salvo,Costantini
+910,CRO05391,2007-10-06,Calabria,Crotone,No,0,CLA635304162,Martina,Gatti
+911,AVE43897,2021-12-22,Campania,Avellino,Yes,15,CPA471621272,Pietro,Bruno
+912,REN65650,2014-01-20,Calabria,Rende,Yes,14,CLA453620450,Rocco,Bianco
+913,SAL53664,2015-05-06,Campania,Salerno,No,0,CPA401871733,Tommaso,Martini
+914,CAS82692,2020-11-29,Calabria,Castrovillari,Yes,18,CLA668710503,Bianca,Basile
+915,REN79648,2007-11-08,Calabria,Rende,Yes,10,CLA391807530,Adele,Valentini
+916,GEL06838,2014-11-28,Sicily,Gela,Yes,12,SCY94468375,Emanuele,Leone
+917,CAL76514,2004-07-05,Sicily,Caltanissetta,Yes,9,SCY700928931,Lorenzo,Bianco
+918,TAR42719,2022-03-15,Puglia,Taranto,No,0,PGA233205681,Tommaso,Rizzo
+919,NAP77572,2011-03-07,Campania,Naples,No,0,CPA200043642,Dario,Silvestri
+920,TRA94355,2010-11-12,Sicily,Trapani,Yes,11,SCY996366368,Mirco,Santoro
+921,ACR95638,2010-11-23,Calabria,Acri,No,0,CLA35293676,Livia,Santoro
+922,AVE78262,2007-02-20,Campania,Avellino,Yes,12,CPA500215892,Amelia,Milani
+923,AVE79092,2009-12-23,Campania,Avellino,Yes,10,CPA266547675,Mauro,Fiore
+924,AVE99240,2019-09-12,Campania,Avellino,Yes,9,CPA267571615,Emilio,Bianco
+925,CRO60940,2005-01-15,Calabria,Crotone,No,0,CLA127000449,Valerio,Santoro
+926,AVE84899,2015-03-30,Campania,Avellino,Yes,17,CPA960574140,Cristina,De Luca
+927,SYR11040,2006-07-10,Sicily,Syracuse,No,0,SCY583445241,Elisa,Villa
+928,TRA17373,2005-03-12,Sicily,Trapani,Yes,11,SCY605015335,Agnese,Bruno
+929,CAS16581,2018-03-09,Campania,Caserta,No,0,CPA467332424,Aurora,Russo
+930,BEN41616,2000-09-30,Campania,Benevento,Yes,2,CPA152939093,Niccolo,Santoro
+931,BEN68458,2014-03-16,Campania,Benevento,No,0,CPA235951215,Fabrizio,Bruno
+932,CAS88594,2007-03-13,Campania,Caserta,Yes,10,CPA461758243,Fulvio,Grasso
+933,NAP45031,2010-06-19,Campania,Naples,Yes,15,CPA391892479,Sergio,Greco
+934,MON05879,2015-03-25,Calabria,Montalto Uffugo,Yes,15,CLA761285736,Emanuele,Giuliani
+935,REN15564,2007-05-20,Calabria,Rende,No,0,CLA462885030,Gioia,Guerra
+936,BEN32715,2008-04-02,Campania,Benevento,Yes,19,CPA262959369,Walter,Rossi
+937,AVE99509,2020-04-24,Campania,Avellino,Yes,11,CPA562104229,Ugo,Vitali
+938,NAP30749,2021-01-06,Campania,Naples,Yes,5,CPA469163811,Lucio,Bruno
+939,CAS65730,2011-07-07,Campania,Caserta,Yes,17,CPA988356221,Adele,Bruno
+940,BAR45228,2002-09-29,Puglia,Bari,No,0,PGA67639692,Renato,Morelli
+941,GEL08469,2014-11-12,Sicily,Gela,No,0,SCY40596429,Elio,Caputo
+942,ACR79144,2011-03-10,Calabria,Acri,No,0,CLA281610460,Ilaria,Caputo
+943,CAL58356,2019-08-25,Sicily,Caltanissetta,No,0,SCY937323547,Camillo,Santoro
+944,PAL94011,2007-07-07,Sicily,Palermo,No,0,SCY958166246,Rosa,Caruso
+945,GEL73862,2011-05-01,Sicily,Gela,Yes,9,SCY716353872,Guido,Ricci
+946,CAS67366,2002-05-18,Campania,Caserta,No,0,CPA584401463,Massimo,Caruso
+947,CAT12032,2012-06-28,Calabria,Catanzaro,No,0,CLA260043828,Simone,Bruno
+948,SAL69790,2020-04-25,Campania,Salerno,Yes,3,CPA231136922,Rita,Moretti
+949,NAP95446,2021-04-13,Campania,Naples,No,0,CPA638653925,Lucio,Martinelli
+950,NAP96192,2022-01-18,Campania,Naples,No,0,CPA116750509,Diego,Ferrari
+951,NAP64083,2010-02-01,Campania,Naples,No,0,CPA551082546,Mauro,Grasso
+952,BAR23706,2008-01-12,Puglia,Bari,No,0,PGA90261370,Fabiana,Grasso
+953,PAL71486,2015-03-23,Sicily,Palermo,No,0,SCY541895371,Flavia,Grasso
+954,BEN14597,2017-12-21,Campania,Benevento,No,0,CPA265104322,Stefano,Bruno
+955,REG35721,2013-10-19,Calabria,Reggio Calabria,Yes,6,CLA50195336,Gianluca,Montanari
+956,CAT66564,2015-07-12,Calabria,Catanzaro,No,0,CLA230172934,Mattia,Bruno
+957,VIB52015,2020-01-12,Calabria,Vibo Valentia,Yes,9,CLA726187309,Camilla,Mancini
+958,TRA25587,2013-01-01,Sicily,Trapani,Yes,10,SCY211003855,Zeno,Giuliani
+959,LAM97986,2018-02-10,Calabria,Lamezia Terme,Yes,16,CLA453140775,Nicola,Bianco
+960,FOG50191,2001-06-11,Puglia,Foggia,No,0,PGA743111637,Guido,Greco
+961,CAT94678,2017-08-13,Sicily,Catania,No,0,SCY480745987,Luigi,De Rosa
+962,CAS03263,2021-10-10,Calabria,Castrovillari,Yes,19,CLA2357429,Samuele,Martinelli
+963,CAS95436,2010-01-03,Calabria,Castrovillari,No,0,CLA10306888,Carla,Bruno
+964,CAS23325,2010-07-20,Campania,Caserta,No,0,CPA277712284,Alfredo,Leone
+965,VIB12900,2004-06-11,Calabria,Vibo Valentia,No,0,CLA181270890,Carlo,Bruno
+966,CAS12396,2006-04-13,Campania,Caserta,Yes,2,CPA814619509,Simone,Sala
+967,COS56796,2000-07-08,Calabria,Cosenza,No,0,CLA163229928,Emma,Vitale
+968,GEL73458,2000-11-28,Sicily,Gela,No,0,SCY324110251,Bruno,Gatti
+969,BEN34071,2000-10-20,Campania,Benevento,Yes,8,CPA977237571,Fabrizio,Gatti
+970,AVE44622,2005-04-09,Campania,Avellino,No,0,CPA674806747,Roberta,Marini
+971,REN42257,2016-07-20,Calabria,Rende,No,0,CLA402777272,Debora,De Luca
+972,BEN47236,2016-08-08,Campania,Benevento,No,0,CPA572393556,Augusto,Ricci
+973,CAS57057,2008-06-12,Campania,Caserta,No,0,CPA404688694,Alma,Pagano
+974,COS94605,2020-05-06,Calabria,Cosenza,No,0,CLA802389145,Filippo,Bruno
+975,CAT31432,2017-10-01,Calabria,Catanzaro,No,0,CLA341001680,Fioretta,Colombo
+976,LAM23204,2003-03-04,Calabria,Lamezia Terme,Yes,13,CLA639211044,Lavinia,Bianchi
+977,MES02705,2008-04-17,Sicily,Messina,Yes,15,SCY147323835,Camillo,Bruno
+978,NAP49236,2011-03-02,Campania,Naples,No,0,CPA689542571,Violante,Bruno
+979,CAS65934,2006-04-13,Calabria,Castrovillari,No,0,CLA2357429,Samuele,Martinelli
+980,CAL14892,2001-05-10,Sicily,Caltanissetta,No,0,SCY337307646,Eugenia,Moretti
+981,NAP45553,2018-07-05,Campania,Naples,Yes,11,CPA916818017,Ezio,Santoro
+982,CAS12561,2003-10-02,Calabria,Castrovillari,No,0,CLA286018583,Fabrizio,De Santis
+983,REG02059,2010-09-01,Calabria,Reggio Calabria,No,0,CLA102541225,Tullio,Giordano
+984,LEC97267,2013-09-22,Puglia,Lecce,No,0,PGA4991593,Serena,Greco
+985,SYR63748,2022-03-11,Sicily,Syracuse,Yes,17,SCY589610215,Violante,De Luca
+986,CAS50244,2012-06-22,Calabria,Castrovillari,No,0,CLA844702915,Riccardo,Bianchi
+987,PAL90426,2013-06-27,Sicily,Palermo,Yes,1,SCY965434933,Azzurra,Bianco
+988,COR46150,2016-11-10,Calabria,Corigliano-Rossano,Yes,3,CLA735996694,Ruggero,Bruno
+989,MON95398,2020-09-06,Calabria,Montalto Uffugo,Yes,7,CLA170622648,Umberto,Santoro
+990,CAS19722,2013-06-22,Campania,Caserta,No,0,CPA584928999,Mattia,Russo
+991,SYR65555,2017-12-01,Sicily,Syracuse,No,0,SCY353558077,Raffaello,Bianco
+992,CRO49519,2007-05-08,Calabria,Crotone,Yes,6,CLA936103900,Barbara,Greco
+993,GEL80560,2013-12-23,Sicily,Gela,Yes,14,SCY368596546,Laura,Martini
+994,CAT54802,2020-01-14,Calabria,Catanzaro,No,0,CLA884844144,Gaia,Marino
+995,CAS75717,2003-05-10,Campania,Caserta,Yes,9,CPA43937503,Emilio,Romano
+996,SAL15674,2014-05-03,Campania,Salerno,No,0,CPA368554739,Asia,D'angelo
+997,CAL21002,2009-05-01,Sicily,Caltanissetta,No,0,SCY492344027,Ferdinando,Fiore
+998,CRO81284,2022-02-04,Calabria,Crotone,No,0,CLA619772950,Laura,Rizzi
+999,CRO62027,2009-06-16,Calabria,Crotone,Yes,11,CLA372857031,Irene,Mariani
+1000,CAS02552,2020-01-05,Calabria,Castrovillari,No,0,CLA734291783,Lorenzo,Greco
+1001,BEN79059,2001-03-26,Campania,Benevento,Yes,13,CPA647073617,Raul,Testa
+1002,CAS77674,2008-11-30,Calabria,Castrovillari,No,0,CLA166931948,Claudio,Rossi
+1003,MON04997,2017-10-17,Calabria,Montalto Uffugo,No,0,CLA375248429,Ludovico,Bianco
+1004,REG96051,2010-08-01,Calabria,Reggio Calabria,No,0,CLA541150532,Gabriella,Conte
+1005,CAL26296,2002-12-29,Sicily,Caltanissetta,Yes,19,SCY873375019,Gaia,Bruno
+1006,REN90485,2008-05-17,Calabria,Rende,No,0,CLA889684253,Riccardo,Ferri
+1007,PAL61357,2012-12-11,Sicily,Palermo,Yes,8,SCY870638305,Livia,Bruno
+1008,TRA78362,2010-08-20,Sicily,Trapani,No,0,SCY162726895,Sergio,Bruno
+1009,BEN36815,2017-12-24,Campania,Benevento,No,0,CPA992814481,Fulvio,Lombardo
+1010,FOG67459,2021-01-01,Puglia,Foggia,No,0,PGA832718761,Roberto,Russo
+1011,AVE66109,2015-02-01,Campania,Avellino,Yes,14,CPA856792922,Alessio,Giordano
+1012,REN11201,2013-02-13,Calabria,Rende,No,0,CLA948612117,Luigi,Santoro
+1013,SAL81628,2021-07-25,Campania,Salerno,Yes,10,CPA371297613,Dafne,Caputo
+1014,MON76838,2001-10-29,Calabria,Montalto Uffugo,No,0,CLA938551068,Sebastiano,Santoro
+1015,COR21590,2014-03-08,Calabria,Corigliano-Rossano,No,0,CLA986879093,Paolo,Bellini
+1016,AVE52458,2015-09-14,Campania,Avellino,No,0,CPA366827810,Ugo,Bianco
+1017,CAT48920,2005-01-03,Sicily,Catania,No,0,SCY883169611,Bruno,Bruno
+1018,CAS02123,2002-01-30,Campania,Caserta,No,0,CPA665788182,Gabriella,Marino
+1019,LAM72096,2012-04-14,Calabria,Lamezia Terme,Yes,3,CLA475946432,Matteo,Ferraro
+1020,TRA29143,2001-09-10,Sicily,Trapani,Yes,4,SCY5167933,Eugenia,Farina
+1021,SAL22233,2019-06-05,Campania,Salerno,No,0,CPA560259618,Lorenzo,De Luca
+1022,AVE26961,2006-08-17,Campania,Avellino,Yes,18,CPA465418186,Andrea,Leone
+1023,CAT31110,2021-10-03,Sicily,Catania,No,0,SCY691866737,Alessia,Ferrari
+1024,PAL00132,2017-12-18,Sicily,Palermo,No,0,SCY985253167,Silvio,Bruno
+1025,REN85265,2000-02-08,Calabria,Rende,No,0,CLA252597531,Raffaele,Bruno
+1026,CAL55788,2011-03-04,Sicily,Caltanissetta,No,0,SCY816111821,Angelo,Bianco
+1027,SYR08033,2000-10-31,Sicily,Syracuse,Yes,12,SCY138661242,Corrado,Battaglia
+1028,MON78945,2000-03-16,Calabria,Montalto Uffugo,No,0,CLA261814897,Alessio,Rizzo
+1029,BEN21091,2007-07-30,Campania,Benevento,No,0,CPA556078856,Renato,Bruno
+1030,RAG26473,2008-04-16,Sicily,Ragusa,No,0,SCY825650214,Tommaso,Bianco
+1031,SYR32599,2015-01-05,Sicily,Syracuse,Yes,17,SCY675669957,Tiziano,Greco
+1032,CAS02099,2009-11-12,Campania,Caserta,Yes,8,CPA196351508,Saverio,Marino
+1033,MES92256,2010-07-22,Sicily,Messina,No,0,SCY489119256,Giuliano,Ruggiero
+1034,TRA05183,2017-12-03,Sicily,Trapani,No,0,SCY804742820,Miriam,Russo
+1035,NAP29368,2015-09-14,Campania,Naples,Yes,2,CPA639753345,Matilde,Carbone
+1036,NAP83511,2007-08-18,Campania,Naples,No,0,CPA276803559,Emilio,Giordano
+1037,CAS94040,2013-09-12,Campania,Caserta,Yes,11,CPA477510769,Maurizio,Bruno
+1038,TAR03848,2004-06-23,Puglia,Taranto,Yes,17,PGA339418357,Alfredo,Greco
+1039,AVE38763,2014-12-08,Campania,Avellino,Yes,13,CPA4382271,Barbara,Bianco
+1040,MON92075,2016-11-11,Calabria,Montalto Uffugo,Yes,5,CLA850632561,Noemi,Santoro
+1041,ACR23774,2013-10-13,Calabria,Acri,No,0,CLA553176766,Cosimo,Santoro
+1042,CRO77356,2003-12-13,Calabria,Crotone,Yes,10,CLA944788870,Luigi,Ferrari
+1043,REG59144,2000-03-03,Calabria,Reggio Calabria,No,0,CLA959915378,Diego,Mazza
+1044,CRO25186,2010-01-19,Calabria,Crotone,No,0,CLA596772483,Gabriele,Bellini
+1045,VIB32038,2020-10-30,Calabria,Vibo Valentia,Yes,1,CLA544346030,Domenico,Bruno
+1046,AVE57683,2017-08-15,Campania,Avellino,Yes,6,CPA245622351,Ludovica,Bruno
+1047,CRO68888,2000-10-26,Calabria,Crotone,Yes,9,CLA385719077,Martina,Rossi
+1048,MAR52269,2009-08-15,Sicily,Marsala,Yes,7,SCY167141568,Mirco,Costa
+1049,MON41717,2003-08-31,Calabria,Montalto Uffugo,No,0,CLA466284293,Camillo,Santoro
+1050,GEL70134,2008-03-03,Sicily,Gela,Yes,7,SCY63989195,Giulio,Neri
+1051,VIT87979,2002-10-09,Sicily,Vittoria,Yes,17,SCY913970457,Vittorio,De Luca
+1052,SAL00253,2014-05-05,Campania,Salerno,No,0,CPA113143857,Simona,Greco
+1053,RAG81187,2019-02-21,Sicily,Ragusa,No,0,SCY802986249,Alessia,Fabbri
+1054,NAP93917,2015-02-13,Campania,Naples,Yes,4,CPA151261291,Giacomo,Martinelli
+1055,TRA48199,2019-05-02,Sicily,Trapani,No,0,SCY591489870,Margherita,Bianchi
+1056,COR52792,2008-12-30,Calabria,Corigliano-Rossano,Yes,3,CLA526138585,Nicola,Russo
+1057,AVE58221,2015-05-08,Campania,Avellino,Yes,7,CPA743156977,Rita,Parisi
+1058,CAS83603,2008-09-23,Calabria,Castrovillari,Yes,18,CLA816952425,Sebastiano,Pellegrini
+1059,CAS62215,2020-12-06,Campania,Caserta,No,0,CPA567250935,Gioele,Greco
+1060,MAR02091,2020-11-24,Sicily,Marsala,No,0,SCY418383549,Cosimo,Gatti
+1061,BEN41426,2009-02-16,Campania,Benevento,Yes,2,CPA969102551,Michele,Ricci
+1062,CAT44479,2010-10-13,Sicily,Catania,No,0,SCY883157977,Fausto,Ferraro
+1063,VIT18936,2005-03-22,Sicily,Vittoria,No,0,SCY945129939,Stefano,Mazza
+1064,TAR69166,2001-04-26,Puglia,Taranto,No,0,PGA454323189,Ezio,Rossi
+1065,TRA25352,2001-02-26,Sicily,Trapani,No,0,SCY866560100,Paolo,Conti
+1066,CAS80180,2003-10-21,Calabria,Castrovillari,No,0,CLA313145766,Serena,Greco
+1067,BEN59124,2007-07-01,Campania,Benevento,No,0,CPA991900783,Emanuele,Rinaldi
+1068,SAL15202,2000-05-20,Campania,Salerno,Yes,3,CPA25532696,Valerio,Neri
+1069,AND33589,2018-07-01,Puglia,Andria,Yes,10,PGA232849828,Alessio,Santoro
+1070,CAT51066,2012-06-30,Sicily,Catania,Yes,1,SCY660597525,Valentino,Neri
+1071,AVE48265,2002-05-04,Campania,Avellino,Yes,13,CPA467809032,Fabio,D'angelo
+1072,CAS08485,2000-06-23,Campania,Caserta,No,0,CPA708889434,Rocco,Fiore
+1073,VIT78799,2014-01-02,Sicily,Vittoria,No,0,SCY552086702,Ilaria,Bruno
+1074,ACR58890,2018-12-11,Calabria,Acri,Yes,1,CLA996883436,Federico,Longo
+1075,RAG30374,2017-06-15,Sicily,Ragusa,No,0,SCY834464399,Riccardo,Fabbri
+1076,MON57770,2020-06-24,Calabria,Montalto Uffugo,No,0,CLA932125164,Renato,Morelli
+1077,NAP42829,2009-04-30,Campania,Naples,Yes,18,CPA48456192,Claudio,Bianco
+1078,MES81645,2006-06-07,Sicily,Messina,Yes,12,SCY576750790,Raul,Ferrara
+1079,COS92861,2014-04-07,Calabria,Cosenza,No,0,CLA698134340,Nicoletta,Santoro
+1080,SYR80278,2020-02-20,Sicily,Syracuse,Yes,1,SCY596788843,Gabriella,Greco
+1081,NAP12473,2021-03-06,Campania,Naples,Yes,9,CPA822651465,Saverio,Caputo
+1082,AVE99379,2012-09-22,Campania,Avellino,No,0,CPA877581963,Ludovica,Milani
+1083,BEN23806,2007-01-19,Campania,Benevento,Yes,4,CPA823500122,Sofia,Santoro
+1084,COR13066,2003-09-14,Calabria,Corigliano-Rossano,No,0,CLA586294606,Ada,Caputo
+1085,REN36036,2008-10-27,Calabria,Rende,No,0,CLA738419392,Walter,De Rosa
+1086,AND05827,2000-09-02,Puglia,Andria,No,0,PGA339020374,Nicoletta,Greco
+1087,COR02602,2014-09-13,Calabria,Corigliano-Rossano,No,0,CLA706442949,Alessandro,Amato
+1088,SAL88872,2020-07-09,Campania,Salerno,No,0,CPA228684194,Amelia,Russo
+1089,CAT23230,2012-12-30,Sicily,Catania,No,0,SCY659233111,Bruno,Russo
+1090,CAT55143,2000-08-05,Calabria,Catanzaro,No,0,CLA742054554,Marta,Bianco
+1091,GEL97648,2016-04-28,Sicily,Gela,Yes,14,SCY188890785,Tiziano,Bellini
+1092,LAM32950,2009-11-27,Calabria,Lamezia Terme,No,0,CLA224497943,Riccardo,Greco
+1093,MON95354,2015-07-08,Calabria,Montalto Uffugo,No,0,CLA606916453,Pietro,Testa
+1094,NAP56250,2021-05-15,Campania,Naples,Yes,5,CPA833039056,Lorenzo,Greco
+1095,CAS13434,2009-10-29,Calabria,Castrovillari,Yes,14,CLA42440456,Raffaello,Donati
+1096,LAM49938,2012-11-20,Calabria,Lamezia Terme,No,0,CLA420600278,Fausto,Bruno
+1097,CAL20737,2001-02-12,Sicily,Caltanissetta,No,0,SCY861693713,Tullio,Bruno
+1098,MAR56483,2019-10-24,Sicily,Marsala,Yes,13,SCY823641902,Debora,Rossetti
+1099,CAS42442,2004-03-29,Campania,Caserta,No,0,CPA886311702,Guido,Leone
+1100,BEN82505,2009-03-23,Campania,Benevento,Yes,4,CPA20639361,Fabrizio,Greco
+1101,LEC80752,2007-06-10,Puglia,Lecce,Yes,8,PGA534774102,Luca,Greco
+1102,CAT12294,2020-01-11,Calabria,Catanzaro,No,0,CLA17860844,Gabriella,Martinelli
+1103,RAG77628,2017-02-16,Sicily,Ragusa,Yes,15,SCY759878748,Miriam,Ferrari
+1104,AND77431,2013-10-05,Puglia,Andria,Yes,14,PGA241897477,Silvio,Rinaldi
+1105,NAP06626,2011-12-30,Campania,Naples,No,0,CPA368753487,Simona,Conti
+1106,REG09109,2008-07-16,Calabria,Reggio Calabria,No,0,CLA636734832,Fulvio,Marini
+1107,BEN79789,2006-08-20,Campania,Benevento,Yes,16,CPA982776305,Umberto,Messina
+1108,GEL27672,2008-09-06,Sicily,Gela,No,0,SCY0484310,Massimiliano,Farina
+1109,CAL81778,2007-08-22,Sicily,Caltanissetta,No,0,SCY371665272,Lapo,Bruno
+1110,MES66210,2013-08-05,Sicily,Messina,No,0,SCY181110813,Pietro,Bianco
+1111,NAP45711,2019-12-20,Campania,Naples,No,0,CPA745958612,Valentino,Bruno
+1112,COR38467,2004-07-09,Calabria,Corigliano-Rossano,No,0,CLA651998758,Giacomo,Greco
+1113,SYR89375,2017-02-05,Sicily,Syracuse,No,0,SCY523152519,Corrado,Gallo
+1114,AVE69712,2002-03-22,Campania,Avellino,No,0,CPA234544279,Rossana,Bianco
+1115,PAL64007,2007-06-20,Sicily,Palermo,Yes,1,SCY176780127,Iole,Greco
+1116,NAP26121,2002-04-04,Campania,Naples,No,0,CPA525523346,Luca,De Rosa
+1117,SAL14212,2004-12-11,Campania,Salerno,No,0,CPA721076780,Elisa,Sanna
+1118,NAP81798,2015-11-26,Campania,Naples,No,0,CPA185390177,Cecilia,Santoro
+1119,SAL74792,2018-11-13,Campania,Salerno,Yes,8,CPA954248430,Debora,Bianco
+1120,CAS84768,2020-05-17,Campania,Caserta,No,0,CPA410186187,Ruggero,Farina
+1121,AND60258,2018-08-18,Puglia,Andria,No,0,PGA233893574,Guido,Santoro
+1122,BEN27175,2013-10-19,Campania,Benevento,Yes,7,CPA508448328,Massimiliano,Russo
+1123,RAG67287,2002-07-21,Sicily,Ragusa,Yes,17,SCY215314588,Renato,Ferrari
+1124,CRO95370,2021-07-04,Calabria,Crotone,No,0,CLA716564362,Stefano,Marino
+1125,MES08191,2004-10-30,Sicily,Messina,No,0,SCY805945893,Amelia,Rinaldi
+1126,ACR56970,2006-01-16,Calabria,Acri,Yes,9,CLA71647296,Mauro,Ruggiero
+1127,SAL17170,2021-10-12,Campania,Salerno,No,0,CPA658458515,Massimo,Bianchi
+1128,GEL68487,2021-02-12,Sicily,Gela,No,0,SCY734628728,Ezio,Bruno
+1129,SAL75356,2016-12-11,Campania,Salerno,No,0,CPA792676900,Vincenzo,Valentini
+1130,CAT13235,2002-07-11,Sicily,Catania,No,0,SCY912758529,Matteo,Bruno
+1131,LAM41876,2005-10-01,Calabria,Lamezia Terme,No,0,CLA191740299,Gaia,Lombardi
+1132,COR88866,2021-11-27,Calabria,Corigliano-Rossano,No,0,CLA635768245,Federica,Bruno
+1133,SAL31087,2006-03-30,Campania,Salerno,No,0,CPA420669870,Rossana,Bruno
+1134,PAL58317,2005-04-11,Sicily,Palermo,Yes,1,SCY46336146,Aldo,Bruno
+1135,FOG62271,2003-01-19,Puglia,Foggia,No,0,PGA745869043,Ernesto,Battaglia
+1136,TRA17190,2000-11-30,Sicily,Trapani,No,0,SCY846152588,Federica,Bruno
+1137,GEL88206,2004-09-18,Sicily,Gela,No,0,SCY544330106,Serena,Farina
+1138,CAT39601,2019-03-31,Sicily,Catania,Yes,18,SCY412401359,Lavinia,Cattaneo
+1139,CAT72373,2012-11-02,Calabria,Catanzaro,No,0,CLA714356126,Valerio,Greco
+1140,CAS26528,2004-07-04,Campania,Caserta,No,0,CPA718785962,Elvira,Bruno
+1141,VIT84474,2009-01-01,Sicily,Vittoria,Yes,10,SCY908326762,Ilaria,Messina
+1142,NAP92160,2019-07-06,Campania,Naples,Yes,2,CPA632144166,Cecilia,Bruno
+1143,CAT95688,2005-12-03,Sicily,Catania,Yes,17,SCY730568022,Gabriella,Conte
+1144,VIB05912,2007-02-17,Calabria,Vibo Valentia,Yes,3,CLA822969181,Ernesto,Bruno
+1145,NAP59128,2020-11-22,Campania,Naples,Yes,7,CPA752977441,Tullio,De Santis
+1146,VIB23512,2020-05-07,Calabria,Vibo Valentia,No,0,CLA991360839,Valentino,Bruno
+1147,FOG38506,2002-01-04,Puglia,Foggia,Yes,3,PGA744211418,Simone,Bruno
+1148,TRA02535,2017-02-02,Sicily,Trapani,Yes,1,SCY801375917,Raffaele,Greco
+1149,RAG32522,2021-05-24,Sicily,Ragusa,Yes,15,SCY200175871,Dario,Serra
+1150,FOG56436,2016-05-17,Puglia,Foggia,No,0,PGA532802692,Viola,Greco
+1151,REN08590,2007-04-24,Calabria,Rende,Yes,3,CLA797912150,Massimo,Ferrara
+1152,CAT67673,2003-12-13,Calabria,Catanzaro,No,0,CLA679609083,Roberto,Bianco
+1153,AVE93455,2013-05-02,Campania,Avellino,No,0,CPA665788565,Sabina,Santoro
+1154,VIB88090,2003-07-31,Calabria,Vibo Valentia,No,0,CLA10359073,Caterina,Valentini
+1155,PAL68741,2000-12-22,Sicily,Palermo,Yes,13,SCY410058715,Matteo,Sartori
+1156,TRA89717,2020-07-01,Sicily,Trapani,Yes,5,SCY414902855,Claudia,Bruno
+1157,LAM67679,2013-12-09,Calabria,Lamezia Terme,Yes,12,CLA252609401,Gioia,Riva
+1158,CAT91876,2015-03-01,Sicily,Catania,Yes,6,SCY748121589,Antonello,Rossi
+1159,ACR88007,2011-07-25,Calabria,Acri,No,0,CLA29717867,Andrea,Bernardi
+1160,LAM68771,2009-06-13,Calabria,Lamezia Terme,No,0,CLA630809457,Walter,Rossi
+1161,AVE33069,2004-05-29,Campania,Avellino,Yes,5,CPA5189809,Carlo,Mancini
+1162,SAL54354,2018-10-08,Campania,Salerno,Yes,14,CPA554590192,Violante,Sala
+1163,COR12594,2012-05-18,Calabria,Corigliano-Rossano,Yes,15,CLA778561985,Domenico,Marino
+1164,RAG62126,2015-10-17,Sicily,Ragusa,No,0,SCY762543877,Fabio,Bruno
+1165,RAG42170,2009-05-11,Sicily,Ragusa,No,0,SCY741582412,Ruggero,Bruno
+1166,GEL05455,2021-03-08,Sicily,Gela,No,0,SCY294464094,Gabriele,Rossi
+1167,CAT80238,2014-04-02,Sicily,Catania,No,0,SCY326741870,Adele,Santoro
+1168,VIT51234,2014-06-20,Sicily,Vittoria,Yes,16,SCY857641253,Gabriele,Bruno
+1169,NAP11115,2001-07-13,Campania,Naples,Yes,18,CPA836766428,Sara,Rinaldi
+1170,MON91171,2017-03-20,Calabria,Montalto Uffugo,No,0,CLA173852459,Filippo,Silvestri
+1171,AND95412,2016-09-16,Puglia,Andria,No,0,PGA585547190,Ilaria,Rossetti
+1172,COR52316,2012-02-01,Calabria,Corigliano-Rossano,No,0,CLA971631407,Noemi,Russo
+1173,CAL94961,2000-05-19,Sicily,Caltanissetta,No,0,SCY869919672,Daniele,Rizzi
+1174,MAR26920,2001-09-19,Sicily,Marsala,Yes,8,SCY624712891,Debora,Ferretti
+1175,MAR49867,2003-07-26,Sicily,Marsala,Yes,3,SCY83719434,Margherita,Conti
+1176,ACR58041,2000-02-11,Calabria,Acri,Yes,6,CLA618658591,Adele,Costantini
+1177,ACR56715,2022-02-07,Calabria,Acri,No,0,CLA393383590,Massimo,De Santis
+1178,FOG10168,2004-11-25,Puglia,Foggia,Yes,7,PGA168496774,Emiliano,Bianco
+1179,CRO34124,2002-02-18,Calabria,Crotone,Yes,2,CLA868796979,Lapo,Ricci
+1180,CAS94429,2006-10-18,Campania,Caserta,No,0,CPA270135010,Fioretta,Riva
+1181,SAL83352,2016-01-12,Campania,Salerno,No,0,CPA613140073,Luisa,Pellegrino
+1182,AVE77085,2011-11-13,Campania,Avellino,Yes,5,CPA820598885,Lucia,Santoro
+1183,REG23792,2012-10-25,Calabria,Reggio Calabria,No,0,CLA473930957,Ilaria,Bruno
+1184,SAL49702,2000-12-29,Campania,Salerno,No,0,CPA670743936,Nicoletta,Montanari
+1185,TAR80253,2008-07-02,Puglia,Taranto,Yes,18,PGA396264328,Luigi,Bruno
+1186,SAL07925,2015-10-24,Campania,Salerno,No,0,CPA235660027,Gaia,Bruno
+1187,LEC02995,2005-08-29,Puglia,Lecce,Yes,8,PGA316497927,Donatella,Bruno
+1188,BAR41070,2014-09-13,Puglia,Bari,Yes,15,PGA756284848,Tullio,Gentile
+1189,CAT74754,2016-09-25,Sicily,Catania,No,0,SCY699320699,Vittorio,Testa
+1190,MON71958,2011-06-12,Calabria,Montalto Uffugo,Yes,9,CLA231295752,Margherita,Ricci
+1191,COS55442,2010-04-23,Calabria,Cosenza,No,0,CLA670308498,Iole,Santoro
+1192,CAT37748,2009-08-22,Sicily,Catania,Yes,4,SCY354881801,Fulvio,Sanna
+1193,BEN56461,2000-03-21,Campania,Benevento,No,0,CPA530977566,Gioia,Esposito
+1194,ACR82954,2021-05-14,Calabria,Acri,No,0,CLA404937208,Tullio,Bruno
+1195,CAT46958,2017-04-07,Calabria,Catanzaro,No,0,CLA253494794,Rocco,De Angelis
+1196,COS24881,2017-03-31,Calabria,Cosenza,Yes,6,CLA813765993,Giulia,Rossi
+1197,CRO32269,2019-05-14,Calabria,Crotone,No,0,CLA254091103,Gioia,Bruno
+1198,MAR30377,2008-04-15,Sicily,Marsala,Yes,13,SCY609634880,Ludovica,Santoro
+1199,NAP94099,2021-04-17,Campania,Naples,No,0,CPA993898229,Maurizio,Santoro
+1200,CAS13330,2017-10-03,Campania,Caserta,No,0,CPA333391087,Bruno,Rossi
+1201,MAR86418,2020-10-17,Sicily,Marsala,No,0,SCY316676924,Luisa,Bruno
+1202,BAR08812,2011-10-20,Puglia,Bari,No,0,PGA730658779,Luigi,Guerra
+1203,CRO99722,2008-11-17,Calabria,Crotone,No,0,CLA376727802,Gabriella,Bruno
+1204,NAP20838,2004-10-28,Campania,Naples,No,0,CPA938082360,Ugo,Greco
+1205,REG83909,2007-10-07,Calabria,Reggio Calabria,No,0,CLA380698979,Luigi,Bruno
+1206,COS58255,2013-10-23,Calabria,Cosenza,Yes,3,CLA356972859,Emilio,Costantini
+1207,CAL42054,2006-07-18,Sicily,Caltanissetta,No,0,SCY130354974,Violante,Rossi
+1208,NAP23668,2016-02-20,Campania,Naples,Yes,8,CPA54802981,Massimiliano,Greco
+1209,CAS87925,2013-05-20,Campania,Caserta,No,0,CPA515833227,Massimiliano,Milani
+1210,BEN10038,2010-07-17,Campania,Benevento,No,0,CPA81218354,Cristian,Rizzi
+1211,BAR77326,2010-06-27,Puglia,Bari,Yes,5,PGA720975612,Bernardo,Rossi
+1212,BAR03604,2006-10-24,Puglia,Bari,Yes,8,PGA814248375,Margherita,Caputo
+1213,MES06966,2000-02-20,Sicily,Messina,No,0,SCY687528211,Lorenzo,Fabbri
+1214,REG99478,2000-09-10,Calabria,Reggio Calabria,Yes,9,CLA810103645,Aurora,Lombardo
+1215,REN39229,2012-02-22,Calabria,Rende,No,0,CLA621305669,Claudio,Riva
+1216,AVE96636,2001-01-21,Campania,Avellino,No,0,CPA516759115,Gianluca,Ferrari
+1217,FOG79203,2005-08-23,Puglia,Foggia,No,0,PGA624489006,Diego,Villa
+1218,GEL94595,2009-01-08,Sicily,Gela,No,0,SCY328503368,Margherita,Bianco
+1219,TRA87713,2011-10-20,Sicily,Trapani,No,0,SCY529936162,Paolo,Bruno
+1220,AVE04029,2000-05-20,Campania,Avellino,No,0,CPA266532527,Renato,Moretti
+1221,COS38763,2002-04-02,Calabria,Cosenza,No,0,CLA234705870,Giovanni,Montanari
+1222,AVE30605,2017-09-10,Campania,Avellino,Yes,14,CPA408516405,Ludovica,Santoro
+1223,LAM04178,2019-01-23,Calabria,Lamezia Terme,No,0,CLA840612203,Patrizio,Bruno
+1224,CAT76864,2018-04-27,Sicily,Catania,No,0,SCY249964462,Massimo,Valentini
+1225,LAM87980,2018-05-30,Calabria,Lamezia Terme,Yes,12,CLA419201790,Greta,Russo
+1226,LEC91343,2022-03-13,Puglia,Lecce,No,0,PGA786393610,Carlo,Rizzo
+1227,REN30600,2018-06-11,Calabria,Rende,No,0,CLA689508266,Mario,Villa
+1228,MON51033,2016-04-23,Calabria,Montalto Uffugo,No,0,CLA99552154,Elisa,Ferrara
+1229,BEN89238,2014-09-23,Campania,Benevento,No,0,CPA577824388,Ruggero,Ferraro
+1230,RAG07627,2001-02-04,Sicily,Ragusa,No,0,SCY124022580,Edoardo,Rizzo
+1231,COR05689,2015-01-20,Calabria,Corigliano-Rossano,No,0,CLA879264568,Mirco,Bruno
+1232,VIT19147,2004-03-05,Sicily,Vittoria,Yes,15,SCY343987208,Lucio,Bruno
+1233,CAS35882,2016-05-07,Campania,Caserta,Yes,18,CPA451044328,Sara,Martinelli
+1234,MES09687,2004-03-18,Sicily,Messina,No,0,SCY962942825,Pasquale,Bruno
+1235,CRO35321,2021-10-20,Calabria,Crotone,Yes,12,CLA828140724,Massimo,Greco
+1236,REN99941,2014-09-18,Calabria,Rende,No,0,CLA8863776,Fabrizio,Rossi
+1237,CRO20539,2008-10-03,Calabria,Crotone,No,0,CLA561371875,Emilio,Montanari
+1238,SAL79476,2009-11-13,Campania,Salerno,Yes,1,CPA368147098,Antonia,Santoro
+1239,LAM30109,2011-03-27,Calabria,Lamezia Terme,No,0,CLA748399700,Corrado,Bianchi
+1240,AVE47460,2013-02-13,Campania,Avellino,No,0,CPA84071920,Anna,Pellegrino
+1241,BEN41458,2005-08-31,Campania,Benevento,No,0,CPA626430026,Valerio,Caruso
+1242,MES05725,2002-11-21,Sicily,Messina,Yes,5,SCY927099631,Silvio,Ferrari
+1243,REG37002,2000-10-13,Calabria,Reggio Calabria,No,0,CLA382809304,Alice,Romano
+1244,SAL92713,2003-04-18,Campania,Salerno,No,0,CPA448989376,Ezio,Gentile
+1245,SAL37133,2005-08-16,Campania,Salerno,No,0,CPA205958997,Aurora,Bianco
+1246,VIB54286,2008-11-01,Calabria,Vibo Valentia,No,0,CLA140156455,Lucio,Donati
+1247,CAL42687,2009-12-24,Sicily,Caltanissetta,Yes,16,SCY89550595,Elio,Neri
+1248,AVE92306,2019-12-28,Campania,Avellino,No,0,CPA373931325,Raffaello,Santoro
+1249,TRA11912,2003-01-10,Sicily,Trapani,No,0,SCY408616021,Ugo,Bruno
+1250,CRO93050,2002-09-03,Calabria,Crotone,No,0,CLA789286462,Cecilia,Caputo
+1251,CAT62715,2004-07-08,Calabria,Catanzaro,No,0,CLA400686961,Gioele,Longo
+1252,AND35336,2021-02-16,Puglia,Andria,No,0,PGA170076400,Agnese,Gentile
+1253,BEN28905,2013-04-21,Campania,Benevento,No,0,CPA338187778,Simona,Greco
+1254,RAG03401,2021-11-12,Sicily,Ragusa,No,0,SCY128407672,Mauro,Rossi
+1255,BEN80071,2000-12-21,Campania,Benevento,Yes,10,CPA442328006,Federica,Bruno
+1256,CAS06246,2012-06-27,Campania,Caserta,No,0,CPA616973471,Tiziano,Bruno
+1257,SAL83669,2012-02-15,Campania,Salerno,No,0,CPA867466652,Giulio,Ricci
+1258,AVE93892,2011-11-26,Campania,Avellino,No,0,CPA769502469,Zeno,Costantini
+1259,MES07606,2020-11-14,Sicily,Messina,No,0,SCY317029783,Sabina,Bianco
+1260,AVE92386,2004-09-06,Campania,Avellino,No,0,CPA130836030,Cristina,Bruno
+1261,TAR67318,2019-08-28,Puglia,Taranto,No,0,PGA578354535,Laura,Bruno
+1262,MES81242,2001-11-13,Sicily,Messina,Yes,13,SCY38167711,Zeno,Greco
+1263,MON42243,2006-06-01,Calabria,Montalto Uffugo,No,0,CLA694928073,Mario,Martinelli
+1264,AVE29602,2017-12-18,Campania,Avellino,No,0,CPA617671705,Beatrice,Orlando
+1265,SYR09404,2000-09-08,Sicily,Syracuse,Yes,3,SCY3429480,Tiziano,Bianchi
+1266,SAL69905,2011-12-31,Campania,Salerno,Yes,14,CPA877681545,Vittorio,Russo
+1267,SAL78373,2004-03-06,Campania,Salerno,Yes,6,CPA243601294,Stefania,Gentile
+1268,VIT36579,2001-08-21,Sicily,Vittoria,Yes,1,SCY275299097,Angelo,Montanari
+1269,MAR81495,2008-05-18,Sicily,Marsala,No,0,SCY651110942,Stefania,Mancini
+1270,CAS96613,2020-07-29,Campania,Caserta,Yes,9,CPA840672328,Adriano,Bruno
+1271,TRA07583,2009-11-17,Sicily,Trapani,No,0,SCY504480530,Luigi,Marchetti
+1272,PAL56907,2013-01-30,Sicily,Palermo,Yes,16,SCY922881103,Amelia,Ricci
+1273,BAR01524,2020-11-04,Puglia,Bari,No,0,PGA683724279,Riccardo,Caruso
+1274,CAS08816,2005-05-05,Campania,Caserta,No,0,CPA687452510,Greta,Mancini
+1275,MES26571,2007-06-05,Sicily,Messina,No,0,SCY265301894,Saverio,Pellegrini
+1276,TRA05146,2022-03-31,Sicily,Trapani,Yes,10,SCY342365910,Flavia,Gallo
+1277,FOG87765,2012-02-05,Puglia,Foggia,No,0,PGA782190671,Massimo,Giuliani
+1278,NAP68746,2007-03-13,Campania,Naples,No,0,CPA256597939,Massimiliano,Fontana
+1279,LEC69148,2014-07-15,Puglia,Lecce,Yes,5,PGA806545059,Cosimo,Greco
+1280,CAT62485,2002-03-16,Sicily,Catania,No,0,SCY140635451,Felice,Rossi
+1281,FOG53040,2017-12-27,Puglia,Foggia,No,0,PGA281595257,Stefano,Bruno
+1282,MON19729,2000-02-28,Calabria,Montalto Uffugo,No,0,CLA385608226,Biagio,Pellegrini
+1283,LAM17210,2012-02-10,Calabria,Lamezia Terme,Yes,2,CLA711577416,Salvatore,Donati
+1284,COR65360,2003-07-13,Calabria,Corigliano-Rossano,No,0,CLA527352467,Diego,Fiore
+1285,CAT75376,2016-01-19,Calabria,Catanzaro,Yes,8,CLA384300336,Martina,Grassi
+1286,ACR23951,2009-08-31,Calabria,Acri,Yes,11,CLA413069126,Emma,Riva
+1287,AVE59273,2020-02-20,Campania,Avellino,No,0,CPA725371606,Cristina,Bruno
+1288,REG20343,2008-05-14,Calabria,Reggio Calabria,No,0,CLA205797131,Dario,Fiore
+1289,GEL47812,2002-03-02,Sicily,Gela,Yes,3,SCY883867353,Valentino,Bruno
+1290,REN70738,2006-02-11,Calabria,Rende,No,0,CLA519444474,Marcello,Ruggiero
+1291,BEN56828,2003-06-07,Campania,Benevento,No,0,CPA47160972,Gianluca,Conti
+1292,MAR09456,2020-09-11,Sicily,Marsala,No,0,SCY778726828,Emiliano,Greco
+1293,ACR81036,2001-02-07,Calabria,Acri,No,0,CLA861329936,Leonardo,Leone
+1294,TAR20901,2002-04-30,Puglia,Taranto,No,0,PGA376410353,Ferdinando,Carbone
+1295,AVE06140,2004-02-28,Campania,Avellino,No,0,CPA149078633,Raffaello,Farina
+1296,SYR95066,2018-08-20,Sicily,Syracuse,No,0,SCY493558574,Luca,Neri
+1297,RAG58489,2018-10-20,Sicily,Ragusa,No,0,SCY452896727,Filippo,De Rosa
+1298,SAL17583,2001-12-24,Campania,Salerno,No,0,CPA684280459,Amelia,Montanari
+1299,VIB18385,2017-03-30,Calabria,Vibo Valentia,Yes,5,CLA280145807,Giorgia,Santoro
+1300,SAL48686,2017-12-03,Campania,Salerno,Yes,15,CPA534705238,Ginevra,Ricci
+1301,RAG04544,2015-11-04,Sicily,Ragusa,No,0,SCY189147434,Corrado,Gentile
+1302,AVE77393,2017-09-10,Campania,Avellino,Yes,12,CPA612932883,Isabella,Pellegrino
+1303,NAP48208,2000-12-10,Campania,Naples,No,0,CPA229988807,Mauro,Bianco
+1304,SAL85318,2022-04-06,Campania,Salerno,No,0,CPA367871902,Ludovico,Mazza
+1305,TRA73493,2004-05-15,Sicily,Trapani,Yes,8,SCY762176946,Lorenzo,Longo
+1306,SAL63044,2021-08-04,Campania,Salerno,No,0,CPA780507511,Vito,Mariani
+1307,SYR10252,2011-07-21,Sicily,Syracuse,No,0,SCY567228964,Arianna,Pagano
+1308,CAL95916,2019-03-09,Sicily,Caltanissetta,No,0,SCY313602058,Walter,Bruno
+1309,VIT84767,2000-03-11,Sicily,Vittoria,No,0,SCY474478644,Edoardo,Gentile
+1310,REN42056,2006-06-20,Calabria,Rende,No,0,CLA198265740,Michele,Bianchi
+1311,ACR20257,2003-06-09,Calabria,Acri,Yes,19,CLA199393731,Bruno,Santoro
+1312,SAL44258,2002-09-16,Campania,Salerno,Yes,4,CPA66593144,Raul,Ricci
+1313,VIT44678,2013-03-11,Sicily,Vittoria,No,0,SCY384232520,Guido,Greco
+1314,VIT80139,2017-04-12,Sicily,Vittoria,Yes,16,SCY441573185,Alberto,Giordano
+1315,SAL65610,2016-04-12,Campania,Salerno,No,0,CPA87623207,Valerio,Sala
+1316,RAG29338,2018-12-23,Sicily,Ragusa,Yes,3,SCY525653644,Daniele,Rossi
+1317,CAL89899,2013-04-16,Sicily,Caltanissetta,No,0,SCY564901729,Daniele,Bruno
+1318,COS10847,2014-05-23,Calabria,Cosenza,No,0,CLA56141929,Saverio,Riva
+1319,BEN36968,2009-12-07,Campania,Benevento,No,0,CPA113297455,Raffaello,Mazza
+1320,CAT18119,2012-01-11,Sicily,Catania,No,0,SCY52214662,Costanza,Romano
+1321,ACR42568,2012-06-24,Calabria,Acri,Yes,5,CLA550590501,Fulvio,Gallo
+1322,CAS08823,2016-03-22,Campania,Caserta,Yes,12,CPA755920476,Rosa,Galli
+1323,TAR31410,2016-02-24,Puglia,Taranto,Yes,1,PGA832125013,Aldo,Sala
+1324,CRO74350,2019-02-27,Calabria,Crotone,No,0,CLA55173438,Niccolo,Moretti
+1325,BEN61016,2011-01-27,Campania,Benevento,No,0,CPA978378848,Ugo,Serra
+1326,COR37209,2004-08-29,Calabria,Corigliano-Rossano,No,0,CLA496095207,Irene,Bruno
+1327,COS40059,2009-11-10,Calabria,Cosenza,No,0,CLA410380001,Silvio,Bianco
+1328,CAT37780,2003-02-19,Calabria,Catanzaro,No,0,CLA648358257,Fioretta,Bruno
+1329,MON56422,2011-05-04,Calabria,Montalto Uffugo,No,0,CLA334584657,Matilde,Greco
+1330,SYR43682,2022-04-05,Sicily,Syracuse,Yes,17,SCY123574359,Marzia,Costa
+1331,VIT15809,2010-09-25,Sicily,Vittoria,Yes,1,SCY394135690,Leonardo,Rossi
+1332,LAM73792,2004-07-01,Calabria,Lamezia Terme,No,0,CLA87795908,Emilia,Ferrara
+1333,CAS65468,2008-10-03,Calabria,Castrovillari,No,0,CLA635692159,Mattia,Marchetti
+1334,ACR13603,2006-07-30,Calabria,Acri,No,0,CLA964240780,Simone,Fontana
+1335,BEN32341,2015-03-31,Campania,Benevento,Yes,7,CPA943550347,Paolo,Giordano
+1336,SAL50168,2006-01-20,Campania,Salerno,Yes,8,CPA632852378,Emiliano,Santoro
+1337,SYR37304,2021-06-02,Sicily,Syracuse,No,0,SCY385476339,Salvo,Bruno
+1338,MAR03960,2005-12-20,Sicily,Marsala,Yes,2,SCY321329098,Roberto,Fontana
+1339,AVE87078,2015-06-10,Campania,Avellino,Yes,8,CPA118012087,Felice,Lombardi
+1340,NAP97538,2000-01-22,Campania,Naples,No,0,CPA820994965,Biagio,Santoro
+1341,BAR71505,2013-09-03,Puglia,Bari,Yes,5,PGA204635671,Raffaello,Rossi
+1342,SAL50185,2019-12-07,Campania,Salerno,No,0,CPA648095866,Edoardo,Testa
+1343,ACR05065,2006-01-30,Calabria,Acri,Yes,18,CLA907412863,Anna,Parisi
+1344,AVE35155,2002-07-21,Campania,Avellino,Yes,9,CPA493707272,Alberto,Battaglia
+1345,BAR84692,2000-08-05,Puglia,Bari,No,0,PGA711449773,Daniele,Ferri
+1346,VIT78457,2008-10-11,Sicily,Vittoria,Yes,3,SCY863845632,Asia,Caruso
+1347,BEN73442,2017-10-02,Campania,Benevento,No,0,CPA872262214,Stefania,Rossi
+1348,ACR35974,2008-11-23,Calabria,Acri,Yes,16,CLA503542509,Lucio,Greco
+1349,MON67296,2019-02-12,Calabria,Montalto Uffugo,No,0,CLA938551068,Sebastiano,Santoro
+1350,PAL90436,2020-07-01,Sicily,Palermo,No,0,SCY47662617,Ludovica,Romano
+1351,CAS26248,2002-02-19,Calabria,Castrovillari,No,0,CLA884680983,Rita,Bruno
+1352,MES83846,2009-08-20,Sicily,Messina,No,0,SCY711688969,Mirco,Rossetti
+1353,ACR61262,2020-04-03,Calabria,Acri,Yes,13,CLA189141387,Tiziano,Bruno
+1354,COR58591,2000-07-09,Calabria,Corigliano-Rossano,No,0,CLA234756529,Lucio,Valentini
+1355,FOG13794,2017-11-27,Puglia,Foggia,No,0,PGA898971237,Stefano,Vitali
+1356,ACR55122,2007-03-23,Calabria,Acri,Yes,19,CLA281610460,Ilaria,Caputo
+1357,LAM78948,2018-03-11,Calabria,Lamezia Terme,No,0,CLA379652177,Valentino,Bruno
+1358,BEN47068,2022-03-20,Campania,Benevento,Yes,3,CPA254034667,Marzia,D'angelo
+1359,AND96049,2004-06-23,Puglia,Andria,No,0,PGA294931455,Arianna,Negri
+1360,RAG70999,2019-09-13,Sicily,Ragusa,No,0,SCY606866046,Carla,Lombardi
+1361,MON63056,2018-02-01,Calabria,Montalto Uffugo,Yes,14,CLA76753335,Erica,Bianco
+1362,RAG44141,2006-04-10,Sicily,Ragusa,Yes,10,SCY29405815,Mirco,Cattaneo
+1363,SAL49698,2013-03-26,Campania,Salerno,Yes,10,CPA926123690,Renato,Vitale
+1364,ACR34500,2004-06-24,Calabria,Acri,No,0,CLA436228201,Donatella,Bruno
+1365,MON84833,2004-01-03,Calabria,Montalto Uffugo,No,0,CLA40926326,Angelo,Villa
+1366,AVE57334,2001-08-31,Campania,Avellino,No,0,CPA281091760,Massimiliano,Bruno
+1367,CRO75980,2003-10-09,Calabria,Crotone,No,0,CLA178051828,Alessia,Ruggiero
+1368,BEN56263,2008-01-03,Campania,Benevento,No,0,CPA841727728,Marzia,Rinaldi
+1369,MON04837,2005-10-11,Calabria,Montalto Uffugo,No,0,CLA606916453,Pietro,Testa
+1370,AVE44613,2009-03-22,Campania,Avellino,Yes,16,CPA364603725,Tullio,Rossi
+1371,RAG45130,2016-09-17,Sicily,Ragusa,No,0,SCY906833493,Bruno,Monti
+1372,COS74386,2014-06-22,Calabria,Cosenza,Yes,14,CLA372129863,Giulio,Rossi
+1373,VIT86850,2008-08-29,Sicily,Vittoria,No,0,SCY923573540,Eva,Fiore
+1374,AVE35689,2021-02-15,Campania,Avellino,No,0,CPA454488404,Stefano,Greco
+1375,CRO37141,2016-04-06,Calabria,Crotone,No,0,CLA652824500,Adriano,Bruno
+1376,REG51066,2006-10-10,Calabria,Reggio Calabria,No,0,CLA820121054,Barbara,Santoro
+1377,FOG70761,2013-06-04,Puglia,Foggia,Yes,12,PGA285857754,Lucio,Russo
+1378,SYR34491,2006-05-08,Sicily,Syracuse,No,0,SCY101255302,Samuele,Bianco
+1379,NAP51191,2019-10-15,Campania,Naples,Yes,16,CPA669470862,Ginevra,Palumbo
+1380,CAS49928,2001-11-14,Calabria,Castrovillari,No,0,CLA125182224,Lucia,Carbone
+1381,COR45615,2007-05-11,Calabria,Corigliano-Rossano,Yes,15,CLA851118260,Francesco,Greco
+1382,SAL68969,2006-03-10,Campania,Salerno,No,0,CPA46709678,Stefano,Greco
+1383,GEL85265,2008-08-02,Sicily,Gela,No,0,SCY134826471,Leonardo,Marchetti
+1384,FOG30066,2008-05-16,Puglia,Foggia,Yes,7,PGA696925800,Roberto,Bruno
+1385,SYR38162,2003-12-01,Sicily,Syracuse,Yes,18,SCY893115467,Lorenza,Santoro
+1386,RAG13714,2019-02-21,Sicily,Ragusa,No,0,SCY516655861,Valerio,Parisi
+1387,GEL60307,2005-09-23,Sicily,Gela,No,0,SCY823447684,Costanza,Caputo
+1388,CAS09388,2021-09-15,Campania,Caserta,No,0,CPA477801306,Pasquale,Rossi
+1389,REN63890,2003-07-21,Calabria,Rende,No,0,CLA575165786,Leonardo,Moretti
+1390,SAL91696,2001-07-01,Campania,Salerno,No,0,CPA104122914,Fulvio,Bruno
+1391,LAM14366,2022-03-30,Calabria,Lamezia Terme,No,0,CLA191740299,Gaia,Lombardi
+1392,CAT65031,2012-06-03,Calabria,Catanzaro,Yes,19,CLA479969703,Dario,Longo
+1393,NAP66723,2016-04-03,Campania,Naples,No,0,CPA775546763,Elio,Bruno
+1394,REN73969,2010-11-16,Calabria,Rende,No,0,CLA606434840,Fioretta,Bruno
+1395,CAS52393,2001-02-24,Campania,Caserta,No,0,CPA11061341,Iole,Bianco
+1396,AVE01625,2015-06-25,Campania,Avellino,No,0,CPA613758954,Gabriella,Bianco
+1397,LEC27190,2021-05-01,Puglia,Lecce,No,0,PGA525878941,Lapo,Bianchi
+1398,CAS34975,2016-10-10,Campania,Caserta,Yes,18,CPA810243435,Giulio,Rossi
+1399,CAS41837,2007-07-02,Calabria,Castrovillari,Yes,10,CLA204916028,Alessio,Bianco
+1400,ACR80108,2019-06-23,Calabria,Acri,Yes,13,CLA869136872,Valentino,Moretti
+1401,AVE66034,2013-04-30,Campania,Avellino,Yes,17,CPA256604672,Emanuele,Ferrari
+1402,CAT81084,2014-03-28,Sicily,Catania,No,0,SCY213041616,Sebastiano,Rossi
+1403,VIT65948,2010-08-05,Sicily,Vittoria,No,0,SCY23624172,Matteo,De Luca
+1404,NAP73734,2006-06-26,Campania,Naples,No,0,CPA686631165,Cosimo,Lombardi
+1405,BEN55505,2019-11-15,Campania,Benevento,Yes,12,CPA356184223,Giuliana,Russo
+1406,MAR07559,2003-01-21,Sicily,Marsala,No,0,SCY853482133,Cristian,Bruno
+1407,NAP27832,2016-08-17,Campania,Naples,Yes,15,CPA492245588,Susanna,Bellini
+1408,BEN99144,2019-01-02,Campania,Benevento,No,0,CPA174288980,Felice,Bianchi
+1409,GEL88842,2002-02-13,Sicily,Gela,Yes,16,SCY717628249,Federico,Santoro
+1410,CAS06951,2011-06-28,Campania,Caserta,No,0,CPA140016350,Mattia,Giordano
+1411,BEN63981,2021-07-12,Campania,Benevento,No,0,CPA738613694,Rocco,Santoro
+1412,COS27668,2016-12-21,Calabria,Cosenza,No,0,CLA109777237,Corrado,Bruno
+1413,ACR39661,2012-03-14,Calabria,Acri,Yes,1,CLA732928530,Gabriele,Rossetti
+1414,BEN56034,2005-01-28,Campania,Benevento,No,0,CPA938445559,Sabina,Romano
+1415,AVE26323,2009-03-18,Campania,Avellino,No,0,CPA567276630,Giada,Bruno
+1416,AVE56193,2008-08-13,Campania,Avellino,Yes,7,CPA369124139,Bernardo,Lombardo
+1417,ACR83578,2005-08-22,Calabria,Acri,Yes,9,CLA585055160,Greta,Villa
+1418,REN02154,2021-04-10,Calabria,Rende,No,0,CLA690462530,Rosario,De Santis
+1419,CAT75795,2018-09-28,Calabria,Catanzaro,No,0,CLA706562790,Fioretta,Bruno
+1420,ACR83124,2015-10-02,Calabria,Acri,Yes,17,CLA831034565,Rita,Greco
+1421,COR17443,2003-04-23,Calabria,Corigliano-Rossano,Yes,9,CLA527352467,Diego,Fiore
+1422,COR32436,2010-07-11,Calabria,Corigliano-Rossano,Yes,18,CLA63207018,Saverio,Mazza
+1423,SYR39844,2015-11-01,Sicily,Syracuse,No,0,SCY673197371,Rosa,Caputo
+1424,VIT83466,2012-01-15,Sicily,Vittoria,No,0,SCY157737378,Paola,Rossetti
+1425,CAL65577,2003-03-03,Sicily,Caltanissetta,No,0,SCY502290900,Neri,Russo
+1426,AVE75407,2004-07-15,Campania,Avellino,Yes,13,CPA634718314,Greta,Ricci
+1427,MON93473,2021-03-18,Calabria,Montalto Uffugo,No,0,CLA375248429,Ludovico,Bianco
+1428,CAS87552,2012-11-18,Campania,Caserta,Yes,3,CPA987937463,Mario,Rossi
+1429,CAS60256,2020-10-02,Calabria,Castrovillari,Yes,17,CLA780408738,Lapo,Greco
+1430,CRO75785,2013-08-01,Calabria,Crotone,No,0,CLA781613932,Daniele,Bruno
+1431,CRO61200,2016-08-20,Calabria,Crotone,Yes,8,CLA618464866,Niccolo,Santoro
+1432,AVE36911,2021-01-12,Campania,Avellino,Yes,19,CPA281083697,Ugo,Parisi
+1433,BEN40315,2009-12-08,Campania,Benevento,No,0,CPA585817665,Vittoria,Fontana
+1434,FOG97563,2003-10-25,Puglia,Foggia,Yes,9,PGA284394882,Claudio,Milani
+1435,BEN60028,2017-04-27,Campania,Benevento,No,0,CPA535364608,Miriam,Ferrari
+1436,CAT13806,2018-01-11,Sicily,Catania,No,0,SCY610545788,Angelo,Bianchi
+1437,GEL85876,2019-12-24,Sicily,Gela,No,0,SCY383570046,Patrizio,Rizzo
+1438,NAP63860,2019-12-08,Campania,Naples,Yes,6,CPA358119273,Zeno,Fabbri
+1439,NAP13116,2000-04-04,Campania,Naples,Yes,9,CPA70284881,Antonello,Ricci
+1440,SAL89248,2019-06-19,Campania,Salerno,Yes,12,CPA106501497,Ernesto,Gentile
+1441,SYR92762,2021-07-29,Sicily,Syracuse,No,0,SCY124538360,Nicola,Conti
+1442,SYR00089,2020-11-15,Sicily,Syracuse,Yes,6,SCY924224500,Pietro,Greco
+1443,NAP81891,2017-05-14,Campania,Naples,Yes,9,CPA992918797,Maurizio,Bruno
+1444,NAP26279,2019-11-14,Campania,Naples,No,0,CPA825023856,Mauro,Pellegrini
+1445,SAL29176,2012-10-06,Campania,Salerno,No,0,CPA699323942,Elettra,Greco
+1446,AND79477,2011-05-30,Puglia,Andria,No,0,PGA926637068,Mario,Pellegrini
+1447,REG78249,2008-02-06,Calabria,Reggio Calabria,No,0,CLA816766183,Sabina,Bruno
+1448,COS12629,2018-07-25,Calabria,Cosenza,No,0,CLA315040055,Niccolo,Santoro
+1449,SYR66689,2011-10-08,Sicily,Syracuse,Yes,7,SCY100939353,Valerio,Bruno
+1450,COS99872,2003-04-11,Calabria,Cosenza,Yes,19,CLA631743503,Raffaello,De Santis
+1451,MON91181,2006-03-23,Calabria,Montalto Uffugo,No,0,CLA360314140,Maria,Messina
+1452,CRO77660,2021-12-03,Calabria,Crotone,No,0,CLA710597651,Augusto,Romano
+1453,SAL01397,2011-01-05,Campania,Salerno,Yes,8,CPA698326881,Raffaele,De Santis
+1454,SYR73528,2021-08-29,Sicily,Syracuse,No,0,SCY652510919,Rosario,Neri
+1455,COR25390,2011-12-21,Calabria,Corigliano-Rossano,Yes,6,CLA205904968,Eugenia,Testa
+1456,CAT08669,2020-05-01,Calabria,Catanzaro,Yes,10,CLA563088213,Mattia,Fabbri
+1457,SYR74517,2006-06-15,Sicily,Syracuse,Yes,8,SCY224048851,Massimo,Rinaldi
+1458,CAS13896,2013-09-18,Calabria,Castrovillari,No,0,CLA78537254,Rosa,Amato
+1459,FOG42537,2019-09-06,Puglia,Foggia,Yes,2,PGA249473382,Davide,Ferraro
+1460,PAL32026,2019-12-29,Sicily,Palermo,Yes,3,SCY567613182,Guido,Barbieri
+1461,TAR57753,2005-05-01,Puglia,Taranto,Yes,14,PGA501958406,Alessandro,Gentile
+1462,CAS36173,2019-02-28,Campania,Caserta,Yes,2,CPA922358484,Ruggero,Gallo
+1463,AVE79690,2013-04-02,Campania,Avellino,Yes,17,CPA593593712,Bianca,Santoro
+1464,REN91512,2002-01-11,Calabria,Rende,Yes,3,CLA579316000,Claudio,Greco
+1465,AVE12285,2013-05-28,Campania,Avellino,Yes,1,CPA207397077,Rosa,Bruno
+1466,MES27171,2008-07-25,Sicily,Messina,Yes,18,SCY292874244,Rocco,Serra
+1467,REG55377,2020-10-08,Calabria,Reggio Calabria,No,0,CLA700889156,Pasquale,Leone
+1468,FOG78825,2021-03-08,Puglia,Foggia,Yes,1,PGA181772476,Felice,Fontana
+1469,AVE59713,2001-03-08,Campania,Avellino,Yes,18,CPA507823325,Nicola,Lombardo
+1470,CRO84486,2018-02-11,Calabria,Crotone,No,0,CLA575117838,Debora,Damico
+1471,BEN23301,2019-02-02,Campania,Benevento,Yes,5,CPA33238735,Biagio,Ricci
+1472,RAG83759,2012-09-22,Sicily,Ragusa,No,0,SCY435910566,Guido,Bianco
+1473,SYR10556,2016-08-01,Sicily,Syracuse,No,0,SCY767981936,Adriano,Leone
+1474,AVE11340,2008-07-02,Campania,Avellino,No,0,CPA904076303,Ferdinando,Bianco
+1475,REN71560,2010-02-02,Calabria,Rende,No,0,CLA266124156,Fiorella,Barbieri
+1476,AVE60459,2007-11-21,Campania,Avellino,Yes,17,CPA975229765,Serena,Ruggiero
+1477,COR79072,2016-04-23,Calabria,Corigliano-Rossano,Yes,15,CLA356613932,Greta,Costa
+1478,BEN85195,2013-10-22,Campania,Benevento,No,0,CPA594577154,Neri,Greco
+1479,COR61412,2010-04-07,Calabria,Corigliano-Rossano,No,0,CLA625166191,Alessandro,Bruno
+1480,MAR38260,2011-08-09,Sicily,Marsala,No,0,SCY595002116,Emanuele,Costa
+1481,CAL89642,2013-06-27,Sicily,Caltanissetta,Yes,12,SCY431968620,Massimo,Bruno
+1482,AVE72508,2004-07-07,Campania,Avellino,No,0,CPA368180478,Tullio,Bianco
+1483,SYR05608,2008-02-18,Sicily,Syracuse,Yes,3,SCY728892950,Emilia,Bianco
+1484,COS47640,2001-08-04,Calabria,Cosenza,No,0,CLA978906258,Alessio,Bianco
+1485,CRO93754,2019-03-01,Calabria,Crotone,No,0,CLA35084597,Dafne,Greco
+1486,VIT29917,2012-07-07,Sicily,Vittoria,No,0,SCY387157036,Giuliano,Moretti
+1487,BAR82147,2021-03-26,Puglia,Bari,Yes,14,PGA169173838,Fabrizio,Sartori
+1488,CAS73884,2000-02-07,Campania,Caserta,No,0,CPA67210831,Luigi,Rossi
+1489,CRO25202,2009-09-07,Calabria,Crotone,No,0,CLA594536190,Filippo,Fabbri
+1490,AVE86056,2003-10-01,Campania,Avellino,No,0,CPA579337644,Guido,Santoro
+1491,COS00509,2004-12-28,Calabria,Cosenza,No,0,CLA234705870,Giovanni,Montanari
+1492,AVE84355,2009-05-06,Campania,Avellino,No,0,CPA158638204,Fabrizio,Galli
+1493,REN89515,2019-10-26,Calabria,Rende,No,0,CLA8062184,Azzurra,Russo
+1494,GEL77487,2012-02-03,Sicily,Gela,Yes,13,SCY350370213,Giorgia,Marino
+1495,LAM27639,2000-05-23,Calabria,Lamezia Terme,Yes,2,CLA431861617,Stella,Bruno
+1496,NAP56688,2021-12-08,Campania,Naples,Yes,5,CPA702530824,Michele,Serra
+1497,LAM32228,2021-03-04,Calabria,Lamezia Terme,No,0,CLA825450228,Salvo,Ferraro
+1498,SYR66617,2014-10-23,Sicily,Syracuse,No,0,SCY477186310,Nicola,Bianco
+1499,TAR85035,2007-05-31,Puglia,Taranto,Yes,17,PGA989530200,Lorenzo,Santoro
+1500,TRA73366,2014-07-08,Sicily,Trapani,No,0,SCY57403351,Rossana,Bruno
+1501,BEN88626,2020-11-19,Campania,Benevento,No,0,CPA332720013,Tullio,Greco
+1502,GEL09890,2001-12-06,Sicily,Gela,No,0,SCY319716382,Davide,Greco
+1503,TAR16819,2020-10-03,Puglia,Taranto,No,0,PGA466760557,Marzia,Greco
+1504,VIB33791,2005-12-14,Calabria,Vibo Valentia,No,0,CLA339771942,Raffaele,Bellini
+1505,LEC53813,2000-09-20,Puglia,Lecce,Yes,9,PGA105527818,Alberto,Marini
+1506,PAL11265,2007-04-28,Sicily,Palermo,No,0,SCY917422756,Valerio,Caputo
+1507,PAL23525,2017-12-15,Sicily,Palermo,Yes,2,SCY360379490,Biagio,Morelli
+1508,COR79553,2000-06-22,Calabria,Corigliano-Rossano,No,0,CLA636505047,Mattia,D'angelo
+1509,NAP41824,2009-08-15,Campania,Naples,No,0,CPA881273019,Greta,Bianco
+1510,AVE16036,2020-05-25,Campania,Avellino,Yes,16,CPA199050455,Ezio,Bruno
+1511,LEC60534,2005-09-26,Puglia,Lecce,No,0,PGA456738832,Gabriele,Milani
+1512,CRO00031,2009-04-12,Calabria,Crotone,No,0,CLA617551745,Federica,Ferrara
+1513,SYR72514,2015-12-13,Sicily,Syracuse,Yes,3,SCY771291912,Lucio,Gallo
+1514,VIB05146,2013-04-18,Calabria,Vibo Valentia,Yes,18,CLA135737849,Andrea,Giuliani
+1515,BEN07601,2020-05-10,Campania,Benevento,No,0,CPA446027190,Emma,Russo
+1516,LAM52557,2011-09-12,Calabria,Lamezia Terme,Yes,17,CLA429573639,Rocco,Bruno
+1517,VIT54806,2022-03-03,Sicily,Vittoria,No,0,SCY739094584,Antonello,Bruno
+1518,COS78602,2005-05-29,Calabria,Cosenza,Yes,11,CLA992125729,Antonia,Bruno
+1519,MES83640,2000-03-27,Sicily,Messina,Yes,19,SCY269554989,Rocco,Gallo
+1520,SAL80338,2010-05-20,Campania,Salerno,Yes,17,CPA628229544,Riccardo,Bruno
+1521,REG36575,2014-05-18,Calabria,Reggio Calabria,Yes,18,CLA724718647,Caterina,Bruno
+1522,AND20270,2019-08-14,Puglia,Andria,No,0,PGA326979207,Simone,Rinaldi
+1523,MON55212,2017-07-08,Calabria,Montalto Uffugo,No,0,CLA329182608,Isabella,Santoro
+1524,TRA32248,2008-10-02,Sicily,Trapani,Yes,8,SCY56153398,Tullio,Ricci
+1525,ACR22433,2012-09-13,Calabria,Acri,No,0,CLA114471375,Paolo,Bianco
+1526,LAM10142,2000-04-18,Calabria,Lamezia Terme,No,0,CLA455454104,Lucio,Bianco
+1527,BEN89271,2016-02-16,Campania,Benevento,No,0,CPA380045672,Cecilia,Ferri
+1528,CAL32854,2010-11-25,Sicily,Caltanissetta,No,0,SCY44076445,Diego,Santoro
+1529,BAR02074,2008-05-12,Puglia,Bari,Yes,1,PGA386752629,Stefano,Rizzo
+1530,COS31697,2018-12-12,Calabria,Cosenza,No,0,CLA70790918,Rocco,Sala
+1531,ACR66625,2014-01-18,Calabria,Acri,No,0,CLA744232962,Agnese,Rossetti
+1532,MES09720,2000-07-01,Sicily,Messina,No,0,SCY125107639,Valentina,Fabbri
+1533,AVE68902,2018-11-09,Campania,Avellino,No,0,CPA250362998,Sara,Montanari
+1534,VIT96277,2012-02-26,Sicily,Vittoria,Yes,6,SCY715488571,Patrizio,Sala
+1535,SAL70330,2021-10-13,Campania,Salerno,No,0,CPA599698558,Raffaele,Milani
+1536,TRA80151,2006-07-05,Sicily,Trapani,No,0,SCY437762751,Cristian,Bruno
+1537,CAT53586,2018-05-03,Sicily,Catania,No,0,SCY944623093,Walter,Fiore
+1538,CAS90260,2001-07-11,Calabria,Castrovillari,No,0,CLA336553534,Adriano,Mancini
+1539,BAR71202,2011-03-10,Puglia,Bari,Yes,19,PGA213997563,Antonella,Bruno
+1540,AVE94412,2019-12-13,Campania,Avellino,No,0,CPA372723784,Vito,Bruno
+1541,REG47709,2018-12-24,Calabria,Reggio Calabria,No,0,CLA332581665,Sergio,Valentini
+1542,CAS98864,2015-12-21,Campania,Caserta,No,0,CPA132879597,Sabina,Bruno
+1543,LAM95311,2021-11-13,Calabria,Lamezia Terme,No,0,CLA173527604,Chiara,Ricci
+1544,MON47398,2002-04-12,Calabria,Montalto Uffugo,Yes,10,CLA41028209,Donatella,D'amico
+1545,CAS95893,2012-10-15,Calabria,Castrovillari,No,0,CLA933088555,Carlotta,Bianchi
+1546,CAL40913,2011-04-26,Sicily,Caltanissetta,Yes,2,SCY433573993,Rita,Greco
+1547,REN53246,2011-12-30,Calabria,Rende,Yes,13,CLA411635442,Salvatore,Santoro
+1548,CAT15385,2011-05-28,Sicily,Catania,No,0,SCY527471055,Felice,Lombardi
+1549,COS28483,2002-12-24,Calabria,Cosenza,No,0,CLA363737320,Debora,De Santis
+1550,MON31867,2022-03-29,Calabria,Montalto Uffugo,Yes,8,CLA611998616,Ginevra,Greco
+1551,GEL83427,2006-03-25,Sicily,Gela,Yes,11,SCY528558407,Marco,Santoro
+1552,SAL19928,2016-05-14,Campania,Salerno,No,0,CPA73983520,Roberto,Giordano
+1553,AND00252,2012-08-14,Puglia,Andria,No,0,PGA283837445,Rita,Martinelli
+1554,SAL58487,2019-09-29,Campania,Salerno,No,0,CPA256650036,Valentino,Rizzi
+1555,LAM39644,2019-09-29,Calabria,Lamezia Terme,Yes,4,CLA771049402,Patrizio,Damico
+1556,FOG63400,2017-10-18,Puglia,Foggia,No,0,PGA435608096,Mattia,Bruno
+1557,CAT43391,2015-10-12,Sicily,Catania,Yes,4,SCY164917352,Raffaello,Bruno
+1558,SYR27436,2021-06-16,Sicily,Syracuse,Yes,8,SCY318582637,Saverio,Costa
+1559,AVE05933,2021-07-17,Campania,Avellino,No,0,CPA106567963,Renato,Bruno
+1560,TRA82991,2007-10-16,Sicily,Trapani,No,0,SCY443738826,Camillo,Barbieri
+1561,CAT35425,2014-08-31,Calabria,Catanzaro,Yes,13,CLA621575137,Paola,Ricci
+1562,BEN40743,2005-11-25,Campania,Benevento,Yes,5,CPA555702240,Giorgia,Leone
+1563,MAR83427,2019-04-16,Sicily,Marsala,Yes,3,SCY154531666,Salvo,Bruno
+1564,PAL44255,2020-12-12,Sicily,Palermo,Yes,2,SCY438016776,Antonello,Santoro
+1565,FOG66813,2019-10-27,Puglia,Foggia,No,0,PGA782343934,Sergio,Bianco
+1566,TRA60751,2012-11-01,Sicily,Trapani,No,0,SCY266044082,Carla,Fiore
+1567,GEL60679,2019-01-20,Sicily,Gela,No,0,SCY225914823,Matteo,Russo
+1568,VIT68433,2008-06-17,Sicily,Vittoria,No,0,SCY425981812,Salvatore,Farina
+1569,MAR12915,2020-11-07,Sicily,Marsala,No,0,SCY107726402,Cosimo,Caputo
+1570,NAP24520,2000-08-24,Campania,Naples,No,0,CPA91680580,Rosario,Bernardi
+1571,NAP34621,2005-04-13,Campania,Naples,No,0,CPA199722514,Violante,Milani
+1572,COR88193,2011-03-25,Calabria,Corigliano-Rossano,No,0,CLA996851657,Sergio,Fiore
+1573,PAL65598,2003-01-03,Sicily,Palermo,No,0,SCY221456799,Domenico,Santoro
+1574,GEL57746,2019-10-14,Sicily,Gela,Yes,16,SCY652298967,Giulio,Greco
+1575,CAS39353,2010-02-17,Campania,Caserta,No,0,CPA867563127,Iole,Santoro
+1576,CAS84808,2003-01-07,Campania,Caserta,No,0,CPA633192681,Lavinia,Bruno
+1577,NAP00979,2000-08-18,Campania,Naples,No,0,CPA698343216,Vittoria,Rizzi
+1578,SAL17735,2019-08-24,Campania,Salerno,No,0,CPA650920157,Stella,Greco
+1579,PAL86113,2006-08-16,Sicily,Palermo,No,0,SCY879290936,Biagio,Martini
+1580,NAP94453,2000-10-01,Campania,Naples,Yes,11,CPA474806335,Monica,Longo
+1581,CAS00383,2000-09-15,Campania,Caserta,No,0,CPA378855764,Salvo,Rossi
+1582,TRA40797,2002-02-20,Sicily,Trapani,Yes,18,SCY798366974,Umberto,Martinelli
+1583,COR34114,2009-05-22,Calabria,Corigliano-Rossano,No,0,CLA521717605,Tommaso,Caputo
+1584,PAL12519,2008-05-27,Sicily,Palermo,No,0,SCY461009608,Barbara,Bruno
+1585,REN33834,2020-09-11,Calabria,Rende,Yes,6,CLA923489948,Emiliano,Bianco
+1586,MAR42112,2008-02-20,Sicily,Marsala,No,0,SCY849325008,Martina,Ferrara
+1587,LEC70411,2016-06-20,Puglia,Lecce,No,0,PGA601565684,Luisa,Piras
+1588,TAR34299,2013-12-25,Puglia,Taranto,No,0,PGA810991950,Vincenzo,Bruno
+1589,SAL39134,2004-03-01,Campania,Salerno,No,0,CPA810665666,Dafne,Bianco
+1590,REN91199,2007-01-31,Calabria,Rende,No,0,CLA893846963,Vittorio,Bruno
+1591,CAS79558,2002-03-04,Calabria,Castrovillari,Yes,10,CLA854915966,Elena,Palumbo
+1592,SAL54723,2002-11-23,Campania,Salerno,No,0,CPA481503421,Fulvio,Bruno
+1593,FOG70943,2001-01-24,Puglia,Foggia,No,0,PGA841858786,Giovanni,Villa
+1594,VIT91128,2000-10-24,Sicily,Vittoria,No,0,SCY740606635,Ezio,Messina
+1595,MES11521,2009-02-03,Sicily,Messina,No,0,SCY564960527,Adele,Galli
+1596,CAT30072,2005-05-10,Calabria,Catanzaro,No,0,CLA73136607,Raffaello,Messina
+1597,BEN88899,2011-02-12,Campania,Benevento,Yes,3,CPA525914818,Sergio,Serra
+1598,GEL29189,2013-10-14,Sicily,Gela,Yes,6,SCY736176129,Sergio,Santoro
+1599,MES04842,2021-07-04,Sicily,Messina,Yes,2,SCY584658391,Eleonora,Farina
+1600,TRA20885,2002-09-17,Sicily,Trapani,Yes,4,SCY261787055,Ada,Vitali
+1601,TRA67583,2001-05-24,Sicily,Trapani,No,0,SCY460491524,Simone,Bruno
+1602,BEN20386,2013-07-17,Campania,Benevento,No,0,CPA675440117,Alma,Greco
+1603,SAL49120,2008-08-29,Campania,Salerno,No,0,CPA228204898,Claudio,Bianco
+1604,AVE21366,2013-07-12,Campania,Avellino,No,0,CPA102346661,Amelia,Greco
+1605,SAL58568,2007-10-22,Campania,Salerno,No,0,CPA322477746,Gabriele,Bruno
+1606,CAT46844,2011-11-20,Calabria,Catanzaro,No,0,CLA706562790,Fioretta,Bruno
+1607,MON02428,2011-03-01,Calabria,Montalto Uffugo,No,0,CLA346370840,Costanza,Bianco
+1608,TRA04526,2015-07-31,Sicily,Trapani,No,0,SCY469361521,Elvira,Bruno
+1609,CAS48365,2003-07-17,Calabria,Castrovillari,No,0,CLA876536766,Claudia,Pellegrini
+1610,SAL41787,2012-12-27,Campania,Salerno,No,0,CPA172692699,Patrizio,Marino
+1611,MON96203,2000-08-12,Calabria,Montalto Uffugo,No,0,CLA976290156,Mauro,Parisi
+1612,LAM64172,2006-02-10,Calabria,Lamezia Terme,Yes,6,CLA230916446,Emiliano,Bruno
+1613,CAT93232,2020-12-07,Sicily,Catania,No,0,SCY994916953,Gioia,Ferraro
+1614,MAR64954,2005-02-19,Sicily,Marsala,No,0,SCY469885734,Paola,Costa
+1615,LAM96924,2001-05-25,Calabria,Lamezia Terme,Yes,11,CLA642148853,Riccardo,Bianco
+1616,SAL78083,2007-10-27,Campania,Salerno,No,0,CPA62246494,Simone,Morelli
+1617,CAT98330,2014-08-04,Sicily,Catania,No,0,SCY570176740,Tullio,Bruno
+1618,BAR18642,2016-09-28,Puglia,Bari,No,0,PGA517721795,Stefano,Bernardi
+1619,SAL17676,2016-06-13,Campania,Salerno,No,0,CPA151701007,Marta,Leone
+1620,NAP96299,2019-04-08,Campania,Naples,No,0,CPA482691045,Giada,Bianco
+1621,RAG41161,2009-09-23,Sicily,Ragusa,No,0,SCY957751059,Maurizio,Rizzo
+1622,AVE18608,2016-02-01,Campania,Avellino,No,0,CPA151066650,Emanuele,Gatti
+1623,CAT57021,2007-01-08,Calabria,Catanzaro,Yes,9,CLA618497537,Bruno,Bernardi
+1624,AVE98753,2014-04-25,Campania,Avellino,No,0,CPA954239492,Federico,Testa
+1625,FOG05556,2007-09-26,Puglia,Foggia,No,0,PGA933783239,Fulvio,Mazza
+1626,CAT86608,2014-02-20,Sicily,Catania,Yes,18,SCY898062728,Gioia,De Santis
+1627,LAM57352,2006-05-02,Calabria,Lamezia Terme,No,0,CLA919684149,Ada,Conti
+1628,LAM06051,2000-02-29,Calabria,Lamezia Terme,No,0,CLA647193344,Lucia,Greco
+1629,NAP71131,2001-11-25,Campania,Naples,No,0,CPA716946128,Vito,De Santis
+1630,PAL71066,2011-02-19,Sicily,Palermo,No,0,SCY952597771,Lorenzo,Bianco
+1631,AVE58983,2019-10-11,Campania,Avellino,Yes,3,CPA912777373,Nives,Galli
+1632,COR48432,2010-05-13,Calabria,Corigliano-Rossano,No,0,CLA60250762,Carlo,Santoro
+1633,SYR25949,2002-05-28,Sicily,Syracuse,Yes,12,SCY80363460,Antonio,Rossi
+1634,FOG68046,2006-10-23,Puglia,Foggia,No,0,PGA706079773,Aldo,Bruno
+1635,SAL41867,2010-04-07,Campania,Salerno,No,0,CPA705076818,Giovanni,Santoro
+1636,SYR76223,2017-05-12,Sicily,Syracuse,Yes,15,SCY629422225,Amelia,Donati
+1637,GEL86756,2008-04-02,Sicily,Gela,No,0,SCY739174638,Michele,Barbieri
+1638,CAS92030,2018-03-03,Campania,Caserta,No,0,CPA216529206,Vincenzo,Pellegrini
+1639,NAP41477,2021-04-25,Campania,Naples,Yes,13,CPA687514674,Elettra,Vitale
+1640,AVE58456,2001-10-31,Campania,Avellino,No,0,CPA142512698,Rebecca,Bianco
+1641,CAS21937,2008-10-16,Calabria,Castrovillari,No,0,CLA220076070,Gabriella,Sartori
+1642,REG69381,2004-04-24,Calabria,Reggio Calabria,No,0,CLA711827700,Lorenzo,Greco
+1643,ACR52968,2005-12-12,Calabria,Acri,No,0,CLA485044997,Camillo,De Luca
+1644,VIB22802,2000-04-11,Calabria,Vibo Valentia,Yes,11,CLA506638916,Vito,Ferraro
+1645,VIT27755,2008-06-12,Sicily,Vittoria,Yes,18,SCY766281153,Vito,Monti
+1646,MON04554,2010-01-24,Calabria,Montalto Uffugo,No,0,CLA375248429,Ludovico,Bianco
+1647,NAP63860,2000-12-02,Campania,Naples,Yes,2,CPA807000152,Alessandro,Bruno
+1648,CAS00642,2010-03-06,Campania,Caserta,Yes,7,CPA94824025,Raffaele,Caruso
+1649,ACR80965,2016-10-16,Calabria,Acri,No,0,CLA50346238,Zeno,Greco
+1650,AVE17930,2017-03-05,Campania,Avellino,Yes,10,CPA155097400,Cristian,Santoro
+1651,GEL75476,2016-12-20,Sicily,Gela,Yes,19,SCY303366853,Giacomo,Mancini
+1652,GEL28342,2012-03-05,Sicily,Gela,Yes,2,SCY186582809,Renato,Vitali
+1653,PAL96796,2007-06-30,Sicily,Palermo,Yes,9,SCY366336921,Matteo,Moretti
+1654,BEN20552,2007-08-17,Campania,Benevento,No,0,CPA622658764,Silvio,Barone
+1655,SAL02750,2006-08-29,Campania,Salerno,Yes,12,CPA1575932,Gabriele,D'angelo
+1656,RAG61229,2014-04-19,Sicily,Ragusa,No,0,SCY757514091,Nicola,Greco
+1657,VIT42007,2017-11-19,Sicily,Vittoria,No,0,SCY689413721,Alessio,Piras
+1658,CAS66718,2011-01-19,Calabria,Castrovillari,No,0,CLA286018583,Fabrizio,De Santis
+1659,AVE01293,2014-10-09,Campania,Avellino,No,0,CPA408130707,Federica,Carbone
+1660,SYR06004,2005-09-03,Sicily,Syracuse,No,0,SCY676687064,Ada,Bianco
+1661,CAL12962,2020-01-13,Sicily,Caltanissetta,No,0,SCY583877817,Leonardo,Vitali
+1662,AVE54686,2002-02-01,Campania,Avellino,Yes,13,CPA801978677,Alessandra,Piras
+1663,VIB53111,2009-12-27,Calabria,Vibo Valentia,No,0,CLA568111574,Laura,Bianchi
+1664,CRO41210,2000-07-08,Calabria,Crotone,No,0,CLA456164407,Roberto,Messina
+1665,NAP23295,2009-04-03,Campania,Naples,No,0,CPA357246339,Giovanni,Greco
+1666,SAL94657,2008-11-28,Campania,Salerno,No,0,CPA810665666,Dafne,Bianco
+1667,REN10040,2015-01-08,Calabria,Rende,Yes,19,CLA946388875,Niccolo,Bianco
+1668,VIB28304,2009-12-12,Calabria,Vibo Valentia,No,0,CLA135290882,Vincenzo,Caputo
+1669,REG41162,2015-10-26,Calabria,Reggio Calabria,Yes,18,CLA480894445,Mario,Rossi
+1670,SAL03521,2014-08-25,Campania,Salerno,Yes,8,CPA180921992,Isabella,Gatti
+1671,COR68369,2000-09-03,Calabria,Corigliano-Rossano,No,0,CLA270792489,Giacomo,Russo
+1672,CRO38802,2015-04-12,Calabria,Crotone,No,0,CLA267016133,Mirco,Gallo
+1673,TAR98839,2020-02-13,Puglia,Taranto,Yes,2,PGA587026026,Claudio,Moretti
+1674,ACR33878,2019-10-16,Calabria,Acri,No,0,CLA542211331,Augusto,Sala
+1675,MES17620,2014-12-08,Sicily,Messina,No,0,SCY547026138,Vincenzo,Greco
+1676,VIB22969,2017-10-10,Calabria,Vibo Valentia,No,0,CLA106832082,Salvatore,Russo
+1677,CRO27071,2017-08-10,Calabria,Crotone,No,0,CLA38557005,Elio,Ferrari
+1678,CAL63791,2018-08-19,Sicily,Caltanissetta,Yes,8,SCY69698967,Giacomo,Lombardi
+1679,MON33931,2021-01-18,Calabria,Montalto Uffugo,Yes,7,CLA47837297,Isabella,Farina
+1680,CAS65268,2014-04-18,Calabria,Castrovillari,No,0,CLA306027739,Raffaella,Greco
+1681,VIB15586,2011-01-10,Calabria,Vibo Valentia,No,0,CLA499387882,Valentina,Piras
+1682,COS61015,2013-11-10,Calabria,Cosenza,Yes,6,CLA854453731,Stefania,Bruno
+1683,NAP47698,2015-06-21,Campania,Naples,Yes,15,CPA555516674,Giovanni,Conte
+1684,VIT13211,2004-06-03,Sicily,Vittoria,No,0,SCY894914370,Luigi,Bellini
+1685,CAS66388,2015-09-19,Calabria,Castrovillari,Yes,11,CLA915812864,Bernardo,Gallo
+1686,COR37835,2010-01-30,Calabria,Corigliano-Rossano,Yes,5,CLA519128509,Bernardo,Valentini
+1687,MON74100,2009-03-17,Calabria,Montalto Uffugo,No,0,CLA191912273,Costanza,Bruno
+1688,NAP08257,2013-01-16,Campania,Naples,Yes,11,CPA748571983,Giuliana,Bruno
+1689,CAT65521,2007-10-20,Sicily,Catania,Yes,19,SCY266768372,Camillo,Russo
+1690,LAM68706,2015-07-24,Calabria,Lamezia Terme,No,0,CLA812498789,Pasquale,Romano
+1691,SAL93006,2006-01-05,Campania,Salerno,Yes,7,CPA157029219,Gabriele,Romano
+1692,CAT18421,2020-12-01,Calabria,Catanzaro,Yes,7,CLA742265283,Marzia,Bruno
+1693,AVE73895,2000-01-21,Campania,Avellino,Yes,16,CPA114096277,Filippo,Fiore
+1694,GEL17420,2011-09-30,Sicily,Gela,Yes,1,SCY508112142,Marta,Ferrari
+1695,CAT76010,2004-09-11,Sicily,Catania,No,0,SCY354792450,Ezio,Bruno
+1696,CAL68424,2011-06-13,Sicily,Caltanissetta,Yes,12,SCY920473055,Tullio,Bruno
+1697,CAT55904,2012-10-30,Sicily,Catania,No,0,SCY237211070,Tommaso,Vitali
+1698,COS27064,2010-11-17,Calabria,Cosenza,No,0,CLA268059029,Barbara,Pagano
+1699,COS13476,2003-12-08,Calabria,Cosenza,No,0,CLA243152932,Fausto,Fontana
+1700,CAS88331,2000-06-04,Campania,Caserta,Yes,18,CPA191759864,Fausto,Santoro
+1701,COR87762,2011-09-09,Calabria,Corigliano-Rossano,Yes,13,CLA106833928,Giuliana,Ferraro
+1702,VIT42337,2010-02-03,Sicily,Vittoria,Yes,17,SCY761061977,Gianluca,Bianco
+1703,NAP13463,2006-05-15,Campania,Naples,No,0,CPA701261968,Ginevra,Piras
+1704,LAM44522,2019-12-31,Calabria,Lamezia Terme,Yes,6,CLA563835171,Laura,Ferrari
+1705,TRA72322,2022-01-28,Sicily,Trapani,No,0,SCY120040613,Bianca,Rinaldi
+1706,AVE24208,2013-11-01,Campania,Avellino,No,0,CPA321437257,Irene,Testa
+1707,AVE99431,2000-11-20,Campania,Avellino,No,0,CPA387167092,Lapo,Ruggiero
+1708,COR75927,2009-12-03,Calabria,Corigliano-Rossano,No,0,CLA870652146,Silvio,Ricci
+1709,REN69408,2000-12-11,Calabria,Rende,No,0,CLA662463237,Niccolo,Ferrari
+1710,AND18926,2016-08-21,Puglia,Andria,Yes,12,PGA698506257,Corrado,Parisi
+1711,CRO68072,2002-09-23,Calabria,Crotone,Yes,2,CLA998127789,Mario,Ferrari
+1712,CAS46307,2001-09-01,Calabria,Castrovillari,No,0,CLA996529938,Fabrizio,Caputo
+1713,TAR51012,2012-12-22,Puglia,Taranto,No,0,PGA323675981,Ernesto,Colombo
+1714,VIT10024,2003-11-26,Sicily,Vittoria,Yes,13,SCY655139841,Lucio,Marchetti
+1715,TAR95203,2011-08-21,Puglia,Taranto,Yes,16,PGA424277154,Camillo,Bianco
+1716,BEN97213,2004-05-20,Campania,Benevento,No,0,CPA751526817,Mattia,Gallo
+1717,SYR31222,2011-01-29,Sicily,Syracuse,Yes,9,SCY853208513,Diego,De Santis
+1718,LAM98577,2009-02-09,Calabria,Lamezia Terme,No,0,CLA145514270,Alessia,Bruno
+1719,CAS50029,2005-11-06,Calabria,Castrovillari,No,0,CLA47188356,Benedetta,Bianchi
+1720,LAM60029,2014-03-11,Calabria,Lamezia Terme,Yes,14,CLA147510256,Ada,Greco
+1721,CAT33015,2012-07-15,Calabria,Catanzaro,No,0,CLA447137046,Luigi,De Santis
+1722,NAP82999,2009-08-07,Campania,Naples,Yes,12,CPA865573355,Raffaele,Bernardi
+1723,TAR04149,2009-11-16,Puglia,Taranto,No,0,PGA786397698,Roberto,Bruno
+1724,COR67908,2009-12-14,Calabria,Corigliano-Rossano,Yes,13,CLA850126840,Federica,Bruno
+1725,CAL23249,2001-08-06,Sicily,Caltanissetta,Yes,7,SCY372712849,Luigi,Bianco
+1726,CAS90167,2002-02-27,Campania,Caserta,Yes,16,CPA219840175,Nives,Greco
+1727,CAT74102,2014-09-18,Sicily,Catania,No,0,SCY52214662,Costanza,Romano
+1728,VIB40771,2019-09-29,Calabria,Vibo Valentia,No,0,CLA371726659,Bruno,Sartori
+1729,NAP93684,2016-04-14,Campania,Naples,No,0,CPA385953651,Alessio,Rossi
+1730,TRA94169,2005-05-20,Sicily,Trapani,No,0,SCY204616700,Ernesto,Piras
+1731,CRO66972,2012-04-11,Calabria,Crotone,No,0,CLA266392405,Raul,Silvestri
+1732,CAS53190,2005-11-28,Calabria,Castrovillari,No,0,CLA832256014,Susanna,Caputo
+1733,CAL59208,2019-10-30,Sicily,Caltanissetta,No,0,SCY151449177,Chiara,Martinelli
+1734,CAT26688,2001-03-28,Calabria,Catanzaro,No,0,CLA23772823,Camillo,Negri
+1735,RAG90317,2016-11-09,Sicily,Ragusa,Yes,11,SCY310247590,Davide,Bruno
+1736,LEC17159,2011-07-19,Puglia,Lecce,Yes,15,PGA43777637,Ezio,Bianco
+1737,REN26543,2014-08-01,Calabria,Rende,No,0,CLA750068243,Leonardo,Bianchi
+1738,TRA00000,2015-07-13,Sicily,Trapani,No,0,SCY880227033,Alessandra,Greco
+1739,RAG91291,2005-08-31,Sicily,Ragusa,No,0,SCY703139385,Emiliano,Santoro
+1740,MAR06884,2008-12-15,Sicily,Marsala,No,0,SCY954969561,Alice,Barbieri
+1741,LAM69057,2007-11-24,Calabria,Lamezia Terme,No,0,CLA274322785,Arianna,Bruno
+1742,NAP03662,2004-09-14,Campania,Naples,No,0,CPA515968206,Zeno,Santoro
+1743,CRO87972,2009-11-27,Calabria,Crotone,Yes,10,CLA761607282,Ferdinando,Bruno
+1744,CAT44609,2020-09-27,Calabria,Catanzaro,No,0,CLA512460124,Alessandro,Esposito
+1745,TAR87698,2001-01-21,Puglia,Taranto,Yes,16,PGA826215559,Ugo,Damico
+1746,PAL63415,2000-09-28,Sicily,Palermo,Yes,18,SCY250183885,Roberto,Vitale
+1747,CRO49716,2001-11-23,Calabria,Crotone,No,0,CLA377651834,Marta,Moretti
+1748,CAT12909,2017-11-01,Sicily,Catania,Yes,1,SCY895114354,Rocco,Martinelli
+1749,AVE47416,2021-01-17,Campania,Avellino,Yes,11,CPA179904613,Neri,Bianco
+1750,MAR05039,2019-04-25,Sicily,Marsala,No,0,SCY201008435,Matteo,Bruno
+1751,CAS11524,2015-08-01,Campania,Caserta,No,0,CPA501781069,Francesca,Sanna
+1752,COR44629,2011-04-24,Calabria,Corigliano-Rossano,No,0,CLA523512602,Miriam,Greco
+1753,LEC26277,2003-08-04,Puglia,Lecce,Yes,12,PGA533075856,Simone,Vitali
+1754,CAT35726,2021-03-20,Sicily,Catania,No,0,SCY603385524,Sebastiano,Gentile
+1755,RAG09745,2007-12-10,Sicily,Ragusa,Yes,5,SCY226773059,Giovanni,Bruno
+1756,REN13863,2014-09-10,Calabria,Rende,No,0,CLA379826739,Giada,Santoro
+1757,TAR89085,2009-08-03,Puglia,Taranto,Yes,11,PGA988530484,Domenico,Greco
+1758,SAL70735,2007-10-20,Campania,Salerno,Yes,16,CPA934327591,Greta,Pellegrino
+1759,AVE08863,2018-06-12,Campania,Avellino,Yes,7,CPA360871305,Claudio,Martinelli
+1760,CAT08662,2002-05-17,Sicily,Catania,Yes,18,SCY212894869,Carlo,Milani
+1761,ACR66567,2012-02-25,Calabria,Acri,No,0,CLA685336328,Biagio,Ricci
+1762,MES90844,2019-08-24,Sicily,Messina,No,0,SCY673358295,Dario,Greco
+1763,LAM60501,2006-02-14,Calabria,Lamezia Terme,Yes,12,CLA450035752,Fabrizio,Testa
+1764,SAL50005,2015-01-31,Campania,Salerno,No,0,CPA11072009,Emiliano,Ferrari
+1765,CRO92897,2000-07-24,Calabria,Crotone,No,0,CLA395693470,Roberta,Bruno
+1766,COS72178,2015-01-28,Calabria,Cosenza,No,0,CLA56889568,Valentina,Caruso
+1767,SYR68567,2009-04-26,Sicily,Syracuse,Yes,14,SCY405514567,Andrea,Rossi
+1768,PAL34027,2005-05-05,Sicily,Palermo,No,0,SCY994241445,Ezio,Vitale
+1769,REN73271,2021-09-07,Calabria,Rende,No,0,CLA745922067,Mattia,Santoro
+1770,COS06261,2021-08-03,Calabria,Cosenza,Yes,13,CLA217576853,Neri,Mariani
+1771,CRO99137,2021-09-25,Calabria,Crotone,Yes,17,CLA49137374,Claudio,Monti
+1772,SAL20703,2007-02-25,Campania,Salerno,No,0,CPA580403589,Amelia,Benedetti
+1773,COS97478,2011-01-12,Calabria,Cosenza,No,0,CLA58157864,Valeria,Mazza
+1774,REN93415,2013-08-14,Calabria,Rende,Yes,14,CLA948612117,Luigi,Santoro
+1775,NAP83655,2004-12-24,Campania,Naples,No,0,CPA868586333,Bruno,Fabbri
+1776,TRA50563,2000-06-17,Sicily,Trapani,No,0,SCY822332020,Elio,Fiore
+1777,SYR20664,2016-11-19,Sicily,Syracuse,Yes,6,SCY218807754,Alessio,Mazza
+1778,SAL54883,2021-06-13,Campania,Salerno,No,0,CPA271667469,Adele,Fontana
+1779,BAR66859,2012-11-08,Puglia,Bari,Yes,17,PGA65792524,Raffaello,Greco
+1780,NAP96492,2020-03-30,Campania,Naples,No,0,CPA671525596,Laura,Giuliani
+1781,SAL69852,2014-10-29,Campania,Salerno,No,0,CPA334968739,Matilde,Bruno
+1782,PAL80282,2022-03-27,Sicily,Palermo,Yes,16,SCY838886226,Riccardo,Santoro
+1783,CAS48203,2007-11-09,Calabria,Castrovillari,No,0,CLA901819295,Patrizio,Fabbri
+1784,SAL76747,2006-04-13,Campania,Salerno,No,0,CPA703203830,Aldo,Bruno
+1785,NAP31358,2014-12-05,Campania,Naples,Yes,19,CPA570247123,Alice,Barbieri
+1786,VIT69646,2002-06-06,Sicily,Vittoria,No,0,SCY547358809,Alessandra,Bianco
+1787,MON41143,2013-11-18,Calabria,Montalto Uffugo,Yes,18,CLA881831478,Susanna,Santoro
+1788,TAR08267,2002-08-04,Puglia,Taranto,Yes,10,PGA422688641,Dafne,Russo
+1789,AVE17615,2001-12-14,Campania,Avellino,Yes,15,CPA824802019,Iole,Santoro
+1790,COR55852,2003-03-31,Calabria,Corigliano-Rossano,No,0,CLA362420086,Antonio,Bernardi
+1791,MAR09452,2013-12-28,Sicily,Marsala,No,0,SCY526103061,Salvatore,Pellegrino
+1792,VIB29647,2008-10-16,Calabria,Vibo Valentia,Yes,9,CLA499819085,Bruno,Santoro
+1793,RAG41575,2002-06-02,Sicily,Ragusa,No,0,SCY718347152,Niccolo,Bruno
+1794,CAS56837,2014-02-04,Campania,Caserta,No,0,CPA132036965,Federico,Sartori
+1795,VIB28068,2009-12-23,Calabria,Vibo Valentia,No,0,CLA435005999,Biagio,Bruno
+1796,TRA34791,2020-08-10,Sicily,Trapani,Yes,15,SCY34074960,Caterina,Costa
+1797,ACR33986,2020-08-25,Calabria,Acri,Yes,3,CLA305577261,Lavinia,Greco
+1798,CAT72267,2014-01-08,Sicily,Catania,No,0,SCY547235575,Stefano,Amato
+1799,SAL75964,2019-05-24,Campania,Salerno,Yes,3,CPA569455899,Gianluca,Bianchi
+1800,MAR06992,2006-10-14,Sicily,Marsala,No,0,SCY568241541,Carlo,Bruno
+1801,COS95731,2011-10-03,Calabria,Cosenza,No,0,CLA956759689,Edoardo,Messina
+1802,TRA84644,2017-12-02,Sicily,Trapani,No,0,SCY150342341,Lavinia,Riva
+1803,CAT64322,2011-08-27,Calabria,Catanzaro,Yes,14,CLA173455945,Gabriele,Bruno
+1804,GEL99499,2018-12-03,Sicily,Gela,Yes,2,SCY793115320,Renato,Bruno
+1805,MES19605,2002-02-28,Sicily,Messina,Yes,12,SCY396607514,Mirco,Moretti
+1806,COS20930,2010-01-24,Calabria,Cosenza,Yes,16,CLA779687364,Cosimo,Ferraro
+1807,CAT94413,2008-05-17,Calabria,Catanzaro,No,0,CLA723716483,Rebecca,Fiore
+1808,VIB16690,2020-07-08,Calabria,Vibo Valentia,Yes,13,CLA306679180,Luigi,Pagano
+1809,COS00197,2005-10-25,Calabria,Cosenza,No,0,CLA115562144,Amelia,Russo
+1810,BAR11531,2010-10-03,Puglia,Bari,Yes,13,PGA975822819,Ernesto,Russo
+1811,CAS12040,2000-11-18,Calabria,Castrovillari,Yes,10,CLA48134248,Alfredo,Rizzi
+1812,TRA42864,2019-11-11,Sicily,Trapani,Yes,14,SCY2660551,Lavinia,Caputo
+1813,ACR63971,2018-09-20,Calabria,Acri,No,0,CLA399645199,Azzurra,Caruso
+1814,COR40343,2016-04-07,Calabria,Corigliano-Rossano,No,0,CLA381917424,Corrado,Bernardi
+1815,AVE57934,2007-05-16,Campania,Avellino,No,0,CPA968481355,Nicola,Bianco
+1816,MON44935,2014-05-01,Calabria,Montalto Uffugo,Yes,19,CLA739607825,Marcello,Gallo
+1817,NAP16362,2011-07-09,Campania,Naples,No,0,CPA933329409,Marta,Bruno
+1818,COS12391,2003-10-13,Calabria,Cosenza,Yes,3,CLA892363247,Claudia,Benedetti
+1819,REN65850,2017-08-18,Calabria,Rende,No,0,CLA8863776,Fabrizio,Rossi
+1820,CAT51664,2017-08-20,Calabria,Catanzaro,No,0,CLA117418193,Chiara,Greco
+1821,RAG77131,2009-09-04,Sicily,Ragusa,No,0,SCY550910572,Giacomo,Moretti
+1822,SAL56378,2004-07-22,Campania,Salerno,No,0,CPA156935184,Raul,Galli
+1823,FOG51765,2001-09-14,Puglia,Foggia,Yes,2,PGA15268396,Ludovico,Barbieri
+1824,PAL36054,2002-07-09,Sicily,Palermo,Yes,10,SCY995276480,Ludovico,Serra
+1825,CAS66162,2005-05-02,Campania,Caserta,No,0,CPA870040982,Alfredo,Costa
+1826,PAL16897,2002-01-28,Sicily,Palermo,Yes,12,SCY360379490,Biagio,Morelli
+1827,TRA62258,2007-06-04,Sicily,Trapani,Yes,15,SCY538554194,Walter,Giordano
+1828,CAT27679,2011-06-24,Sicily,Catania,No,0,SCY853416874,Emilio,Battaglia
+1829,CAT21290,2021-12-26,Calabria,Catanzaro,No,0,CLA262668225,Fabio,Greco
+1830,SAL40691,2018-05-28,Campania,Salerno,No,0,CPA341420968,Erica,Sartori
+1831,LAM16262,2005-04-02,Calabria,Lamezia Terme,Yes,10,CLA673753961,Tullia,Ferraro
+1832,SAL42629,2002-11-04,Campania,Salerno,No,0,CPA60172740,Tiziano,Martini
+1833,ACR85329,2009-01-14,Calabria,Acri,No,0,CLA234636007,Luisa,Mancini
+1834,AVE84700,2017-02-19,Campania,Avellino,Yes,8,CPA712102134,Aldo,Russo
+1835,AVE38176,2019-03-19,Campania,Avellino,Yes,18,CPA989083912,Giovanni,Ricci
+1836,AVE17994,2003-09-04,Campania,Avellino,No,0,CPA752020206,Serena,Russo
+1837,CAS90510,2002-05-07,Calabria,Castrovillari,No,0,CLA615464829,Neri,Greco
+1838,LAM73181,2021-10-13,Calabria,Lamezia Terme,No,0,CLA575611920,Emanuele,Messina
+1839,CAS89288,2011-01-28,Campania,Caserta,No,0,CPA750222091,Elena,Marini
+1840,CRO68431,2016-08-27,Calabria,Crotone,No,0,CLA322673094,Silvio,Gallo
+1841,LAM32111,2014-02-28,Calabria,Lamezia Terme,Yes,9,CLA874144481,Aurora,Negri
+1842,AVE19099,2011-12-25,Campania,Avellino,No,0,CPA879611777,Federico,Parisi
+1843,TAR92375,2003-04-08,Puglia,Taranto,No,0,PGA894223368,Antonella,Bruno
+1844,AVE91484,2014-10-31,Campania,Avellino,Yes,11,CPA897304273,Raffaella,Bianco
+1845,AVE72240,2013-08-30,Campania,Avellino,Yes,19,CPA921278918,Mattia,Fontana
+1846,SYR71838,2002-07-09,Sicily,Syracuse,No,0,SCY135899960,Alessandro,Ferri
+1847,MES53419,2017-09-19,Sicily,Messina,Yes,15,SCY490107141,Elettra,Bianco
+1848,REN65334,2015-02-24,Calabria,Rende,No,0,CLA426846311,Cristian,Rossi
+1849,CAS81004,2008-10-07,Campania,Caserta,No,0,CPA632291122,Emilia,Palumbo
+1850,NAP57329,2006-08-10,Campania,Naples,Yes,8,CPA870026202,Ludovica,Moretti
+1851,RAG80229,2010-04-23,Sicily,Ragusa,No,0,SCY733104715,Francesca,Bruno
+1852,REG74114,2011-02-27,Calabria,Reggio Calabria,No,0,CLA765578183,Guido,Martinelli
+1853,GEL59677,2018-06-29,Sicily,Gela,Yes,9,SCY688659672,Salvo,Galli
+1854,CAS37559,2006-11-18,Calabria,Castrovillari,Yes,18,CLA754445243,Serena,Bruno
+1855,MAR62315,2003-06-24,Sicily,Marsala,No,0,SCY659110373,Gianluca,Bruno
+1856,CRO76191,2010-08-24,Calabria,Crotone,No,0,CLA703534809,Giovanni,Grasso
+1857,SYR26714,2007-06-30,Sicily,Syracuse,Yes,19,SCY717164860,Neri,Moretti
+1858,MON09249,2004-03-14,Calabria,Montalto Uffugo,No,0,CLA385608226,Biagio,Pellegrini
+1859,AVE60671,2017-04-19,Campania,Avellino,Yes,11,CPA503927209,Lavinia,Leone
+1860,MON16890,2011-01-23,Calabria,Montalto Uffugo,No,0,CLA749375885,Edoardo,Bianco
+1861,CAS13523,2018-06-30,Calabria,Castrovillari,No,0,CLA187524685,Laura,Bianchi
+1862,NAP72781,2021-02-21,Campania,Naples,Yes,19,CPA512832204,Sabina,Greco
+1863,TRA96691,2004-08-21,Sicily,Trapani,No,0,SCY866790743,Martina,Mancini
+1864,VIT79657,2009-10-16,Sicily,Vittoria,Yes,3,SCY282315874,Massimo,Bruno
+1865,COS08270,2011-11-27,Calabria,Cosenza,Yes,17,CLA934822187,Lorenzo,Riva
+1866,REN32062,2004-01-26,Calabria,Rende,No,0,CLA661744784,Augusto,Santoro
+1867,GEL78979,2007-08-15,Sicily,Gela,No,0,SCY640764743,Mirco,Rossi
+1868,ACR65774,2007-01-15,Calabria,Acri,Yes,1,CLA236216216,Maria,Bianco
+1869,MAR28061,2006-04-27,Sicily,Marsala,No,0,SCY253491233,Emanuele,De Luca
+1870,MON58978,2009-01-13,Calabria,Montalto Uffugo,No,0,CLA948629041,Pasquale,Marino
+1871,SAL58799,2004-11-05,Campania,Salerno,No,0,CPA984858439,Sofia,Ferrari
+1872,FOG76160,2010-01-18,Puglia,Foggia,No,0,PGA104775863,Giulia,De Luca
+1873,CRO27466,2001-05-29,Calabria,Crotone,No,0,CLA222697776,Carlo,Montanari
+1874,AVE09541,2010-07-14,Campania,Avellino,Yes,18,CPA743226120,Ludovico,Greco
+1875,AVE54302,2004-10-21,Campania,Avellino,No,0,CPA92907754,Giovanna,Gatti
+1876,ACR70036,2020-06-19,Calabria,Acri,No,0,CLA478338351,Ilaria,Bruno
+1877,CAL37179,2018-04-17,Sicily,Caltanissetta,Yes,1,SCY548431747,Emilio,Bruno
+1878,RAG22205,2016-04-24,Sicily,Ragusa,No,0,SCY466250501,Rita,Greco
+1879,TRA38958,2007-03-04,Sicily,Trapani,No,0,SCY170207052,Neri,Carbone
+1880,GEL45172,2010-02-13,Sicily,Gela,No,0,SCY377129669,Sofia,Bruno
+1881,ACR96567,2012-10-06,Calabria,Acri,No,0,CLA821679993,Donatella,Pellegrini
+1882,LEC34501,2014-02-22,Puglia,Lecce,No,0,PGA98060248,Pietro,Guerra
+1883,LAM79414,2012-06-16,Calabria,Lamezia Terme,Yes,7,CLA818767578,Renato,Greco
+1884,NAP13605,2001-09-17,Campania,Naples,No,0,CPA990620988,Bianca,Villa
+1885,AND19753,2000-08-04,Puglia,Andria,Yes,16,PGA752537853,Zeno,Bellini
+1886,CAL33958,2017-04-25,Sicily,Caltanissetta,No,0,SCY550826291,Samuele,Bruno
+1887,COR92112,2014-09-09,Calabria,Corigliano-Rossano,Yes,3,CLA647895088,Ada,Greco
+1888,GEL69960,2011-10-22,Sicily,Gela,No,0,SCY109021125,Gioele,Santoro
+1889,CAS66078,2002-01-23,Campania,Caserta,No,0,CPA808490649,Bernardo,Martini
+1890,REN40986,2001-07-20,Calabria,Rende,No,0,CLA711951578,Lorenza,Silvestri
+1891,AND48882,2014-05-05,Puglia,Andria,No,0,PGA626589602,Fabio,Rossi
+1892,NAP42499,2008-01-01,Campania,Naples,Yes,18,CPA413602708,Zeno,Vitali
+1893,LEC72688,2013-09-15,Puglia,Lecce,Yes,12,PGA551665084,Martina,Amato
+1894,REN52780,2003-02-27,Calabria,Rende,Yes,7,CLA404553691,Fiorella,Bruno
+1895,BEN31950,2004-10-17,Campania,Benevento,No,0,CPA683020945,Lorenzo,Caruso
+1896,GEL67489,2021-08-26,Sicily,Gela,Yes,16,SCY367333373,Roberto,Greco
+1897,AVE00261,2013-09-27,Campania,Avellino,No,0,CPA680237548,Laura,Russo
+1898,REG07239,2007-04-12,Calabria,Reggio Calabria,No,0,CLA450099273,Livia,Testa
+1899,ACR78351,2006-08-22,Calabria,Acri,No,0,CLA133807952,Tommaso,Pellegrini
+1900,CAT00579,2013-01-08,Calabria,Catanzaro,Yes,10,CLA47585431,Biagio,Bruno
+1901,TRA84619,2003-09-28,Sicily,Trapani,No,0,SCY876647108,Emilio,Giordano
+1902,CAT71038,2019-05-30,Sicily,Catania,No,0,SCY742109321,Ezio,Milani
+1903,CAT22381,2017-01-29,Calabria,Catanzaro,No,0,CLA286979312,Alma,Rinaldi
+1904,CAT41786,2019-05-07,Calabria,Catanzaro,No,0,CLA995010555,Daniele,Ferri
+1905,REG86129,2011-02-11,Calabria,Reggio Calabria,Yes,14,CLA599074308,Tullio,Bianco
+1906,VIT15937,2002-08-13,Sicily,Vittoria,No,0,SCY623027222,Alice,Neri
+1907,COR47203,2013-02-15,Calabria,Corigliano-Rossano,No,0,CLA862575434,Luisa,Donati
+1908,BEN93493,2006-12-20,Campania,Benevento,No,0,CPA989490569,Cosimo,Bruno
+1909,COR48337,2020-05-22,Calabria,Corigliano-Rossano,No,0,CLA972781673,Pietro,Vitali
+1910,SAL64049,2021-10-31,Campania,Salerno,No,0,CPA268817444,Raul,Conte
+1911,MAR51226,2013-10-18,Sicily,Marsala,Yes,11,SCY849325008,Martina,Ferrara
+1912,MAR32889,2014-01-27,Sicily,Marsala,No,0,SCY427022112,Alice,Russo
+1913,VIT03037,2015-05-05,Sicily,Vittoria,Yes,8,SCY736567415,Gaia,Caruso
+1914,SAL72484,2011-03-06,Campania,Salerno,No,0,CPA34339345,Laura,Rossetti
+1915,CRO59758,2005-03-12,Calabria,Crotone,No,0,CLA692971752,Noemi,Santoro
+1916,MAR45105,2006-08-13,Sicily,Marsala,No,0,SCY253341047,Susanna,Giordano
+1917,BEN93062,2011-01-08,Campania,Benevento,Yes,12,CPA940007413,Francesco,Caputo
+1918,GEL98436,2001-07-18,Sicily,Gela,No,0,SCY746914116,Marzia,Villa
+1919,SAL81278,2018-11-10,Campania,Salerno,No,0,CPA875345563,Stella,Parisi
+1920,AVE35380,2016-12-25,Campania,Avellino,No,0,CPA432673611,Silvia,Bruno
+1921,BEN63724,2004-11-08,Campania,Benevento,No,0,CPA758199028,Dafne,Bianco
+1922,MES46299,2022-03-20,Sicily,Messina,Yes,7,SCY6060928,Gaia,Bianco
+1923,SAL36748,2019-05-19,Campania,Salerno,Yes,10,CPA334548878,Nives,Bruno
+1924,AND06266,2006-04-28,Puglia,Andria,Yes,3,PGA925850480,Greta,Rossetti
+1925,LAM63342,2005-04-10,Calabria,Lamezia Terme,No,0,CLA927865484,Elettra,Bruno
+1926,SAL37247,2020-08-19,Campania,Salerno,No,0,CPA937396754,Costanza,Santoro
+1927,AND91945,2012-05-08,Puglia,Andria,No,0,PGA713249095,Davide,Bruno
+1928,TRA31213,2013-10-19,Sicily,Trapani,No,0,SCY692156925,Ilaria,Santoro
+1929,PAL30697,2000-04-11,Sicily,Palermo,No,0,SCY486279716,Samuele,Gallo
+1930,SAL77604,2005-07-11,Campania,Salerno,No,0,CPA785293782,Cosimo,Santoro
+1931,LEC03394,2003-11-10,Puglia,Lecce,No,0,PGA379480639,Sara,Bruno
+1932,AVE74363,2004-09-15,Campania,Avellino,Yes,14,CPA304047591,Ilaria,Vitale
+1933,CAS69819,2011-10-16,Campania,Caserta,No,0,CPA544152991,Gabriele,Rossi
+1934,CAL46811,2018-01-24,Sicily,Caltanissetta,No,0,SCY290200180,Zeno,Amato
+1935,MON86086,2017-04-14,Calabria,Montalto Uffugo,Yes,18,CLA727407369,Umberto,Bianco
+1936,RAG66327,2018-01-14,Sicily,Ragusa,No,0,SCY840312795,Valeria,Russo
+1937,CAS76795,2000-01-07,Campania,Caserta,Yes,6,CPA991954539,Dario,Ferrara
+1938,BEN35760,2008-03-24,Campania,Benevento,Yes,8,CPA753860924,Carlotta,Rinaldi
+1939,CAL01655,2005-06-16,Sicily,Caltanissetta,Yes,6,SCY865644765,Cristina,Bruno
+1940,RAG81088,2007-04-20,Sicily,Ragusa,No,0,SCY574915741,Stefania,Santoro
+1941,AVE91031,2009-06-30,Campania,Avellino,Yes,2,CPA245538407,Simona,Marini
+1942,REG79466,2000-05-04,Calabria,Reggio Calabria,Yes,15,CLA474420888,Camillo,Bianchi
+1943,CAT86402,2016-07-19,Sicily,Catania,No,0,SCY74287066,Maria,Lombardo
+1944,COS94249,2015-01-22,Calabria,Cosenza,Yes,2,CLA761679695,Pietro,Fontana
+1945,GEL13669,2015-11-07,Sicily,Gela,No,0,SCY368509610,Zeno,Bruno
+1946,GEL96440,2009-04-06,Sicily,Gela,No,0,SCY831002051,Massimiliano,Rizzi
+1947,GEL41192,2014-03-23,Sicily,Gela,Yes,18,SCY237936774,Salvatore,Greco
+1948,FOG99455,2015-05-28,Puglia,Foggia,No,0,PGA900926592,Giovanni,Bruno
+1949,NAP03579,2021-03-02,Campania,Naples,Yes,13,CPA411383943,Serena,Piras
+1950,CAS61486,2017-04-05,Campania,Caserta,Yes,11,CPA971770302,Saverio,Damico
+1951,NAP07532,2008-01-13,Campania,Naples,No,0,CPA106747322,Niccolo,Montanari
+1952,AVE48316,2000-12-10,Campania,Avellino,No,0,CPA583831023,Roberto,Valentini
+1953,BAR98299,2004-10-15,Puglia,Bari,Yes,8,PGA554913955,Barbara,Ferrari
+1954,REN60467,2011-03-06,Calabria,Rende,No,0,CLA787007967,Emanuele,Bianco
+1955,BEN63676,2013-09-28,Campania,Benevento,Yes,18,CPA222485391,Vito,Rizzo
+1956,AVE44709,2001-02-14,Campania,Avellino,No,0,CPA818438940,Carlotta,Bruno
+1957,AVE31425,2001-01-15,Campania,Avellino,Yes,13,CPA445338261,Donatella,Bruno
+1958,MON65022,2008-05-28,Calabria,Montalto Uffugo,No,0,CLA623584440,Felice,Rizzi
+1959,REG81152,2016-03-18,Calabria,Reggio Calabria,Yes,10,CLA939995374,Federica,Bianco
+1960,BEN92181,2006-06-17,Campania,Benevento,No,0,CPA621645726,Elena,Greco
+1961,COR97903,2001-02-16,Calabria,Corigliano-Rossano,No,0,CLA143819964,Paola,Longo
+1962,RAG96421,2016-06-10,Sicily,Ragusa,No,0,SCY643328550,Irene,Mariani
+1963,CRO76091,2020-05-31,Calabria,Crotone,No,0,CLA994871152,Viola,Pellegrini
+1964,PAL81500,2021-11-24,Sicily,Palermo,Yes,4,SCY902016412,Domenico,Bruno
+1965,PAL20770,2009-11-14,Sicily,Palermo,Yes,11,SCY792878809,Carlotta,Mancini
+1966,CAS85027,2010-10-21,Campania,Caserta,Yes,19,CPA987432648,Adriano,Bruno
+1967,AVE93390,2005-06-23,Campania,Avellino,Yes,2,CPA79480349,Zeno,Pagano
+1968,TAR30501,2007-09-01,Puglia,Taranto,No,0,PGA163342437,Patrizio,Greco
+1969,CAS62592,2019-10-17,Calabria,Castrovillari,No,0,CLA605727137,Lapo,Russo
+1970,NAP77602,2010-08-04,Campania,Naples,Yes,12,CPA193851045,Antonello,Rinaldi
+1971,CAT45574,2001-03-28,Sicily,Catania,Yes,3,SCY445251990,Miriam,Benedetti
+1972,TRA17694,2004-08-08,Sicily,Trapani,No,0,SCY437592428,Costanza,Amato
+1973,CAS10866,2006-01-17,Campania,Caserta,No,0,CPA658314448,Carlo,Gallo
+1974,CAS50183,2016-03-25,Campania,Caserta,Yes,6,CPA812405054,Giuliano,Conti
+1975,CAS74161,2017-12-01,Campania,Caserta,No,0,CPA451234982,Aldo,Bianco
+1976,AVE36986,2018-05-17,Campania,Avellino,No,0,CPA611234377,Cecilia,Galli
+1977,PAL65525,2009-10-27,Sicily,Palermo,No,0,SCY631823008,Sergio,Greco
+1978,MON97340,2009-04-10,Calabria,Montalto Uffugo,No,0,CLA346370840,Costanza,Bianco
+1979,NAP46103,2011-05-10,Campania,Naples,No,0,CPA910723766,Antonella,Guerra
+1980,SAL50077,2012-01-22,Campania,Salerno,No,0,CPA833108718,Erica,Bruno
+1981,BAR10888,2010-10-30,Puglia,Bari,Yes,13,PGA12152161,Miriam,Romano
+1982,NAP19049,2018-03-07,Campania,Naples,No,0,CPA753603650,Valentino,Rossi
+1983,LEC89110,2010-12-07,Puglia,Lecce,Yes,18,PGA510623676,Ezio,Bernardi
+1984,AND07190,2009-03-11,Puglia,Andria,No,0,PGA848483438,Benedetta,Santoro
+1985,VIB23588,2004-01-26,Calabria,Vibo Valentia,No,0,CLA788432545,Mattia,Barbieri
+1986,NAP76481,2017-01-26,Campania,Naples,Yes,6,CPA533513643,Stella,Ferraro
+1987,CAS95377,2021-08-31,Campania,Caserta,No,0,CPA292905145,Alice,Marino
+1988,MAR57061,2012-02-21,Sicily,Marsala,No,0,SCY114897920,Andrea,Ferrari
+1989,VIT25114,2005-01-24,Sicily,Vittoria,No,0,SCY558676976,Vincenzo,Monti
+1990,VIB09872,2004-08-01,Calabria,Vibo Valentia,Yes,8,CLA355814670,Vittorio,Rinaldi
+1991,GEL95731,2011-10-09,Sicily,Gela,No,0,SCY420854140,Lorenzo,Bianco
+1992,REG05239,2010-12-31,Calabria,Reggio Calabria,No,0,CLA617953859,Elisa,Santoro
+1993,GEL82789,2000-04-02,Sicily,Gela,Yes,1,SCY972860971,Fulvio,Rinaldi
+1994,MON93674,2014-12-31,Calabria,Montalto Uffugo,No,0,CLA746233167,Carlo,Bruno
+1995,CAS52076,2001-07-06,Campania,Caserta,Yes,16,CPA11618117,Cecilia,Bellini
+1996,PAL73155,2001-06-26,Sicily,Palermo,No,0,SCY95815037,Benedetta,Greco
+1997,BEN66436,2003-09-25,Campania,Benevento,No,0,CPA99392026,Cosimo,Santoro
+1998,FOG22449,2006-07-21,Puglia,Foggia,No,0,PGA278357337,Aurora,De Luca
+1999,PAL47064,2011-09-06,Sicily,Palermo,Yes,6,SCY421802688,Michele,Greco
